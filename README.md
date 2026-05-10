@@ -1,6 +1,6 @@
 # Wiki Gabilondo
 
-Historia de la familia Gabilondo de Valladolid, desde Leto Gabilondo (concejal, siglo XIX) hasta el presente.
+Historia de la familia Gabilondo de Valladolid, desde Agustín Gabilondo (Industrial vasco, Elorrio, 1856 llegó con su mujer Isidora, y Hermanos Acisclo y Gabriel a Valladolid) hasta el presente.
 
 🌐 **[jayrod12.github.io/gabi_wiki](https://jayrod12.github.io/gabi_wiki/)**
 
