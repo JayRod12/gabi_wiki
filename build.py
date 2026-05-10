@@ -9,6 +9,7 @@ from pathlib import Path
 WIKI_DIR = Path("wiki")
 DOCS_DIR = Path("docs")
 
+
 # Pages always shown first/last in sidebar regardless of alpha sort
 PINNED_FIRST = ["index"]
 PINNED_LAST = ["log"]
