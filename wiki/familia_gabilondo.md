@@ -5,15 +5,18 @@ Visión general de la familia Gabilondo de Valladolid, desde los miembros más a
 ## Árbol genealógico
 
 ```
+Agustín ─── Isidora
+      │
 Leto Gabilondo ─── Elvira Gabilondo
-        │
-        │  (generación intermedia por documentar)
-        │
-    Carmen Gabilondo
-        │
-   César Rodríguez Gabilondo
-        │
-   Jaime Rodríguez Sánchez Gabilondo Alles
+              │
+   César Gabilondo ─── Carmen Santander
+                  │
+           Carmen Gabilondo
+                  │
+       César Rodríguez Gabilondo
+                  │
+      ┌───────────┼───────────┐
+    Pablo        Jaime      David
 ```
 
 ## Miembros documentados
@@ -24,14 +27,20 @@ Figura más antigua documentada de la familia. Concejal del Ayuntamiento de Vall
 ### Elvira Gabilondo
 Esposa de Leto. Información pendiente de documentar. → Ver [página](elvira_gabilondo.md).
 
+### César Gabilondo
+Hijo de Leto y Elvira. Padre de Carmen Gabilondo. Casado con Carmen Santander. → Ver [página](cesar_gabilondo.md).
+
+### Carmen Santander
+Esposa de César Gabilondo. Madre de Carmen Gabilondo. Información pendiente de documentar.
+
 ### Carmen Gabilondo
-Nieta de Leto y Elvira. Abuela de Jaime. Impulsora de la investigación sobre la historia familiar. → Ver [página](carmen_gabilondo.md).
+Nieta de Leto y Elvira; hija de César Gabilondo y Carmen Santander. Impulsora de la investigación sobre la historia familiar. → Ver [página](carmen_gabilondo.md).
 
 ### César Rodríguez Gabilondo
-Hijo de Carmen. Editor de esta wiki. → Ver [página](cesar_rodriguez_gabilondo.md).
+Hijo de Carmen. Nieto de César Gabilondo y Carmen Santander. Biznieto de Leto y Elvira. Editor de esta wiki. → Ver [página](cesar_rodriguez_gabilondo.md).
 
-### Jaime Rodríguez Sánchez Gabilondo Alles
-Bisnieto de Carmen. Responsable técnico de esta wiki.
+### Pablo, Jaime y David Rodríguez Gabilondo
+Hijos de César Rodríguez Gabilondo. Jaime (Jaime Rodríguez Sánchez Gabilondo Alles) es el responsable técnico de esta wiki.
 
 ## Conexión con Valladolid
 
@@ -39,7 +48,8 @@ La familia Gabilondo tiene raíces profundas en Valladolid. Los [Talleres Gabilo
 
 ## Lagunas conocidas
 
-- Generación entre Leto/Elvira y Carmen (padres de Carmen): sin documentar
+- Agustín e Isidora: se desconoce si son padres de Leto o de Elvira, y cualquier dato biográfico
+- Datos biográficos de César Gabilondo y Carmen Santander
 - Fecha de nacimiento y muerte de Leto: por determinar
 - Fecha de nacimiento y muerte de Elvira: por determinar
-- Rama familiar completa de los Gabilondo anterior a Leto: desconocida
+- Posibles hermanos de Leto o de César Gabilondo: sin documentar

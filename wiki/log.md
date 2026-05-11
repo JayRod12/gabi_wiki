@@ -12,6 +12,14 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 
 ---
 
+## [2026-05-11] ingest | genalogia.md
+
+**Fuente:** `raw/genalogia.md`
+**Resumen:** Documento de genealogía que completa la cadena generacional de César Rodríguez Gabilondo. Documenta por primera vez la generación intermedia (César Gabilondo y Carmen Santander, hijos de Leto y padres de Carmen) y añade una generación anterior (Agustín e Isidora, tataranietos de César Rodríguez). También confirma que César Rodríguez tiene tres hijos: Pablo, Jaime y David.
+**Páginas creadas/actualizadas:** familia_gabilondo, cesar_rodriguez_gabilondo, index, cesar_gabilondo (nueva)
+
+---
+
 ## [2026-05-10] ingest | calle_gabilondo.md
 
 **Fuente:** `raw/calle_gabilondo.md`

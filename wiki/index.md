@@ -12,7 +12,8 @@ La wiki es mantenida por Jaime Rodríguez Sánchez Gabilondo Alles, con César R
 |---|---|
 | [Leto Gabilondo](leto_gabilondo.md) | Concejal de Valladolid, fundador de Talleres Gabilondo; figura central de la historia familiar |
 | [Elvira Gabilondo](elvira_gabilondo.md) | Esposa de Leto |
-| [Carmen Gabilondo](carmen_gabilondo.md) | Nieta de Leto; impulsora de esta investigación |
+| [César Gabilondo](cesar_gabilondo.md) | Hijo de Leto y Elvira; padre de Carmen Gabilondo |
+| [Carmen Gabilondo](carmen_gabilondo.md) | Nieta de Leto; hija de César Gabilondo; impulsora de esta investigación |
 | [César Rodríguez Gabilondo](cesar_rodriguez_gabilondo.md) | Hijo de Carmen; editor de la wiki |
 
 ## Lugares y negocios
