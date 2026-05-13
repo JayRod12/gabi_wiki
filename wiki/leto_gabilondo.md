@@ -1,6 +1,6 @@
 # Leto Gabilondo
 
-Leto Gabilondo fue concejal del Ayuntamiento de Valladolid y figura destacada del barrio de San Ildefonso a finales del siglo XIX. Es el miembro más antiguo documentado de la [familia Gabilondo](familia_gabilondo.md) y marido de [Elvira Gabilondo](elvira_gabilondo.md). Su nieta es [Carmen Gabilondo](carmen_gabilondo.md).
+Leto Gabilondo (1860–1897) fue concejal del Ayuntamiento de Valladolid y figura destacada del barrio de San Ildefonso a finales del siglo XIX. Hijo de [Agustín Gabilondo Azcárate](agustin_gabilondo.md) e Isidora Gangutia, marido de [Elvira Manso](elvira_gabilondo.md) y abuelo de [Carmen Gabilondo](carmen_gabilondo.md).
 
 ## Vida pública
 
@@ -16,16 +16,22 @@ Leto era propietario o miembro principal de los [Talleres Gabilondo](talleres_ga
 
 Como reconocimiento a su labor como concejal y a la presencia de su familia en el barrio, el Ayuntamiento de Valladolid dio el nombre "Gabilondo" a una vía pública de la ciudad. La calle nace del paseo del Hospital Militar y llega hasta la calle de Domingo Martínez, conectando con la avenida de Irún. → Ver [Calle de Gabilondo](calle_gabilondo.md).
 
+## Formación y visión industrial
+
+Leto fue formado por sus padres para dirigir la empresa familiar, adquiriendo conocimientos de forja, soldadura, fundición, aleaciones, contabilidad, emprendimiento y dirección. En 1889 asistió a la **Exposición Universal de París**, donde quedó profundamente impresionado por la **Torre Eiffel** y la **Galería de las Máquinas**. Esta experiencia marcó su visión sobre el potencial de la industria del hierro.
+
+## Muerte
+
+Leto murió repentinamente en **1897**, dejando a su esposa [Elvira Manso](elvira_gabilondo.md) con aproximadamente 35 años y cinco hijos a su cargo. Elvira asumió la dirección de los talleres y continuó el legado familiar durante décadas.
+
 ## Fuentes
 
 - *Las calles de Valladolid*, Juan Agapito y Revilla, 1937, p. 193.
 - Documento interno: `raw/calle_gabilondo.md`
 - Documento interno: `raw/familia_gabilondo.md`
+- Documento interno: `raw/genalogia.md`
 
 ## Por documentar
 
-- Fecha de nacimiento y fallecimiento
 - Cargo exacto y período como concejal
-- Historia completa de los Talleres Gabilondo
-- Nombre completo de Elvira y datos biográficos
-- Descendencia directa hasta Carmen
+- Posibles hermanos de Leto

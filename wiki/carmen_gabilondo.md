@@ -1,6 +1,6 @@
-# Carmen Gabilondo
+# Carmen Gabilondo Santander
 
-Carmen Gabilondo es nieta de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Gabilondo](elvira_gabilondo.md), madre de [César Rodríguez Gabilondo](cesar_rodriguez_gabilondo.md), y abuela de Jaime Rodríguez Sánchez Gabilondo Alles.
+Carmen Gabilondo Santander (1938) es nieta de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Manso](elvira_gabilondo.md), hija de [César Gabilondo Manso](cesar_gabilondo.md) y Carmen Santander Garzo, y madre de [César Rodríguez Gabilondo](cesar_rodriguez_gabilondo.md). Casada con José Rodríguez García (1938).
 
 Es la impulsora principal de la investigación sobre la historia de la familia Gabilondo en Valladolid, y uno de los motivos por los que existe esta wiki.
 
@@ -14,6 +14,5 @@ Carmen está interesada en investigar y documentar la historia de su familia. Su
 
 ## Por documentar
 
-- Fecha de nacimiento
-- Datos biográficos
-- Generación intermedia entre Leto/Elvira y Carmen (sus padres)
+- Datos biográficos adicionales
+- Información sobre José Rodríguez García

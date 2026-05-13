@@ -5,42 +5,56 @@ Visión general de la familia Gabilondo de Valladolid, desde los miembros más a
 ## Árbol genealógico
 
 ```
-Agustín ─── Isidora
-      │
-Leto Gabilondo ─── Elvira Gabilondo
-              │
-   César Gabilondo ─── Carmen Santander
-                  │
-           Carmen Gabilondo
-                  │
-       César Rodríguez Gabilondo
-                  │
-      ┌───────────┼───────────┐
-    Pablo        Jaime      David
+Agustín Gabilondo Azcárate ─── Isidora Gangutia
+            (Elorrio → Valladolid, h. 1855)
+                       │
+  Leto Gabilondo (1860–1897) ─── Elvira Manso ( –19??)
+                                │
+          César Gabilondo Manso (1896–) ─── Carmen Santander Garzo
+                                          │
+                    Carmen Gabilondo Santander (1938) ─── José Rodríguez García (1938)
+                                                        │
+                          César Rodríguez Gabilondo (1964) ─── Olga Sánchez Allés (1969)
+                                                              │
+                                         ┌──────────┬─────────┬────────────┐
+                                       Pablo      Jaime     David      Carolina
+                                       (1993)     (1995)    (1998)   (acogida 2014)
 ```
 
 ## Miembros documentados
 
-### Leto Gabilondo
-Figura más antigua documentada de la familia. Concejal del Ayuntamiento de Valladolid a finales del siglo XIX. Propietario de los [Talleres Gabilondo](talleres_gabilondo.md), una fundición en el barrio de San Ildefonso. La [Calle de Gabilondo](calle_gabilondo.md) en Valladolid lleva su nombre. → Ver [página completa](leto_gabilondo.md).
+### Agustín Gabilondo Azcárate
+Fundador de la rama vallisoletana de la familia. Llegó desde Elorrio (Provincias Vascongadas) junto con sus hermanos Acisclo, Gabriel y María para establecerse en Valladolid tras la Ley del Ferrocarril del Norte (1855). → Ver [página](agustin_gabilondo.md).
 
-### Elvira Gabilondo
-Esposa de Leto. Información pendiente de documentar. → Ver [página](elvira_gabilondo.md).
+### Isidora Gangutia
+Esposa de Agustín Gabilondo Azcárate. Información pendiente de documentar.
 
-### César Gabilondo
-Hijo de Leto y Elvira. Padre de Carmen Gabilondo. Casado con Carmen Santander. → Ver [página](cesar_gabilondo.md).
+### Leto Gabilondo (1860–1897)
+Hijo de Agustín e Isidora. Concejal del Ayuntamiento de Valladolid. Propietario de los [Talleres Gabilondo](talleres_gabilondo.md). Murió repentinamente en 1897. La [Calle de Gabilondo](calle_gabilondo.md) lleva su nombre. → Ver [página completa](leto_gabilondo.md).
 
-### Carmen Santander
-Esposa de César Gabilondo. Madre de Carmen Gabilondo. Información pendiente de documentar.
+### Elvira Manso (–19??)
+Esposa de Leto. A su muerte asumió la dirección de los Talleres Gabilondo con cinco hijos a su cargo, duplicando la plantilla en ocho años. → Ver [página](elvira_gabilondo.md).
 
-### Carmen Gabilondo
-Nieta de Leto y Elvira; hija de César Gabilondo y Carmen Santander. Impulsora de la investigación sobre la historia familiar. → Ver [página](carmen_gabilondo.md).
+### César Gabilondo Manso (1896–)
+Hijo de Leto y Elvira. Casado con Carmen Santander Garzo. → Ver [página](cesar_gabilondo.md).
 
-### César Rodríguez Gabilondo
-Hijo de Carmen. Nieto de César Gabilondo y Carmen Santander. Biznieto de Leto y Elvira. Editor de esta wiki. → Ver [página](cesar_rodriguez_gabilondo.md).
+### Carmen Santander Garzo
+Esposa de César Gabilondo Manso. Madre de Carmen Gabilondo Santander. Información pendiente de documentar.
 
-### Pablo, Jaime y David Rodríguez Gabilondo
-Hijos de César Rodríguez Gabilondo. Jaime (Jaime Rodríguez Sánchez Gabilondo Alles) es el responsable técnico de esta wiki.
+### Carmen Gabilondo Santander (1938)
+Nieta de Leto y Elvira; hija de César Gabilondo Manso y Carmen Santander Garzo. Casada con José Rodríguez García (1938). Impulsora de la investigación sobre la historia familiar. → Ver [página](carmen_gabilondo.md).
+
+### José Rodríguez García (1938)
+Esposo de Carmen Gabilondo Santander. Información pendiente de documentar.
+
+### César Rodríguez Gabilondo (1964)
+Hijo de Carmen y José. Casado con Olga Sánchez Allés (1969). Editor de esta wiki. → Ver [página](cesar_rodriguez_gabilondo.md).
+
+### Pablo (1993), Jaime (1995) y David (1998) Rodríguez Gabilondo
+Hijos de César Rodríguez Gabilondo y Olga Sánchez Allés. Jaime (Jaime Rodríguez Sánchez Gabilondo Alles) es el responsable técnico de esta wiki.
+
+### Carolina Alles Sánchez (2014)
+Hija de acogida de César y Olga desde 2010.
 
 ## Conexión con Valladolid
 
@@ -48,8 +62,8 @@ La familia Gabilondo tiene raíces profundas en Valladolid. Los [Talleres Gabilo
 
 ## Lagunas conocidas
 
-- Agustín e Isidora: se desconoce si son padres de Leto o de Elvira, y cualquier dato biográfico
-- Datos biográficos de César Gabilondo y Carmen Santander
-- Fecha de nacimiento y muerte de Leto: por determinar
-- Fecha de nacimiento y muerte de Elvira: por determinar
-- Posibles hermanos de Leto o de César Gabilondo: sin documentar
+- Fecha de fallecimiento de Elvira Manso (se sabe que sobrevivió hasta al menos 1946)
+- Datos biográficos de César Gabilondo Manso y Carmen Santander Garzo
+- Datos biográficos de José Rodríguez García
+- Posibles hermanos de Leto Gabilondo
+- Fecha de nacimiento y fallecimiento de Carmen Gabilondo Santander

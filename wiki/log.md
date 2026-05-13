@@ -12,6 +12,14 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 
 ---
 
+## [2026-05-12] ingest | genalogia.md + familia_gabilondo.md (actualización)
+
+**Fuentes:** `raw/genalogia.md`, `raw/familia_gabilondo.md`
+**Resumen:** Actualización genealógica mayor. Se añaden nombres completos y fechas para todos los miembros (Agustín Gabilondo Azcárate e Isidora Gangutia, Leto 1860–1897, Elvira Manso, César Gabilondo Manso 1896–, Carmen Gabilondo Santander 1938, César Rodríguez Gabilondo 1964, Olga Sánchez Allés 1969). Se documenta el origen vasco de la familia (Elorrio, h. 1855), la formación de Leto y su visita a París en 1889, el liderazgo de Elvira tras la muerte de Leto (Sociedad Anónima, duplicación de plantilla, Manuel Amoateguí), y el destino final de los Talleres (Beloit 1964, Enertec 2006). Se añaden los hijos de César: Pablo (1993), Jaime (1995), David (1998) y Carolina Alles Sánchez (acogida, 2014).
+**Páginas creadas/actualizadas:** familia_gabilondo, elvira_gabilondo, leto_gabilondo, carmen_gabilondo, cesar_gabilondo, cesar_rodriguez_gabilondo, talleres_gabilondo, index, agustin_gabilondo (nueva)
+
+---
+
 ## [2026-05-11] ingest | genalogia.md
 
 **Fuente:** `raw/genalogia.md`

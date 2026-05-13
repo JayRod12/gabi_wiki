@@ -1,9 +1,12 @@
 
-Esta wiki pretende juntar informacion que se ha ido recavando sobre la historia de la familia Gabilondo en Valladolid, desde Leto y Elvira Gabilondo hasta el presente.
+Esta wiki pretende juntar informacion que se ha ido recavando sobre la historia de la familia Gabilondo en Valladolid, desde Agustín Gabilondo Azcárate e Isidora Gangutia, quienes con los hermanos de Agustín (Acisclo, Gabriel y María) dejaron Elorrio en las Provincias Vascongadas para aprovecharse de las oportunidades que se presentaban en Valladolid tras la promulgación de la Ley del Ferrocarril del Norte de 1955 por Isabel II. Su hijo Leto Gabilondo hasta su repentina muerte en 1897 y su mujer Elvira Manso sola hasta el año 1905 y después en el consejo de Talleres de Fundición Gabilondo hasta 1946 continuaron la empresa hasta que en 1964 la comprara el fabricante de máquinas de papel Beloit. Tras muchos vaivenes, la heredera Enertec acabaría cerrando en 2006.
 
 Jaime Rodriguez Sanchez *Gabilondo* Alles <- repo owner
-Cesar Rodriguez Gabilondo <- el editor
-Carmen Gabilondo <- madre de cesar, mi abuela; interesada en investigar y documentar la historia de su familia
+Pablo, Jaime y David son los nietos, hijos de Cesar
+Cesar Rodriguez Gabilondo <- coautor y editor
+Carmen Gabilondo Santánder <- madre de César, mi abuela; coautora interesada en investigar y documentar la historia de su familia
+Leto Gabilondo <- persona de estudio de esta wikipedia, abuelo de Carmen, marido de Elvira. Leto fue formado por sus padres para dirigir la empresa, aprendería forja, soldadura, fundición, aleaciones, contabilidad, emprendimiento y dirección. Leto quedó impactado por la Torre Eifel y la Galería de las Máquinas en la Exposición Universal de París en 1889.
 
-Leto Gabilondo <- persona de estudio de esta wikipedia, abuelo de Carmen, marido de Elvira
-
+Elvira Manso <- fue, probablemente, la gran desconocida de la saga Gabilondo. A la muerte de Leto Gabilondo, siendo aún una madre muy joven —con apenas unos 35 años y cinco hijos— asumió la dirección de una empresa para la que no había recibido formación empresarial alguna y en una época en la que las mujeres ni siquiera tenían derecho al voto ni plena autonomía jurídica o bancaria.
+Pese al desprecio de parte de su entorno familiar, que reducía injustamente sus méritos afirmando que “solo hacía lo que le decía su confesor”, y pese a maniobras que la perjudicaron —como la entrada de Manuel Amoateguí, quien llegó a controlar el 20 % del capital mientras Elvira conservaba únicamente el 16 %—, Elvira logró proteger el legado industrial de los Gabilondo en Valladolid con una habilidad extraordinaria.
+Bajo su presidencia, la empresa duplicó su plantilla en apenas ocho años, se transformó en Sociedad Anónima y sentó las bases para que aquel proyecto industrial sobreviviera durante un siglo más. Su papel fue decisivo y la historia de Valladolid debería reconocer mucho más la dimensión de su liderazgo, su inteligencia práctica y su capacidad de resistencia en un mundo empresarial dominado casi exclusivamente por hombres.

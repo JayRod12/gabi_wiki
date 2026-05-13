@@ -1,6 +1,6 @@
-# César Gabilondo
+# César Gabilondo Manso
 
-César Gabilondo es hijo de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Gabilondo](elvira_gabilondo.md). Casado con Carmen Santander, con quien tuvo a [Carmen Gabilondo](carmen_gabilondo.md).
+César Gabilondo Manso (1896–) es hijo de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Manso](elvira_gabilondo.md). Casado con Carmen Santander Garzo, con quien tuvo a [Carmen Gabilondo Santander](carmen_gabilondo.md).
 
 ## Lugar en el árbol familiar
 
@@ -8,6 +8,7 @@ César Gabilondo es hijo de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Gabilo
 
 ## Por documentar
 
-- Datos biográficos (nacimiento, fallecimiento, profesión)
-- Información sobre Carmen Santander
+- Fecha de fallecimiento
+- Datos biográficos (profesión, lugar de residencia)
+- Información sobre Carmen Santander Garzo
 - Posibles hermanos
