@@ -14,7 +14,7 @@ Los Talleres Gabilondo representan la presencia económica de la familia en Vall
 
 ## Evolución tras la muerte de Leto
 
-A la muerte de Leto en 1897, [Elvira Manso](elvira_gabilondo.md) asumió la dirección de la empresa. Bajo su gestión la empresa se transformó en **Sociedad Anónima** y duplicó su plantilla en ocho años. Elvira permaneció en el consejo de administración hasta **1946**.
+A la muerte de Leto en 1897, [Elvira Manso](elvira_manso.md) asumió la dirección de la empresa. Bajo su gestión la empresa se transformó en **Sociedad Anónima** y duplicó su plantilla en ocho años. Elvira permaneció en el consejo de administración hasta **1946**.
 
 En **1964** la empresa fue comprada por **Beloit**, fabricante estadounidense de maquinaria para papel. Su heredera, **Enertec**, acabó cerrando definitivamente en **2006**, poniendo fin a un siglo de historia industrial de la familia Gabilondo en Valladolid.
 

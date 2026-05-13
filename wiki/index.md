@@ -12,7 +12,7 @@ La wiki es mantenida por Jaime Rodríguez Sánchez Gabilondo Alles, con César R
 |---|---|
 | [Agustín Gabilondo Azcárate](agustin_gabilondo.md) | Fundador de la rama vallisoletana; llegó desde Elorrio h. 1855 |
 | [Leto Gabilondo](leto_gabilondo.md) | Concejal de Valladolid (1860–1897), fundador de los Talleres Gabilondo |
-| [Elvira Manso](elvira_gabilondo.md) | Esposa de Leto; dirigió los Talleres tras su muerte durante décadas |
+| [Elvira Manso](elvira_manso.md) | Esposa de Leto; dirigió los Talleres tras su muerte durante décadas |
 | [César Gabilondo Manso](cesar_gabilondo.md) | Hijo de Leto y Elvira (1896–); padre de Carmen Gabilondo |
 | [Carmen Gabilondo Santander](carmen_gabilondo.md) | Nieta de Leto; impulsora de esta investigación |
 | [César Rodríguez Gabilondo](cesar_rodriguez_gabilondo.md) | Hijo de Carmen (1964); editor de la wiki |

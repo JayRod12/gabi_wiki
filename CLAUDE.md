@@ -23,7 +23,7 @@ All wiki pages are written in **Spanish**. Source files in `raw/` may be in any 
 | `wiki/log.md` | Append-only chronological log of ingests and operations |
 | `wiki/familia_gabilondo.md` | Family tree and overview |
 | `wiki/leto_gabilondo.md` | Article on Leto Gabilondo |
-| `wiki/elvira_gabilondo.md` | Article on Elvira Gabilondo |
+| `wiki/elvira_manso.md` | Article on Elvira Manso |
 | `wiki/carmen_gabilondo.md` | Article on Carmen Gabilondo |
 | `wiki/cesar_rodriguez_gabilondo.md` | Article on César Rodríguez Gabilondo |
 | `wiki/calle_gabilondo.md` | Article on Calle de Gabilondo |

@@ -1,6 +1,6 @@
 # Leto Gabilondo
 
-Leto Gabilondo (1860–1897) fue concejal del Ayuntamiento de Valladolid y figura destacada del barrio de San Ildefonso a finales del siglo XIX. Hijo de [Agustín Gabilondo Azcárate](agustin_gabilondo.md) e Isidora Gangutia, marido de [Elvira Manso](elvira_gabilondo.md) y abuelo de [Carmen Gabilondo](carmen_gabilondo.md).
+Leto Gabilondo (1860–1897) fue concejal del Ayuntamiento de Valladolid y figura destacada del barrio de San Ildefonso a finales del siglo XIX. Hijo de [Agustín Gabilondo Azcárate](agustin_gabilondo.md) e Isidora Gangutia, marido de [Elvira Manso](elvira_manso.md) y abuelo de [Carmen Gabilondo](carmen_gabilondo.md).
 
 ## Vida pública
 
@@ -22,7 +22,7 @@ Leto fue formado por sus padres para dirigir la empresa familiar, adquiriendo co
 
 ## Muerte
 
-Leto murió repentinamente en **1897**, dejando a su esposa [Elvira Manso](elvira_gabilondo.md) con aproximadamente 35 años y cinco hijos a su cargo. Elvira asumió la dirección de los talleres y continuó el legado familiar durante décadas.
+Leto murió repentinamente en **1897**, dejando a su esposa [Elvira Manso](elvira_manso.md) con aproximadamente 35 años y cinco hijos a su cargo. Elvira asumió la dirección de los talleres y continuó el legado familiar durante décadas.
 
 ## Fuentes
 

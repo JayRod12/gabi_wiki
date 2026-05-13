@@ -33,7 +33,7 @@ Esposa de Agustín Gabilondo Azcárate. Información pendiente de documentar.
 Hijo de Agustín e Isidora. Concejal del Ayuntamiento de Valladolid. Propietario de los [Talleres Gabilondo](talleres_gabilondo.md). Murió repentinamente en 1897. La [Calle de Gabilondo](calle_gabilondo.md) lleva su nombre. → Ver [página completa](leto_gabilondo.md).
 
 ### Elvira Manso (–19??)
-Esposa de Leto. A su muerte asumió la dirección de los Talleres Gabilondo con cinco hijos a su cargo, duplicando la plantilla en ocho años. → Ver [página](elvira_gabilondo.md).
+Esposa de Leto. A su muerte asumió la dirección de los Talleres Gabilondo con cinco hijos a su cargo, duplicando la plantilla en ocho años. → Ver [página](elvira_manso.md).
 
 ### César Gabilondo Manso (1896–)
 Hijo de Leto y Elvira. Casado con Carmen Santander Garzo. → Ver [página](cesar_gabilondo.md).

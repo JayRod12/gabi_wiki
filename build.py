@@ -108,7 +108,7 @@ NAV_LABELS = {
     "index": "Página Principal",
     "familia_gabilondo": "Árbol Familiar",
     "leto_gabilondo": "Leto Gabilondo",
-    "elvira_gabilondo": "Elvira Gabilondo",
+    "elvira_manso": "Elvira Manso",
     "carmen_gabilondo": "Carmen Gabilondo",
     "cesar_rodriguez_gabilondo": "César Rodríguez Gabilondo",
     "calle_gabilondo": "Calle de Gabilondo",

@@ -1,6 +1,6 @@
 # César Rodríguez Gabilondo
 
-César Rodríguez Gabilondo (1964) es hijo de [Carmen Gabilondo Santander](carmen_gabilondo.md) y José Rodríguez García, nieto de [César Gabilondo Manso](cesar_gabilondo.md) y Carmen Santander Garzo, biznieto de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Manso](elvira_gabilondo.md), y tataranieto de Agustín Gabilondo Azcárate e Isidora Gangutia. Es editor de esta wiki.
+César Rodríguez Gabilondo (1964) es hijo de [Carmen Gabilondo Santander](carmen_gabilondo.md) y José Rodríguez García, nieto de [César Gabilondo Manso](cesar_gabilondo.md) y Carmen Santander Garzo, biznieto de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Manso](elvira_manso.md), y tataranieto de Agustín Gabilondo Azcárate e Isidora Gangutia. Es editor de esta wiki.
 
 Casado con Olga Sánchez Allés (1969). Tienen tres hijos: Pablo (1993), Jaime (1995) y David (1998), y una hija de acogida, Carolina Alles Sánchez (2014), desde 2010.
 
