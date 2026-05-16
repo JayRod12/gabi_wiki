@@ -55,10 +55,6 @@ Roberto Rodríguez García ─── Ester García Gutiérrez
 Carmen Gabilondo Santander (Valladolid, 1938) ─── José Rodríguez García (Valladolid, 1938)
                                                   │
                         César Rodríguez Gabilondo (Valladolid, 1964) ─── Olga Sánchez Allés (Madrid, 1969)
-                                                                        │
-                                        ┌──────────┬──────────┬────────────┐
-                                      Pablo      Jaime      David      Carolina
-                                    (Köln,1993) (Vld,1995) (Vld,1998) (Vld,2014)
 ```
 
 ## Miembros documentados
@@ -128,12 +124,6 @@ Esposo de Carmen Gabilondo Santander. Hijo de Roberto Rodríguez García y Ester
 
 ### César Rodríguez Gabilondo (Valladolid, 1964)
 Hijo de Carmen y José. Casado con Olga Sánchez Allés (Madrid, 1969). Editor de esta wiki. → Ver [página](cesar_rodriguez_gabilondo.md).
-
-### Pablo (Köln, 1993), Jaime (Valladolid, 1995) y David (Valladolid, 1998) Rodríguez Sánchez
-Hijos de César Rodríguez Gabilondo y Olga Sánchez Allés. Jaime es el responsable técnico de esta wiki.
-
-### Carolina Alles Sánchez (Valladolid, 2014)
-Hija de acogida de César y Olga desde 2010.
 
 ## Conexión con Valladolid
 

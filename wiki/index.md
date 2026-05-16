@@ -2,7 +2,7 @@
 
 Bienvenido a la wiki de la familia Gabilondo de Valladolid. Este proyecto reúne la historia documentada de la familia, desde **Leto Gabilondo** — concejal del Ayuntamiento de Valladolid a finales del siglo XIX — hasta el presente.
 
-La wiki es mantenida por Jaime Rodríguez Sánchez Gabilondo Alles, con César Rodríguez Gabilondo como editor, y nació del interés de **Carmen Gabilondo** por investigar y documentar la historia de su familia.
+La wiki es mantenida con César Rodríguez Gabilondo como editor, y nació del interés de **Carmen Gabilondo** por investigar y documentar la historia de su familia.
 
 ---
 

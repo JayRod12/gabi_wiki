@@ -1,4 +1,3 @@
-Descendientes: Pablo (Köln 1993), Jaime (Valladolid 1995), David (Valladolid 1998) y Carolina Alles Sánchez (Valladolid 2014)
 César Rodríguez Gabilondo (Valladolid 1964) casado con Olga Sánchez Allés (Madrid 1969)
 Hijo de Carmen Gabilondo Santander (Valladolid 1938) y José Rodríguez García (Valladolid 1938)
 Nieto de César Gabilondo Manso (Valladolid 1896-) y de Carmen Santander Garzo (Villamañán,León 2.11.1904-) y de Roberto Rodríguez García (Viana del Bollo 29.04.1892-23.12.1981 Valladolid) y de Ester García Gutiérrez (4.10.1897 Mansilla de las Mulas 4.03.1985 Murcia)

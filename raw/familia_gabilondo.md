@@ -1,8 +1,6 @@
 
 Esta wiki pretende juntar informacion que se ha ido recavando sobre la historia de la familia Gabilondo en Valladolid, desde Agustín Gabilondo Azcárate e Isidora Gangutia, quienes con los hermanos de Agustín (Acisclo, Gabriel y María) en 1856 dejaron Elorrio en las Provincias Vascongadas para aprovecharse de las oportunidades que se presentaban en Valladolid tras la promulgación de la Ley del Ferrocarril del Norte de 1855 por Isabel II. Su hijo Leto Gabilondo hasta su repentina muerte en 1897 y su mujer Elvira Manso sola hasta el año 1905 y después en el consejo de Talleres de Fundición Gabilondo hasta 1942 continuaron la empresa hasta que en 1964 la comprara el fabricante de máquinas de papel Beloit de Estados Unidos. Tras varios  vaivenes, la heredera Enertec acabaría cerrando en 2006 tras vender los talleres de la Carretera Madrid a la constructora DIURSA.
 
-Jaime Rodríguez Sánchez *Gabilondo* Alles <- repo owner
-Pablo, Jaime, David y Carolina son los nietos, hijos de Cesar Rodríguez Gabilondo y de Olga Sánchez Alles
 Cesar Rodriguez Gabilondo <- coautor y editor
 Carmen Gabilondo Santánder <- madre de César, mi abuela; coautora interesada en investigar y documentar la historia de su familia
 Leto Gabilondo <- persona de estudio de esta wikipedia, abuelo de Carmen, marido de Elvira. Leto fue formado por sus padres para dirigir la empresa, aprendería forja, soldadura, fundición, aleaciones, contabilidad, emprendimiento y dirección. Leto quedó impactado por la Torre Eifel y la Galería de las Máquinas en la Exposición Universal de París en 1889.
