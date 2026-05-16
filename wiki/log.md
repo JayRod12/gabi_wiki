@@ -12,6 +12,14 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 
 ---
 
+## [2026-05-16] ingest | Libro del abuelo Leto por Isabel Gabilondo - copia.pdf
+
+**Fuente:** `raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf`
+**Resumen:** Libro de 88 páginas publicado en 2012 por Isabel Gabilondo Santander (nieta de Leto), basado en investigación en el Archivo Municipal de Valladolid (AMVA), el Archivo Diocesano de la Catedral y el Archivo Histórico Eclesiástico de Bizkaia (AHEB). Aporta datos de primera mano sobre las cuatro generaciones anteriores a Leto: partidas de bautismo y matrimonio de los abuelos paternos en Elorrio, la fundación de Gabilondo Hermanos hacia 1860, la trayectoria concejal de Leto (1888–1892), sus viajes a las Exposiciones de Barcelona y París, la muerte de Leto el 9-11-1897, la gestión de Elvira Manso tras su muerte y la fundación de Talleres Gabilondo S.A. en 1904. Incluye transcripción de cartas familiares (veranos 1895 y 1897), reproducciones de anuncios de El Norte de Castilla (1862–1885) y el artículo necrológico del 11-11-1897. También aporta datos sobre Ignacio Gabilondo Manso (pianista), Ubaldo Manso (hermano de Elvira) y Manuel Amoategui. Se generó el archivo de extracción `raw/libro_isabel_gabilondo_extraccion.md`.
+**Páginas creadas/actualizadas:** agustin_gabilondo, leto_gabilondo, elvira_manso, talleres_gabilondo, familia_gabilondo
+
+---
+
 ## [2026-05-16] ingest | genalogia.md (actualización v2)
 
 **Fuente:** `raw/genalogia.md`

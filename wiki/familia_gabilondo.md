@@ -7,14 +7,30 @@ Visión general de la familia Gabilondo de Valladolid, desde los miembros más a
 ### Rama Gabilondo (línea materna de César Rodríguez)
 
 ```
-Agustín Gabilondo Azcárate ─── Isidora Gangutia Elejalde
-         (Elorrio → Valladolid, h. 1855)
-                       │
-  Leto Gabilondo Gangutia (Valladolid, 1860–1897) ─── Elvira Manso López (1862–1942)
-                                                      │
-          César Gabilondo Manso (Valladolid, 1896–) ─── Carmen Santander Garzo (Villamañán, León, 2.11.1904–)
-                                                       │
-                         Carmen Gabilondo Santander (Valladolid, 1938)
+Juan Gabilondo Madinabeitia ─── Micaela Azcárate Ascasua Abrain
+               (Elorrio)
+                         │
+         Agustín Gabilondo Azcárate (Elorrio, 1825 – Nanclares de la Oca, 1888)
+                  ─── Isidora Gangutia Elejalde (Elorrio, 1821 – ?)
+                         │
+          ┌──────────────┼────────────────┐
+       Acisclo         Gabriel          María
+   Gabilondo Azcárate  Gabilondo Azcárate  Gabilondo Azcárate
+   (cofundador)        (cofundador)
+                         │ (hijo de Agustín)
+   Leto Gabilondo Gangutia (Valladolid, 1860–1897)
+          ─── Elvira Manso López (Valladolid, 1862–1942)
+                         │
+    ┌──────────┬──────────┬──────────┬──────────┐
+ Fernando   Ignacio   Mª Luisa   Blanca    César
+ Gabilondo  Gabilondo Gabilondo Gabilondo Gabilondo
+  Manso      Manso     Manso     Manso     Manso
+ (†joven)  (1891?–    (─── José Luís         (c.1895–)
+          1927)       Benito Rementería)
+                         │ (César)
+         César Gabilondo Manso ─── Carmen Santander Garzo (Villamañán, León, 2.11.1904–)
+                                  │
+                    Carmen Gabilondo Santander (Valladolid, 1938)
 ```
 
 ### Rama Rodríguez (línea paterna de César Rodríguez)
@@ -47,20 +63,47 @@ Carmen Gabilondo Santander (Valladolid, 1938) ─── José Rodríguez García
 
 ## Miembros documentados
 
-### Agustín Gabilondo Azcárate (Elorrio)
-Fundador de la rama vallisoletana de la familia. Llegó desde Elorrio (Provincias Vascongadas) junto con sus hermanos Acisclo, Gabriel y María para establecerse en Valladolid tras la Ley del Ferrocarril del Norte (1855). → Ver [página](agustin_gabilondo.md).
+### Juan Gabilondo Madinabeitia y Micaela Azcárate Ascasua Abrain (Elorrio)
+Bisabuelos paternos de Leto. Naturales de Elorrio (Vizcaya). En la familia había herreros y artesanos.[^1]
 
-### Isidora Gangutia Elejalde (Elorrio)
-Esposa de Agustín Gabilondo Azcárate, también natural de Elorrio. Información pendiente de documentar.
+### Agustín Gabilondo Azcárate (Elorrio, 1825 – Nanclares de la Oca, 1888)
+Fundador de la rama vallisoletana de la familia. Llegó desde Elorrio junto con sus hermanos Acisclo, Gabriel y María para establecerse en Valladolid tras la llegada del ferrocarril (1856–1860). Falleció el 2-8-1888 a los 64 años. → Ver [página](agustin_gabilondo.md).
+
+### Isidora Gangutia Elejalde (Elorrio, 1821–?)
+Esposa de Agustín Gabilondo Azcárate, también natural de Elorrio. Hija de Pedro Bernardino Gangutia Zengotita Zabala y Ángela Elejalde González Apodaca.[^1]
+
+### Acisclo Gabilondo Azcárate (Elorrio)
+Hermano de Agustín y cofundador de «Gabilondo Hermanos».[^1] Información pendiente de documentar.
+
+### Gabriel Gabilondo Azcárate (Elorrio)
+Hermano de Agustín y cofundador de «Gabilondo Hermanos».[^1] Casado con Flora (mencionada en cartas de Leto). Información pendiente de documentar.
+
+### María Gabilondo Azcárate (Elorrio)
+Hermana de Agustín, emigró a Valladolid con los demás hermanos.[^1] Información pendiente de documentar.
 
 ### Leto Gabilondo Gangutia (Valladolid, 1860–1897)
-Hijo de Agustín e Isidora. Concejal del Ayuntamiento de Valladolid. Propietario de los [Talleres Gabilondo](talleres_gabilondo.md). Murió repentinamente en 1897. La [Calle de Gabilondo](calle_gabilondo.md) lleva su nombre. → Ver [página completa](leto_gabilondo.md).
+Hijo de Agustín e Isidora. Concejal del Ayuntamiento de Valladolid (1888–1892). Propietario de los [Talleres Gabilondo](talleres_gabilondo.md). Murió de paro cardiaco el 9-11-1897, a los 37 años. La [Calle de Gabilondo](calle_gabilondo.md) lleva su nombre. → Ver [página completa](leto_gabilondo.md).
 
-### Elvira Manso López (1862–1942)
-Esposa de Leto. A su muerte asumió la dirección de los Talleres Gabilondo con cinco hijos a su cargo, duplicando la plantilla en ocho años. → Ver [página](elvira_manso.md).
+### Elvira Manso López (Valladolid, 1862–1942)
+Esposa de Leto. A su muerte asumió la dirección de los Talleres Gabilondo con cinco hijos a su cargo. Fundó Talleres Gabilondo S.A. en 1904. Hermana de Ubaldo Manso. → Ver [página](elvira_manso.md).
 
-### César Gabilondo Manso (Valladolid, 1896–)
-Hijo de Leto y Elvira. Casado con Carmen Santander Garzo. → Ver [página](cesar_gabilondo.md).
+### Ubaldo Manso
+Hermano de Elvira Manso. Consejero fundador de Talleres Gabilondo S.A. (1904).[^1] Fue el apoyo familiar de Elvira en la dirección de la empresa.
+
+### Fernando Gabilondo Manso
+Hijo mayor de Leto y Elvira. Se preparaba para ser ingeniero y hacerse cargo de los talleres, pero falleció joven —antes que su hermano Ignacio (†1927)—.[^1] Fecha exacta de muerte no documentada.
+
+### Ignacio Gabilondo Manso (c. 1891–1927)
+Hijo de Leto y Elvira. Pianista de reconocido prestigio, activo entre 1914 y 1927. Discípulo del maestro Jacinto R. Manzanares en Valladolid; se formó también en Madrid y París. Tenía su estudio en el Pasaje Gutiérrez de Valladolid. Interpretó a Granados, Albéniz, Beethoven, Chopin y otros. Falleció el 29 de julio de 1927 a los **36 años**.[^1]
+
+### María Luisa Gabilondo Manso
+Hija de Leto y Elvira. Casada con el pintor **José Luís Benito Rementería**. Madre de Elvira Moretón Gabilondo, quien conservó y transmitió las cartas originales de Leto.[^1]
+
+### Blanca Gabilondo Manso
+Hija de Leto y Elvira. Información pendiente de documentar.
+
+### César Gabilondo Manso (Valladolid, c. 1895–?)
+Hijo menor de Leto y Elvira. Se quedó huérfano con apenas dos años. Casado con Carmen Santander Garzo. Padre de Carmen Gabilondo Santander. → Ver [página](cesar_gabilondo.md).
 
 ### Carmen Santander Garzo (Villamañán, León, 2.11.1904–)
 Esposa de César Gabilondo Manso. Madre de Carmen Gabilondo Santander. Información pendiente de documentar.
@@ -94,13 +137,19 @@ Hija de acogida de César y Olga desde 2010.
 
 ## Conexión con Valladolid
 
-La familia Gabilondo tiene raíces profundas en Valladolid. Los [Talleres Gabilondo](talleres_gabilondo.md) estaban situados en la zona de San Ildefonso, cerca del paseo de Zorrilla. La presencia de la familia en la vida pública de la ciudad quedó plasmada en el nombre de la [Calle de Gabilondo](calle_gabilondo.md).
+La familia Gabilondo tiene raíces profundas en Valladolid. Los [Talleres Gabilondo](talleres_gabilondo.md) estaban situados en la zona de San Ildefonso, cerca del Paseo de Zorrilla. La presencia de la familia en la vida pública de la ciudad quedó plasmada en el nombre de la [Calle de Gabilondo](calle_gabilondo.md).
 
 ## Lagunas conocidas
 
-- Datos biográficos de César Gabilondo Manso y Carmen Santander Garzo
+- Fecha exacta de nacimiento y fallecimiento de César Gabilondo Manso
+- Datos biográficos de Carmen Santander Garzo
 - Datos biográficos detallados de José Rodríguez García
-- Posibles hermanos de Leto Gabilondo
 - Fecha de nacimiento y fallecimiento de Carmen Gabilondo Santander
-- Origen familiar de Elvira Manso López
 - Información sobre Sabas Rodríguez, Isabel García, Electo García de León y Catalina Gutiérrez
+- Datos de Acisclo, Gabriel y María Gabilondo Azcárate
+- Datos de Blanca Gabilondo Manso
+- Fecha de muerte de Fernando Gabilondo Manso
+
+## Fuentes
+
+[^1]: Isabel Gabilondo Santander, *Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada*. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: `raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf`)
