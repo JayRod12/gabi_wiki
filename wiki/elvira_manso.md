@@ -1,6 +1,6 @@
 # Elvira Manso
 
-Elvira Manso fue la esposa de [Leto Gabilondo](leto_gabilondo.md) y, a su muerte en 1897, asumió la dirección de los [Talleres Gabilondo](talleres_gabilondo.md). Es probablemente la gran desconocida de la saga Gabilondo: una mujer que dirigió una empresa industrial en una época en la que las mujeres no tenían derecho al voto ni plena autonomía jurídica o bancaria.
+Elvira Manso López (1862–1942) fue la esposa de [Leto Gabilondo](leto_gabilondo.md) y, a su muerte en 1897, asumió la dirección de los [Talleres Gabilondo](talleres_gabilondo.md). Es probablemente la gran desconocida de la saga Gabilondo: una mujer que dirigió una empresa industrial en una época en la que las mujeres no tenían derecho al voto ni plena autonomía jurídica o bancaria.
 
 ## Liderazgo tras la muerte de Leto
 
@@ -24,8 +24,7 @@ Pese a ello, logró proteger el legado industrial de los Gabilondo en Valladolid
 
 ## Por documentar
 
-- Apellido completo y origen familiar de Elvira Manso
-- Fecha exacta de nacimiento y fallecimiento (murió después de 1946)
+- Origen familiar de Elvira Manso López
 - Nombres de los cinco hijos
 - Detalles de la conversión a Sociedad Anónima
 - Relación exacta con Manuel Amoateguí
