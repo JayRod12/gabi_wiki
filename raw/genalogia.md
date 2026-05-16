@@ -1,6 +1,6 @@
-Descendientes: Pablo (1993), Jaime (1995) y David (1998). Padres de Acogida desde 2010 de Carolina Alles Sánchez (2014)
-Cesar Rodríguez Gabilondo (1964) casado con Olga Sánchez Allés (1969)
-Hijo de Carmen Gabilondo Santander (1938) y José Rodríguez García (1938)
-Nieto de Cesar Gabilondo Manso (1896-) y Carmen Santander Garzo
-Biznieto de Leto Gabilondo (1860-1897) y Elvira Manso ( -19)
-Tataranieto de Agustín Gabilondo Azcárate e Isidora Gangutia
+Descendientes: Pablo (Köln 1993), Jaime (Valladolid 1995), David (Valladolid 1998) y Carolina Alles Sánchez (Valladolid 2014)
+César Rodríguez Gabilondo (Valladolid 1964) casado con Olga Sánchez Allés (Madrid 1969)
+Hijo de Carmen Gabilondo Santander (Valladolid 1938) y José Rodríguez García (Valladolid 1938)
+Nieto de César Gabilondo Manso (Valladolid 1896-) y de Carmen Santander Garzo (Villamañán,León 2.11.1904-) y de Roberto Rodríguez García (Viana del Bollo 29.04.1892-23.12.1981 Valladolid) y de Ester García Gutiérrez (4.10.1897 Mansilla de las Mulas 4.03.1985 Murcia)
+Biznieto de Leto Gabilondo Gangutia (Valladolid 1860-1897) y Elvira Manso Lopez(1862-1942) Padres de César Gabilondo, César Rodríguez también es Biznieto de Sabas Rodríguez -Carabinero- e Isabel García por parte de su abuelo Roberto Rodríguez, y de Electo García de León y Catalina Gutiérrez por parte de su abuela Ester García.
+Tataranieto de Agustín Gabilondo Azcárate (Elorrio) e Isidora Gangutia Elejalde (Elorrio) padres de Leto
