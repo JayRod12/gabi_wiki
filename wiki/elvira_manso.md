@@ -6,7 +6,7 @@ Elvira Manso López (Valladolid, 4 de noviembre de 1862 – Valladolid, 1942) fu
 
 - **Bautismo:** 4 de noviembre de 1862, parroquia de Santiago, Valladolid.[^1]
 - **Padres:** Carlos Manso y Eulalia López, que tenían un comercio en la calle Lencería esquina a la calle Quiñones de Valladolid.[^1]
-- **Hermano:** **Ubaldo Manso**, que formó parte del Consejo de Administración de Talleres Gabilondo S.A. desde su fundación en 1904.[^1]
+- **Hermano:** **[Ubaldo Manso](ubaldo_manso.md)**, que formó parte del Consejo de Administración de Talleres Gabilondo S.A. desde su fundación en 1904.[^1]
 - **Matrimonio:** con [Leto Gabilondo](leto_gabilondo.md) (fecha exacta no documentada).
 - **Hijos:** Fernando, Ignacio, María Luisa, Blanca y César.[^1]
 - **Residencia:** Paseo Zorrilla, número 5, Valladolid, hasta su fallecimiento.[^1]

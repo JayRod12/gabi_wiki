@@ -6,7 +6,7 @@ Leto Gabilondo Gangutia (Valladolid, 1860 – Valladolid, 9 de noviembre de 1897
 
 Sus padres llegaron a Valladolid desde **Elorrio** (Vizcaya) hacia 1860. Leto se casó con **Elvira Manso López** (Valladolid, 1862–1942), hija de Carlos Manso y Eulalia López, comerciantes en la calle Lencería de Valladolid.[^1]
 
-Tuvieron cinco hijos: **Fernando**, **Ignacio**, **María Luisa** (Luisina), **Blanca** y **César**.[^1] El menor, César Gabilondo Manso (c. 1895–1896), se quedó huérfano con apenas dos años.
+Tuvieron cinco hijos: **[Fernando](fernando_gabilondo.md)**, **[Ignacio](ignacio_gabilondo.md)**, **María Luisa** (Luisina), **Blanca** y **César**.[^1] El menor, César Gabilondo Manso (c. 1895–1896), se quedó huérfano con apenas dos años.
 
 ## Vida empresarial
 
@@ -37,7 +37,7 @@ La última carta conservada es del **18 de mayo de 1897**, escrita desde un baln
 
 Leto murió durante la noche del **9 de noviembre de 1897** de un **paro cardiaco**, a los **37 años de edad**.[^1] La autora Isabel Gabilondo Santander apunta varios factores: el agotamiento por exceso de trabajo y preocupaciones, el asesinato de Cánovas del Castillo (8-8-1897) y la crisis de 1898 ya anunciada.
 
-El entierro fue, según *El Norte de Castilla* del 11 de noviembre de 1897, «uno de los más notables que hemos presenciado en Valladolid». El funeral tuvo lugar en la parroquia de **San Ildefonso**, que se llenó por completo. Presidieron el duelo don Lino Llamas, don Ezequiel Bustamante, don Marcos Merino, don Gregorio Gómez, don Alberto Escobar, **don Manuel Amoategui** y don Nicolás González Peña.[^1]
+El entierro fue, según *El Norte de Castilla* del 11 de noviembre de 1897, «uno de los más notables que hemos presenciado en Valladolid». El funeral tuvo lugar en la parroquia de **San Ildefonso**, que se llenó por completo. Presidieron el duelo don Lino Llamas, don Ezequiel Bustamante, don Marcos Merino, don Gregorio Gómez, don Alberto Escobar, **[don Manuel Amoategui](manuel_amoategui.md)** y don Nicolás González Peña.[^1]
 
 Entre las coronas figuraban las de la Sociedad Taurina, de Fernando Santarén Madrazo, **«de los hermanos políticos del finado»**, de la sociedad La Deseada (de la que era presidente honorario) y de los operarios de la fábrica.[^1]
 

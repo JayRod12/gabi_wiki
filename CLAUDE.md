@@ -15,19 +15,10 @@ build.py      # Build script: wiki/*.md → docs/*.html
 
 All wiki pages are written in **Spanish**. Source files in `raw/` may be in any language.
 
-## Wiki pages
+## index.md vs log.md
 
-| File | Purpose |
-|---|---|
-| `wiki/index.md` | Home page and master index of all pages |
-| `wiki/log.md` | Append-only chronological log of ingests and operations |
-| `wiki/familia_gabilondo.md` | Family tree and overview |
-| `wiki/leto_gabilondo.md` | Article on Leto Gabilondo |
-| `wiki/elvira_manso.md` | Article on Elvira Manso |
-| `wiki/carmen_gabilondo.md` | Article on Carmen Gabilondo |
-| `wiki/cesar_rodriguez_gabilondo.md` | Article on César Rodríguez Gabilondo |
-| `wiki/calle_gabilondo.md` | Article on Calle de Gabilondo |
-| `wiki/talleres_gabilondo.md` | Article on Talleres Gabilondo |
+- **`wiki/index.md`** is content-oriented: a catalog of every page with a one-line summary, organized by category. The LLM reads it first on every query to find relevant pages. Update it whenever pages are added or removed.
+- **`wiki/log.md`** is chronological: an append-only record of ingests and operations. Each entry starts with `## [YYYY-MM-DD]` so it's grep-parseable. Never rewrite old entries.
 
 ## Ingest workflow
 
@@ -84,8 +75,10 @@ When asked to lint the wiki:
 - Internal links pointing to non-existent pages
 - Pages with no inbound links from other pages
 - Contradictions between pages
+- Claims on older pages that newer sources have superseded
 - Sections marked "Por documentar" that could be filled from existing sources
 - Missing cross-references between clearly related pages
+- Data gaps that could be filled with a targeted web search; suggest specific questions or sources worth investigating
 
 ## Conventions
 

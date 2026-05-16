@@ -88,13 +88,13 @@ Hijo de Agustín e Isidora. Concejal del Ayuntamiento de Valladolid (1888–1892
 Esposa de Leto. A su muerte asumió la dirección de los Talleres Gabilondo con cinco hijos a su cargo. Fundó Talleres Gabilondo S.A. en 1904. Hermana de Ubaldo Manso. → Ver [página](elvira_manso.md).
 
 ### Ubaldo Manso
-Hermano de Elvira Manso. Consejero fundador de Talleres Gabilondo S.A. (1904).[^1] Fue el apoyo familiar de Elvira en la dirección de la empresa.
+Hermano de Elvira Manso. Consejero fundador de Talleres Gabilondo S.A. (1904).[^1] Fue el apoyo familiar de Elvira en la dirección de la empresa. → Ver [página](ubaldo_manso.md).
 
 ### Fernando Gabilondo Manso
-Hijo mayor de Leto y Elvira. Se preparaba para ser ingeniero y hacerse cargo de los talleres, pero falleció joven —antes que su hermano Ignacio (†1927)—.[^1] Fecha exacta de muerte no documentada.
+Hijo mayor de Leto y Elvira. Se preparaba para ser ingeniero y hacerse cargo de los talleres, pero falleció joven —antes que su hermano Ignacio (†1927)—.[^1] Fecha exacta de muerte no documentada. → Ver [página](fernando_gabilondo.md).
 
 ### Ignacio Gabilondo Manso (c. 1891–1927)
-Hijo de Leto y Elvira. Pianista de reconocido prestigio, activo entre 1914 y 1927. Discípulo del maestro Jacinto R. Manzanares en Valladolid; se formó también en Madrid y París. Tenía su estudio en el Pasaje Gutiérrez de Valladolid. Interpretó a Granados, Albéniz, Beethoven, Chopin y otros. Falleció el 29 de julio de 1927 a los **36 años**.[^1]
+Hijo de Leto y Elvira. Pianista de reconocido prestigio, activo entre 1914 y 1927. Discípulo del maestro Jacinto R. Manzanares en Valladolid; se formó también en Madrid y París. Tenía su estudio en el Pasaje Gutiérrez de Valladolid. Interpretó a Granados, Albéniz, Beethoven, Chopin y otros. Falleció el 29 de julio de 1927 a los **36 años**.[^1] → Ver [página](ignacio_gabilondo.md).
 
 ### María Luisa Gabilondo Manso
 Hija de Leto y Elvira. Casada con el pintor **José Luís Benito Rementería**. Madre de Elvira Moretón Gabilondo, quien conservó y transmitió las cartas originales de Leto.[^1]
