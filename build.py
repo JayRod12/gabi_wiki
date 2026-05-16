@@ -12,7 +12,6 @@ DOCS_DIR = Path("docs")
 
 # Pages always shown first/last in sidebar regardless of alpha sort
 PINNED_FIRST = ["index"]
-PINNED_LAST = ["log"]
 
 CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -116,12 +115,25 @@ NAV_LABELS = {
     "log": "Registro",
 }
 
-NAV_SECTIONS = {
-    "familia_gabilondo": "Familia",
-    "leto_gabilondo": "Personas",
-    "calle_gabilondo": "Lugares",
-    "log": "Meta",
+# Maps each slug to its sidebar section
+SLUG_SECTION = {
+    "familia_gabilondo":        "Personas",
+    "agustin_gabilondo":        "Personas",
+    "leto_gabilondo":           "Personas",
+    "elvira_manso":             "Personas",
+    "fernando_gabilondo":       "Personas",
+    "ignacio_gabilondo":        "Personas",
+    "ubaldo_manso":             "Personas",
+    "manuel_amoategui":         "Personas",
+    "cesar_gabilondo":          "Personas",
+    "carmen_gabilondo":         "Personas",
+    "cesar_rodriguez_gabilondo":"Personas",
+    "talleres_gabilondo":       "Lugares y negocios",
+    "calle_gabilondo":          "Lugares y negocios",
+    "log":                      "Meta",
 }
+
+SECTION_ORDER = ["Personas", "Lugares y negocios", "Meta"]
 
 
 def get_title(md_text: str, slug: str) -> str:
@@ -138,20 +150,29 @@ def rewrite_md_links(text: str) -> str:
 
 
 def sort_pages(slugs):
+    from collections import defaultdict
     first = [s for s in PINNED_FIRST if s in slugs]
-    last = [s for s in PINNED_LAST if s in slugs]
-    middle = sorted(s for s in slugs if s not in PINNED_FIRST and s not in PINNED_LAST)
-    return first + middle + last
+    rest = [s for s in slugs if s not in PINNED_FIRST]
+
+    by_section = defaultdict(list)
+    for slug in sorted(rest):
+        by_section[SLUG_SECTION.get(slug, "")].append(slug)
+
+    result = first[:]
+    for section in SECTION_ORDER:
+        result.extend(by_section[section])
+    result.extend(by_section[""])
+    return result
 
 
 def build_nav(ordered_slugs: list, active_slug: str) -> str:
     items = []
-    seen_sections = set()
+    current_section = None
     for slug in ordered_slugs:
-        section = NAV_SECTIONS.get(slug)
-        if section and section not in seen_sections:
+        section = SLUG_SECTION.get(slug)
+        if section and section != current_section:
             items.append(f'<li><div class="sidebar-section">{section}</div></li>')
-            seen_sections.add(section)
+            current_section = section
         label = NAV_LABELS.get(slug, slug.replace("_", " ").title())
         active = ' class="active"' if slug == active_slug else ''
         items.append(f'<li{active}><a href="{slug}.html">{label}</a></li>')
