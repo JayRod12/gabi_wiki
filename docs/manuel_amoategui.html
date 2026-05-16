@@ -63,6 +63,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .content pre code { background: none; padding: 0; }
 .content hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
 
+/* Footnotes — estilo Wikipedia */
+.content sup { font-size: 0.75em; line-height: 0; vertical-align: super; }
+.content a.footnote-ref { color: #1a73e8; text-decoration: none; }
+.content a.footnote-ref::before { content: "["; }
+.content a.footnote-ref::after { content: "]"; }
+.footnote { font-size: 0.875rem; }
+.footnote hr { display: none; }
+.footnote ol { margin: 0.4rem 0 0 1.8rem; }
+.footnote li { margin-bottom: 0.5rem; color: #444; }
+.footnote li p { margin-bottom: 0; display: inline; }
+a.footnote-backref { color: #1a73e8; text-decoration: none; font-size: 0.85em; margin-left: 0.3rem; }
+
 /* Responsive */
 @media (max-width: 700px) {
   .layout { flex-direction: column; }
@@ -77,13 +89,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
     <nav class="sidebar">
       <div class="site-title"><a href="index.html">🏛 Wiki Gabilondo</a></div>
       <ul><li><a href="index.html">Página Principal</a></li>
+<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
 <li><div class="sidebar-section">Personas</div></li>
 <li><a href="agustin_gabilondo.html">Agustin Gabilondo</a></li>
 <li><a href="carmen_gabilondo.html">Carmen Gabilondo</a></li>
 <li><a href="cesar_gabilondo.html">Cesar Gabilondo</a></li>
 <li><a href="cesar_rodriguez_gabilondo.html">César Rodríguez Gabilondo</a></li>
 <li><a href="elvira_manso.html">Elvira Manso</a></li>
-<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
 <li><a href="fernando_gabilondo.html">Fernando Gabilondo</a></li>
 <li><a href="ignacio_gabilondo.html">Ignacio Gabilondo</a></li>
 <li><a href="leto_gabilondo.html">Leto Gabilondo</a></li>
@@ -99,10 +111,10 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
       <h1>Manuel Amoategui</h1>
 <p>Manuel Amoategui fue un empresario vallisoletano de finales del siglo XIX y principios del XX, reconocido por su presencia en la dirección de <a href="talleres_gabilondo.html">Talleres Gabilondo</a> y por su participación en los eventos más significativos de la familia durante el período de transición empresarial tras la muerte de <a href="leto_gabilondo.html">Leto Gabilondo</a>.</p>
 <h2>Papel en el entierro de Leto Gabilondo</h2>
-<p>Manuel Amoategui fue una de las figuras destacadas en el entierro de <a href="leto_gabilondo.html">Leto Gabilondo</a>, celebrado el 11 de noviembre de 1897 en la parroquia de San Ildefonso de Valladolid. Presidió el duelo junto con don Lino Llamas, don Ezequiel Bustamante, don Marcos Merino, don Gregorio Gómez y don Alberto Escobar.[^1]</p>
+<p>Manuel Amoategui fue una de las figuras destacadas en el entierro de <a href="leto_gabilondo.html">Leto Gabilondo</a>, celebrado el 11 de noviembre de 1897 en la parroquia de San Ildefonso de Valladolid. Presidió el duelo junto con don Lino Llamas, don Ezequiel Bustamante, don Marcos Merino, don Gregorio Gómez y don Alberto Escobar.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
 <h2>Participación en Talleres Gabilondo</h2>
-<p>A lo largo de las primeras décadas del siglo XX, Manuel Amoategui llegó a ser una figura influyente en la gestión de <a href="talleres_gabilondo.html">Talleres Gabilondo</a>, llegando a controlar el <strong>20,8% del capital</strong> de la empresa, mientras que <a href="elvira_manso.html">Elvira Manso</a>, la viuda de Leto y gestora principal de la factoría, conservaba únicamente el <strong>16%</strong>.[^2]</p>
-<p>Esta concentración de capital en sus manos representó una maniobra empresarial que perjudicó los intereses de Elvira, aunque ella logró mantener la dirección operativa de los talleres.[^2]</p>
+<p>A lo largo de las primeras décadas del siglo XX, Manuel Amoategui llegó a ser una figura influyente en la gestión de <a href="talleres_gabilondo.html">Talleres Gabilondo</a>, llegando a controlar el <strong>20,8% del capital</strong> de la empresa, mientras que <a href="elvira_manso.html">Elvira Manso</a>, la viuda de Leto y gestora principal de la factoría, conservaba únicamente el <strong>16%</strong>.<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup></p>
+<p>Esta concentración de capital en sus manos representó una maniobra empresarial que perjudicó los intereses de Elvira, aunque ella logró mantener la dirección operativa de los talleres.<sup id="fnref2:2"><a class="footnote-ref" href="#fn:2">2</a></sup></p>
 <h2>Datos biográficos</h2>
 <p>Los datos biográficos de Manuel Amoategui (fechas de nacimiento y fallecimiento, profesión propia, origen familiar) no están documentados en las fuentes actualmente disponibles.</p>
 <h2>Por documentar</h2>
@@ -114,8 +126,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 <li>Duración de su participación accionaria</li>
 </ul>
 <h2>Fuentes</h2>
-<p>[^1]: Isabel Gabilondo Santander, <em>Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada</em>. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: <code>raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf</code>)<br />
-[^2]: Documento interno: <code>raw/familia_gabilondo.md</code></p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Isabel Gabilondo Santander, <em>Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada</em>. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: <code>raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf</code>)&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Documento interno: <code>raw/familia_gabilondo.md</code>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
     </main>
   </div>
 </body>

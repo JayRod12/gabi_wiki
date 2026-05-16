@@ -63,6 +63,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .content pre code { background: none; padding: 0; }
 .content hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
 
+/* Footnotes — estilo Wikipedia */
+.content sup { font-size: 0.75em; line-height: 0; vertical-align: super; }
+.content a.footnote-ref { color: #1a73e8; text-decoration: none; }
+.content a.footnote-ref::before { content: "["; }
+.content a.footnote-ref::after { content: "]"; }
+.footnote { font-size: 0.875rem; }
+.footnote hr { display: none; }
+.footnote ol { margin: 0.4rem 0 0 1.8rem; }
+.footnote li { margin-bottom: 0.5rem; color: #444; }
+.footnote li p { margin-bottom: 0; display: inline; }
+a.footnote-backref { color: #1a73e8; text-decoration: none; font-size: 0.85em; margin-left: 0.3rem; }
+
 /* Responsive */
 @media (max-width: 700px) {
   .layout { flex-direction: column; }
@@ -77,13 +89,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
     <nav class="sidebar">
       <div class="site-title"><a href="index.html">🏛 Wiki Gabilondo</a></div>
       <ul><li><a href="index.html">Página Principal</a></li>
+<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
 <li><div class="sidebar-section">Personas</div></li>
 <li><a href="agustin_gabilondo.html">Agustin Gabilondo</a></li>
 <li><a href="carmen_gabilondo.html">Carmen Gabilondo</a></li>
 <li><a href="cesar_gabilondo.html">Cesar Gabilondo</a></li>
 <li><a href="cesar_rodriguez_gabilondo.html">César Rodríguez Gabilondo</a></li>
 <li><a href="elvira_manso.html">Elvira Manso</a></li>
-<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
 <li class="active"><a href="fernando_gabilondo.html">Fernando Gabilondo</a></li>
 <li><a href="ignacio_gabilondo.html">Ignacio Gabilondo</a></li>
 <li><a href="leto_gabilondo.html">Leto Gabilondo</a></li>
@@ -99,13 +111,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
       <h1>Fernando Gabilondo Manso</h1>
 <p>Fernando Gabilondo Manso fue el hijo mayor de <a href="leto_gabilondo.html">Leto Gabilondo</a> y <a href="elvira_manso.html">Elvira Manso</a>. Falleció joven, sin poder concretar el papel empresarial que parecía destinado a ocupar en los <a href="talleres_gabilondo.html">Talleres Gabilondo</a>.</p>
 <h2>Formación y expectativas</h2>
-<p>Fernando fue el mayor de los cinco hijos de Leto y Elvira. Su padre lo envió a un <strong>internado</strong>, donde obtenía excelentes calificaciones, esperando que cumpliese las expectativas académicas familiares.[^1]</p>
-<p>Se estaba preparando para ser <strong>ingeniero</strong>, con la intención de hacerse cargo de la dirección de los <a href="talleres_gabilondo.html">Talleres Gabilondo</a> tras la muerte de su padre.[^1]</p>
+<p>Fernando fue el mayor de los cinco hijos de Leto y Elvira. Su padre lo envió a un <strong>internado</strong>, donde obtenía excelentes calificaciones, esperando que cumpliese las expectativas académicas familiares.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
+<p>Se estaba preparando para ser <strong>ingeniero</strong>, con la intención de hacerse cargo de la dirección de los <a href="talleres_gabilondo.html">Talleres Gabilondo</a> tras la muerte de su padre.<sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
 <h2>Muerte prematura</h2>
 <p>Fernando falleció <strong>joven</strong>, antes que su hermano <strong>Ignacio Gabilondo</strong> (que murió en 1927). La fecha exacta de su fallecimiento no está documentada en las fuentes disponibles.</p>
 <p>Su muerte temprana, junto con la de su padre Leto (1897) y el posterior fallecimiento de Ignacio (1927), dejó a la familia sin varones en edad de asumir directamente la dirección empresarial, consolidando así el papel extraordinario de <a href="elvira_manso.html">Elvira Manso</a> como gestora.</p>
 <h2>Hermanos</h2>
-<p>Fernando era hermano de <strong>Ignacio</strong>, <strong>María Luisa</strong> (Luisina), <strong>Blanca</strong> y <strong>César</strong> Gabilondo Manso.[^1]</p>
+<p>Fernando era hermano de <strong>Ignacio</strong>, <strong>María Luisa</strong> (Luisina), <strong>Blanca</strong> y <strong>César</strong> Gabilondo Manso.<sup id="fnref3:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
 <h2>Por documentar</h2>
 <ul>
 <li>Fecha exacta de fallecimiento</li>
@@ -114,7 +126,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 <li>Posibles trabajos o actividades antes de su muerte</li>
 </ul>
 <h2>Fuentes</h2>
-<p>[^1]: Isabel Gabilondo Santander, <em>Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada</em>. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: <code>raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf</code>)</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Isabel Gabilondo Santander, <em>Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada</em>. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: <code>raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf</code>)&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref3:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
     </main>
   </div>
 </body>

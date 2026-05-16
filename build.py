@@ -11,7 +11,7 @@ DOCS_DIR = Path("docs")
 
 
 # Pages always shown first/last in sidebar regardless of alpha sort
-PINNED_FIRST = ["index"]
+PINNED_FIRST = ["index", "familia_gabilondo"]
 
 CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -72,6 +72,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .content pre code { background: none; padding: 0; }
 .content hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
 
+/* Footnotes — estilo Wikipedia */
+.content sup { font-size: 0.75em; line-height: 0; vertical-align: super; }
+.content a.footnote-ref { color: #1a73e8; text-decoration: none; }
+.content a.footnote-ref::before { content: "["; }
+.content a.footnote-ref::after { content: "]"; }
+.footnote { font-size: 0.875rem; }
+.footnote hr { display: none; }
+.footnote ol { margin: 0.4rem 0 0 1.8rem; }
+.footnote li { margin-bottom: 0.5rem; color: #444; }
+.footnote li p { margin-bottom: 0; display: inline; }
+a.footnote-backref { color: #1a73e8; text-decoration: none; font-size: 0.85em; margin-left: 0.3rem; }
+
 /* Responsive */
 @media (max-width: 700px) {
   .layout { flex-direction: column; }
@@ -117,7 +129,6 @@ NAV_LABELS = {
 
 # Maps each slug to its sidebar section
 SLUG_SECTION = {
-    "familia_gabilondo":        "Personas",
     "agustin_gabilondo":        "Personas",
     "leto_gabilondo":           "Personas",
     "elvira_manso":             "Personas",
@@ -198,7 +209,7 @@ def build():
 
         body_html = markdown.markdown(
             md_text,
-            extensions=["tables", "fenced_code", "nl2br"],
+            extensions=["tables", "fenced_code", "nl2br", "footnotes"],
         )
 
         nav_html = build_nav(slugs, slug)

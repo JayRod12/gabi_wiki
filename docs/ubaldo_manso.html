@@ -63,6 +63,18 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .content pre code { background: none; padding: 0; }
 .content hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
 
+/* Footnotes — estilo Wikipedia */
+.content sup { font-size: 0.75em; line-height: 0; vertical-align: super; }
+.content a.footnote-ref { color: #1a73e8; text-decoration: none; }
+.content a.footnote-ref::before { content: "["; }
+.content a.footnote-ref::after { content: "]"; }
+.footnote { font-size: 0.875rem; }
+.footnote hr { display: none; }
+.footnote ol { margin: 0.4rem 0 0 1.8rem; }
+.footnote li { margin-bottom: 0.5rem; color: #444; }
+.footnote li p { margin-bottom: 0; display: inline; }
+a.footnote-backref { color: #1a73e8; text-decoration: none; font-size: 0.85em; margin-left: 0.3rem; }
+
 /* Responsive */
 @media (max-width: 700px) {
   .layout { flex-direction: column; }
@@ -77,13 +89,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
     <nav class="sidebar">
       <div class="site-title"><a href="index.html">🏛 Wiki Gabilondo</a></div>
       <ul><li><a href="index.html">Página Principal</a></li>
+<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
 <li><div class="sidebar-section">Personas</div></li>
 <li><a href="agustin_gabilondo.html">Agustin Gabilondo</a></li>
 <li><a href="carmen_gabilondo.html">Carmen Gabilondo</a></li>
 <li><a href="cesar_gabilondo.html">Cesar Gabilondo</a></li>
 <li><a href="cesar_rodriguez_gabilondo.html">César Rodríguez Gabilondo</a></li>
 <li><a href="elvira_manso.html">Elvira Manso</a></li>
-<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
 <li><a href="fernando_gabilondo.html">Fernando Gabilondo</a></li>
 <li><a href="ignacio_gabilondo.html">Ignacio Gabilondo</a></li>
 <li><a href="leto_gabilondo.html">Leto Gabilondo</a></li>
@@ -99,11 +111,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
       <h1>Ubaldo Manso</h1>
 <p>Ubaldo Manso fue el hermano de <a href="elvira_manso.html">Elvira Manso</a> y consejero fundador de <a href="talleres_gabilondo.html">Talleres Gabilondo S.A.</a> desde su constitución en 1904. Fue el principal apoyo familiar de su hermana en la gestión empresarial tras la muerte de <a href="leto_gabilondo.html">Leto Gabilondo</a>.</p>
 <h2>Papel en los Talleres Gabilondo</h2>
-<p>A la muerte de Leto en noviembre de 1897, su viuda Elvira asumió la dirección de la factoría. Cuando en <strong>1904</strong> Elvira fundó la sociedad <strong>Talleres Gabilondo S.A.</strong> con una aportación de 500.000 pesetas, Ubaldo formó parte del <strong>Consejo de Administración fundacional</strong> como uno de los seis consejeros iniciales, junto a don Antonio Asensio (Banca Jover y Cía.), don Gumersindo Álvarez (Banco Castellano), don Marcos Merino y don Rodrigo Boheme.[^1]</p>
+<p>A la muerte de Leto en noviembre de 1897, su viuda Elvira asumió la dirección de la factoría. Cuando en <strong>1904</strong> Elvira fundó la sociedad <strong>Talleres Gabilondo S.A.</strong> con una aportación de 500.000 pesetas, Ubaldo formó parte del <strong>Consejo de Administración fundacional</strong> como uno de los seis consejeros iniciales, junto a don Antonio Asensio (Banca Jover y Cía.), don Gumersindo Álvarez (Banco Castellano), don Marcos Merino y don Rodrigo Boheme.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
 <p>Su presencia en el Consejo, siendo el único familiar directo de Elvira entre los consejeros, indica que actuó como soporte familiar en la dirección de una empresa que operaba en un entorno poco habituado a ver a una mujer al frente de una gran industria.</p>
 <h2>Datos biográficos</h2>
 <p>Los datos biográficos de Ubaldo Manso (fechas de nacimiento y fallecimiento, profesión propia, etc.) no están documentados en las fuentes actualmente disponibles.</p>
-<p>Sus padres eran <strong>Carlos Manso</strong> y <strong>Eulalia López</strong>, que tenían un comercio en la calle Lencería esquina a la calle Quiñones de Valladolid.[^1] Ubaldo era hermano de Elvira Manso López, bautizada el 4 de noviembre de 1862 en la parroquia de Santiago de Valladolid.</p>
+<p>Sus padres eran <strong>Carlos Manso</strong> y <strong>Eulalia López</strong>, que tenían un comercio en la calle Lencería esquina a la calle Quiñones de Valladolid.<sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup> Ubaldo era hermano de Elvira Manso López, bautizada el 4 de noviembre de 1862 en la parroquia de Santiago de Valladolid.</p>
 <h2>Árbol familiar</h2>
 <p>→ Ver <a href="familia_gabilondo.html">árbol familiar completo</a>.</p>
 <h2>Por documentar</h2>
@@ -114,7 +126,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 <li>Si era mayor o menor que su hermana Elvira</li>
 </ul>
 <h2>Fuentes</h2>
-<p>[^1]: Isabel Gabilondo Santander, <em>Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada</em>. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: <code>raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf</code>)</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Isabel Gabilondo Santander, <em>Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada</em>. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: <code>raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf</code>)&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
     </main>
   </div>
 </body>
