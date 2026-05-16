@@ -10,6 +10,7 @@ La wiki es mantenida con César Rodríguez Gabilondo como editor, y nació del i
 
 | Página | Descripción |
 |---|---|
+| [Árbol familiar](familia_gabilondo.md) | Árbol genealógico y visión general de la familia |
 | [Agustín Gabilondo Azcárate](agustin_gabilondo.md) | Fundador de la rama vallisoletana; llegó desde Elorrio h. 1855 |
 | [Leto Gabilondo](leto_gabilondo.md) | Concejal de Valladolid (1860–1897), fundador de los Talleres Gabilondo |
 | [Elvira Manso](elvira_manso.md) | Esposa de Leto; dirigió los Talleres tras su muerte durante décadas |
@@ -25,14 +26,8 @@ La wiki es mantenida con César Rodríguez Gabilondo como editor, y nació del i
 
 | Página | Descripción |
 |---|---|
-| [Calle de Gabilondo](calle_gabilondo.md) | Vía pública de Valladolid en honor a Leto Gabilondo |
 | [Talleres Gabilondo](talleres_gabilondo.md) | Fundición familiar de los Gabilondo, barrio de San Ildefonso |
-
-## Familia
-
-| Página | Descripción |
-|---|---|
-| [Árbol familiar](familia_gabilondo.md) | Árbol genealógico y visión general de la familia |
+| [Calle de Gabilondo](calle_gabilondo.md) | Vía pública de Valladolid en honor a Leto Gabilondo |
 
 ---
 
