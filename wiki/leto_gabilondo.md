@@ -10,9 +10,13 @@ Tuvieron cinco hijos: **[Fernando](fernando_gabilondo.md)**, **[Ignacio](ignacio
 
 ## Vida empresarial
 
-Leto sucedió a su padre [Agustín](agustin_gabilondo.md) al frente de los [Talleres Gabilondo](talleres_gabilondo.md) y les dio un gran impulso: amplió la plantilla hasta casi **cien obreros** y modernizó las instalaciones. Como muestra de su visión industrial, construyó una nueva nave inspirada en la **Galería de las Máquinas** de la Exposición Universal de París de 1889.[^1]
+Leto sucedió a su padre [Agustín](agustin_gabilondo.md) al frente de los [Talleres Gabilondo](talleres_gabilondo.md) y los gestionó desde **1872 hasta su muerte en 1897**.[^3] Bajo su dirección reorientó la actividad desde la fabricación de equipamiento harinero hacia **material ferroviario** —placas, juntas, bridas, tornillos y tirafondos—, firmando contratos con talleres del Norte y otras compañías ferroviarias.[^3] Fue también reconocido fabricante de **camas metálicas**.[^3]
+
+Amplió la plantilla hasta casi **cien obreros** y modernizó las instalaciones construyendo una nueva nave inspirada en la **Galería de las Máquinas** de la Exposición Universal de París de 1889.[^1]
 
 En un artículo de *El Norte de Castilla* sobre las tarifas ferroviarias, se cita la fábrica con **200 obreros**, lo que ilustra el crecimiento alcanzado durante su gestión.[^1] El artículo denunciaba la injusticia de las tarifas de la Compañía del Norte: el hierro en bruto procedente de Bilbao pagaba 25 pts/tonelada, pero las camas fabricadas en Valladolid y enviadas a Bilbao pagaban 46 pts/tonelada, mientras que las camas extranjeras llegaban a Valladolid por solo 20 pts/tonelada.
+
+Una bajante en la **calle Teresa Gil** (Valladolid) aún rezaba «**Viuda de Leto Gabilondo**» en la época anterior a la constitución de la Sociedad Anónima (1904), testimonio de la continuidad del negocio bajo el nombre de su viuda.[^3]
 
 ### Viajes a exposiciones universales
 
@@ -49,3 +53,4 @@ Como reconocimiento a su labor y a la presencia de los talleres en el barrio, el
 
 [^1]: Isabel Gabilondo Santander, *Leto Gabilondo, un vallisoletano ilustre. Documentos, cartas, fotografías y apostilla imaginada*. Valladolid, 2012. Dep. Legal: VA-898-2012. (Fuente interna: `raw/import/Libro del abuelo Leto por Isabel Gabilondo - copia.pdf`)
 [^2]: Juan Agapito y Revilla, *Las calles de Valladolid*, 1937, p. 193. (Fuente interna: `raw/calle_gabilondo.md`)
+[^3]: Santos-Cabalgante, B.; Cañibano, L. (2022). *El intervencionismo militar en las narrativas: El caso de los Talleres de Fundición Gabilondo (Valladolid, 1927-1959).* De Computis, 19(2), 1–52. Sección 1, pp. 7–8. Fuente interna: `raw/santos_canibano_2022_extracto.md`

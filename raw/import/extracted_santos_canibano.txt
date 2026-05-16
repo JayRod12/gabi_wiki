@@ -1,0 +1,1972 @@
+﻿=== PAGE 1 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+ARTÍCULOS DOCTRINALES / ARTICLES
+EL INTERVENCIONISMO MILITAR EN LAS NARRATIVAS:
+EL CASO DE LOS TALLERES DE FUNDICIÓN GABILONDO
+(VALLADOLID, 1927-1959)
+Beatriz Santos-Cabalgante
+Universidad Autónoma de Madrid
+Correo-e: beatriz.santos@uam.es - ORCID-iD: https://orcid.org/0000-0001-9450-6659
+Leandro Cañibano
+Universidad Autónoma de Madrid
+Correo-e: leandro.canibano@uam.es - ORCID-iD: https://orcid.org/0000-0002-1289-0827
+Recibido: 14-01-22; Aceptado: 20-09-22.
+Cómo citar este artículo/Citation:
+Santos-Cabalgante B.; Cañibano L. (2022). El intervencionismo militar en las narrativas: El caso de los Talleres
+de Fundición Gabilondo (Valladolid, 1927-1959). De Computis - Revista Española de Historia de la Contabilidad,
+19 (2), 1 - 53. doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Resumen: A mediados del siglo XIX, Valladolid, dada su ubicación estratégica, experimenta un importante
+desarrollo de su industria metalúrgica; en 1860 se crea la empresa Talleres de Fundición Gabilondo, caso objeto
+de este estudio. Los talleres son intervenidos militarmente para la fabricación de armamento durante la Guerra
+Civil española. Este trabajo analiza las narrativas de la empresa desde la teoría del ‘sesgo de atribución’. Los
+resultados muestran que las atribuciones positivas que cabría esperar de los gestores se traspasan al ‘Glorioso
+ejército’ y al ‘Caudillo Franco’ durante el periodo 1936-1939. En determinados contextos, las narrativas sirven
+para atribuir resultados positivos a factores externos, legitimando así ideologías o comportamientos.
+Palabras clave: ‘Sesgo de atribución’, legitimación, resultados contables, memorias, intervención militar,
+Valladolid, Talleres de Fundición Gabilondo.
+THE MILITARY INTERVENTIONISM IN THE NARRATIVE REPORTING:
+THE FOUNDRY WORKSHOP ‘GABILONDO’ (VALLADOLID, 1927-1959)
+Abstract: In the middle of nineteenth century, the metal industry of Valladolid underwent a significant
+development due to its strategic location; in 1860 ‘Talleres de Fundición Gabilondo’ (a foundry workshop), whose
+case is studied in this paper, was founded. The foundry workshops were military intervened for arms production
+during the Spanish Civil War. This work analyses the narratives of the company from the attributional bias. The
+results show that the expected positive attributions to the managers are transferred to the ‘Glorious Army’ and
+‘Caudillo Franco’ during the period 1936-39. In certain contexts, the narratives are used for attributing positive
+results to external factors, legitimating ideologies, or behaviors.
+Keywords: ‘Attributional bias’, legitimation, earnings, annual reports, military intervention, Valladolid, foundry
+workshop Gabilondo.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+1
+
+=== PAGE 2 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Entidad financiadora del proyecto de investigación: Asociación Española de Contabilidad y Administración de
+Empresas (AECA).
+Copyright: (c) 2022 Beatriz Santos-Cabalgante y Leandro Cañibano. Este es un artículo de acceso abierto
+distribuido bajo los términos de la licencia Creative Commons Attribution (CC BY-NC-SA 4.0).
+1. Introducción
+La literatura sobre sesgo de atribución identifica una tendencia general en las narrativas de las
+empresas que consiste en atribuir los resultados positivos a las acciones propias de la empresa,
+y los resultados negativos a eventos externos o al azar (Aerts, 2005: 494). Sin embargo, este
+estudio del caso muestra una empresa que presenta un matiz diferencial, dado el contexto
+institucional en el que se desenvuelve. Es el caso de Talleres de Fundición Gabilondo que
+fueron intervenidos militarmente en julio de 1936 (formalmente en febrero de 1937)1, y cuyas
+Memorias Anuales evidencian que la atribución positiva que cabría esperar de los gestores de
+la empresa sobre sí mismos se trasfiere y se otorga a las bondades del bando nacionalista
+primero, y después al régimen franquista. En el análisis del caso subyace la idea de que los
+resultados son buenos por estar en el bando “adecuado”, lo que podría presentar un caso de
+interés para la literatura sobre sesgo de atribución afectado por la legitimación.
+El caso analiza las narrativas de los Talleres de Fundición Gabilondo entre 1927 y 1959, periodo
+que comprende la Guerra Civil española (1936-39), la intervención militar2 de los talleres
+durante la misma, y el primer franquismo (1939-1959)3. El objetivo de este trabajo es
+comprobar si la intervención militar de los talleres modificó de algún modo esta tendencia de
+los gestores que subyace en la práctica totalidad de las narrativas sobre resultados contables de
+las empresas.
+En relación con este periodo histórico, Fernández-Revuelta et al. (2002) analizaron las
+Memorias de Fuerzas Motrices del Valle de Lecrín (empresa ubicada en Almería, zona
+republicana durante la Guerra Civil) y concluyeron que los registros contables funcionaron
+como soporte en el que revelar circunstancias económicas y organizativas en tiempos de guerra
+y en el que plasmar la lucha ideológica de los dos bandos. Talleres de Fundición Gabilondo
+estaban ubicados en Valladolid (zona nacionalista durante la Guerra Civil), por lo que no
+presentará cambios derivados de ninguna lucha ideológica entre bandos, como sí ocurrió en la
+empresa almeriense, lo que nos permite anular el cambio de ideología como variable que
+pudiera afectar a las prácticas de ‘disclosure’ o al estilo de ‘reporting’ de las narrativas. Es esta
+diferencia entre ambas empresas lo que podría contribuir a complementar el conocimiento sobre
+1 Según testimonios orales la intervención militar fue de hecho en fecha anterior a la oficial que se indica las
+Memorias.
+2 Por intervención militar nos referimos al control ejercido por los militares sobre la producción de la empresa.
+Quienes habían gestionado la compañía hasta ese momento continuaron en su cargo, de acuerdo con lo recogido
+en las Memorias Anuales. Testimonios orales aclaran que, en la intervención militar de Talleres Gabilondo, los
+militares estaban allí presentes para controlar la producción, el abastecimiento de materias primas, etc. En resumen,
+los militares no gestionaron la compañía en estos años de intervención.
+3 El primer franquismo fue la primera etapa de la Dictadura del general Franco, y tuvo lugar entre el final de la
+Guerra Civil española y el abandono de la política autárquica con la aplicación del Plan de Estabilización de 1959.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+2
+
+=== PAGE 3 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+el uso histórico de las narrativas contables en distintos contextos y
+en especial en este periodo de la historia de España.
+La primera pregunta de investigación que nos hacemos es si la intervención militar en los
+Talleres Gabilondo produjo cambios en la presentación y divulgación de la información
+contable a través de las narrativas. En caso afirmativo la segunda pregunta de investigación que
+nos formulamos es cómo fueron esos cambios. Con el fin de responder estas preguntas se
+analizan las narrativas del caso de estudio desde la perspectiva del sesgo de atribución, que ha
+sido validada por numerosas investigaciones y que identifica una tendencia de los gestores en
+las narrativas sobre resultados contables a atribuir a causas internas de la organización los
+resultados positivos y a causas ajenas los resultados negativos. Este es uno de los pocos estudios
+que analiza las narrativas contables de una empresa privada en su papel de mecanismo de
+legitimación de un régimen ideológico.
+A continuación, en la sección 2 se revisa la literatura. En la sección 3 se presenta el contexto
+histórico. En la sección 4 se presenta el caso de estudio. En la sección 5 se exponen los
+resultados del análisis de las narrativas. Y, finalmente, en la sección 6 se recogen las
+conclusiones.
+2. Revisión de literatura
+La literatura evidencia el uso de las narrativas contables para el impression management (Aerts,
+2005: 493), es decir, de forma intencionada para conducir la impresión que terceros puedan
+tener del desempeño de los gestores, de la imagen de la empresa, etc.
+Uno de los signos del impression management es la tendencia generalizada que presentan los
+gestores a atribuirse a sí mismos la generación de resultados positivos y a achacar los resultados
+negativos al entorno (Salancik & Meindl, 1984: 251). Esta teoría del sesgo de atribución señala,
+más concretamente, que en las narrativas los gestores tienden a atribuir los resultados positivos
+de la compañía a sus propias acciones o a factores propios de la organización (estrategia,
+decisiones, know-how, recursos humanos, etc.) mientras que tienden a atribuir los resultados
+negativos a eventos externos o a cambios en los factores del entorno (clima, inflación, precios
+de mercado, políticas gubernamentales, etc.), siendo las explicaciones sobre resultados
+positivos denominadas “componente de aclamación” y sobre los resultados negativos
+“componente defensivo” (Aerts, 2005: 495-96).
+En la línea de investigación del impression management, diferentes estudios han abordado la
+relación entre la longitud de las narrativas y la rentabilidad de la empresa, aunque presentan
+resultados contradictorios. Por un lado, los resultados negativos supondrían narrativas más
+largas y aquí las hipótesis son varias: i) porque los gestores tratarían de justificar extensamente
+los malos resultados atribuyéndolos a factores externos, ii) porque se intentarían explicar mejor
+las cosas, o bien, iii) porque con el fin de ocultar información y obviar responsabilidades,
+utilizarían formas sintácticas más complejas. Concretamente, Li (2008) indica que las firmas
+con pérdidas, o ingresos efímeros, escriben informes con frases más largas y palabras más
+grandes, son más complejos de leer, lo que evidenciaría que los gestores estructuran
+oportunistamente los informes anuales para ocultar información adversa a los inversores. Sin
+embargo, otros trabajos no encuentran evidencia significativa que demuestre una correlación
+significativa entre la longitud de las narrativas y la rentabilidad de la empresa (Rutherford,
+2003; Claworthy & Jones, 2006).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+3
+
+=== PAGE 4 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Al margen de la longitud de las narrativas, estas juegan un papel importante en la mejora de la
+reputación y en la protección frente a las críticas, tratando con las amenazas externas y
+mitigando los fracasos internos (Abdelrehim et al., 2014: 138-39). La teoría del sesgo de
+atribución resulta especialmente de interés entroncado en el concepto de legitimación. Suchman
+(1995: 574) define la legitimación “como una percepción generalizada o suposición de que las
+acciones de una entidad son deseables o adecuadas dentro de un sistema de normas, valores,
+creencias y definiciones, construido socialmente” y diferencia tres tipos diferentes de
+legitimación: la ganancia, el mantenimiento y la reparación. En general, todas las sociedades
+tratan de ser percibidas como legítimas para atraer recursos económicos y ganar apoyo social y
+político necesario para mantener el éxito en sus operaciones (Ogden & Clarke, 2005: 313). En
+este sentido, Brennan & Merkl-Davies (2013: 109) señalan que las narrativas contables utilizan
+la discrecionalidad para alinear las normas y los valores de la firma con los de la sociedad,
+especialmente en situaciones donde las firmas se enfrentan a amenazas a su legitimidad,
+especialmente cuando se refieren a escándalos corporativos, temas de seguridad de sus
+productos o desastres ecológicos.
+El caso de estudio se refiere a Talleres de Fundición Gabilondo y analizamos sus narrativas
+desde 1927 hasta 1959.4 Esta empresa operó en un contexto donde estalla la Guerra Civil
+española (1936-39), su producción resulta intervenida militarmente para la fabricación de
+armamento (1937-39) y la empresa debe superar las dificultades propias de un periodo de
+autarquía económica (1939-59) que corresponde con la primera etapa de la Dictadura de
+Francisco Franco que duraría un total de 40 años. Nos preguntamos si el comportamiento que
+cabe esperar por parte de los gestores, de acuerdo con la teoría del sesgo de atribución, y que
+sería observable en las narrativas, se altera de algún modo en el caso de compañías, como esta,
+que operan en contextos de importantes tensiones políticas que suponen la fragmentación
+económica, política y social de un país. ¿Es posible que el miedo a las represalias, o incluso a
+la muerte, llevase a los gestores a evitar criticar (neutralizar) factores negativos del entorno o,
+bien, a ensalzar solo los aspectos positivos del entorno en las narrativas congraciándose, de
+algún modo, con la ideología (y presiones) del entorno?, ¿Es posible que si los resultados fueron
+positivos se justificase por encontrarse en el bando “adecuado” de la guerra?, ¿Utilizó esta
+empresa, intervenida para la producción de armamento, sus narrativas para explicar que los
+resultados eran positivos por estar en el bando “adecuado” legitimando así la guerra? Nos
+preguntamos, por un lado, si durante los años de intervención militar de la empresa, los gestores
+continuaban presentando el comportamiento esperable en las narrativas que señala la teoría del
+sesgo de atribución, y, por otro lado, nos preguntamos si a lo largo del periodo analizado se
+utilizan las narrativas como mecanismo de legitimación.
+En relación con el estudio del caso, cabe destacar que las investigaciones sobre la relación
+contabilidad-guerra-ejército es un área de gran importancia dado que aborda el papel de la
+contabilidad en la planificación de los recursos económicos nacionales, tanto en tiempos de
+guerra como de paz (Burchell et al., 1980). Los trabajos sobre esta línea de investigación
+pusieron de manifiesto, durante las dos guerras mundiales, que las fábricas de armamento
+tradicionales no eran suficientes para abastecer la demanda de los ejércitos movilizados. Esta
+4 Los trabajos sobre narrativas contables de casos históricos son escasos. Coincide con una parte de nuestro periodo
+de estudio, el trabajo de Abdelrehim et al. (2014), quienes analizaron las narrativas de British Petroleum (BP) y
+Shell durante dos graves crisis (la nacionalización del suministro de petróleo (1950-51) y la nacionalización egipcia
+del Canal de Suez (1956-57)), y el trabajo de Moreno et al. (2019) quienes realizan un análisis de contenido sobre
+las declaraciones del presidente de Guinness en el periodo 1948-96 con el objetivo de estudiar la influencia del
+impression management en las narrativas y cómo se relaciona con el contexto.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+4
+
+=== PAGE 5 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+circunstancia impulsó la “movilización nacional”, concepto que
+hace referencia a la utilización integral de los recursos de un país al servicio de la guerra. De
+un modo más particular, dentro de la “movilización nacional”, se incluye la “movilización
+industrial” que implicó más particularmente la orientación de la industria a la construcción de
+material bélico. En relación con esto último, un tipo de empresas clave en esta “movilización
+industrial” fueron los talleres de fundición, que fueron intervenidos militarmente, o
+directamente militarizados, en tiempos de guerra para la producción de armamento.
+Encontramos trabajos puntuales cuyo caso de estudio sean talleres de fundición, aunque no es
+estrictamente contable, como el de Sancho Sora (2000), sobre la fundición Averly.
+Sobre esta línea de investigación contabilidad-guerra-ejército, Cobbin & Burrows (2018)
+revisaron los artículos publicados entre 2000 y 2017 e identificaron un total de 55 trabajos,
+donde 6 de ellos abordan cuestiones de disclosure y la mayoría de estos se centran en el contexto
+de la primera Guerra Mundial. Sin embargo, entre los trabajos que estudian la interrelación
+entre contabilidad-guerra-ejército relativos a la historia de España encontramos el de
+Fernández-Revuelta et al. (2002), quienes analizaron las prácticas de reporting contable de la
+sociedad Fuerzas Motrices del Valle de Lecrín (Almería) durante los años de la Guerra Civil
+española y demuestran cómo el formato y contenido de las cuentas fue un terreno para la lucha
+ideológica entre la gestión republicana durante la Guerra Civil (zona roja) y la gestión
+nacionalista (zona azul) al término del conflicto, además demuestran que los registros contables
+revelaron circunstancias tanto de la organización como económicas de aquel periodo.
+Dado que Talleres de Fundición Gabilondo estuvo en el bando nacionalista durante la Guerra
+Civil (el lado de los vencedores del conflicto bélico), no vamos a encontrar en sus narrativas
+esta ruptura ideológica que sí se produce en el caso de la empresa almeriense. Todo lo anterior
+presenta este estudio del caso de especial interés para la literatura sobre la teoría del sesgo de
+atribución en las narrativas contables afectada por el componente de legitimación.
+3. Contexto Histórico
+Valladolid era desde mediados de siglo XIX una ciudad estratégicamente situada. Obtenía
+ventajas competitivas del Canal de Castilla, alrededor del cual se había desarrollado una
+importante industria harinera que impulsó el desarrollo de otras industrias convirtiendo a la
+ciudad en un importante distrito industrial metalúrgico.5 En 1861 se instalan también en la
+ciudad los talleres principales de la Compañía de ferrocarriles del Norte6 que fue un impulso
+adicional para la actividad de las empresas metalúrgicas y mecánicas de la ciudad, y en
+consecuencia para su desarrollo económico.7 Se afirma que los “los Pereire8 intentaron hacer
+de Valladolid uno de los principales centros industriales y financieros de España” (VVAA,
+1985: 271).
+5 Desde mediados del siglo XIX, Valladolid era uno de los principales mercados de cereales de España y llegó a
+convertirse en la tercera plaza financiera, después de Madrid y Barcelona.
+6 “Los Talleres generales de ferrocarriles del Norte constituían sin ninguna duda el mayor establecimiento
+industrial de Valladolid atendiendo a la concentración de trabajadores, capital y tecnología, con los consiguientes
+efectos de arrastre sobre el tejido manufacturero de la ciudad” (Álvarez & Ortúñez, 2009: 18). Además, con el
+inicio de la Guerra Civil, tanto la compañía de ferrocarriles del Norte como MZA trasladan a Valladolid sus
+Consejos de Administración (Wais, 1974). Véase Pérez (1992), Lalana (2003).
+7 Investigaciones histórico-económicas sobre compañías suministradoras de material ferroviario: p.e. Gómez
+Mendoza, 1978, 1981, 1985; Cayón & Muñoz Rubio, 1998; Cayón et al., 1998; Cayón, 1999.
+8 Los hermanos Pereire fueron los fundadores de la compañía de ferrocarriles del NORTE.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+5
+
+=== PAGE 6 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+El inusitado desarrollo de la industria metalúrgica, la implantación
+de los talleres de los Ferrocarriles del Norte y el aprovechamiento del Canal de Castilla para
+abastecer de grano a la industria harinera, impulsan el desarrollo de diversos talleres de
+fundición, entre ellos el protagonista de este caso: Talleres de Fundición Gabilondo, que fue el
+que, entre todos ellos, alcanzó una cota superior. La ciudad de Valladolid todavía conserva en
+sus calles algunas evidencias de los trabajos realizados en esa primera época por Talleres de
+Fundición Gabilondo, como adornos externos en las bajantes de los edificios (Foto 1).
+En relación con los talleres de fundición de la ciudad, cabe señalar que estaban concentrados
+en los talleres de fundición de la compañía de Ferrocarriles del Norte, Talleres de Fundición
+Gabilondo, Talleres de Miguel de Prado y Talleres de Dámaso Serrano, más tarde llamados
+Talleres de Elesio Gatón; estos talleres respondieron a las demandas de la industria y de la
+agricultura de la propia provincia, pero también de otras partes de España y del extranjero
+(Álvarez, 2007: 252-54).
+El 18 de julio de 1936 comenzó la Guerra Civil española y Valladolid fue la primera gran ciudad
+donde los sublevados triunfaron, haciéndose con el control de toda la provincia en poco tiempo.
+Como en toda guerra, la producción industrial sería reorientada hacia la producción militar, la
+agricultura orientada a alimentar a las tropas y a la población civil, y los flujos comerciales
+alterados (Fernández-Revuelta et al., 2002: 349).
+En el seno del ejército hicieron mella ciertos principios y opiniones que serán de gran
+trascendencia en la Guerra Civil y en la inmediata posguerra: la defensa de una mayor
+intervención del Estado en la industria a través del Ejército y el afán por nacionalizar los
+principales sectores fabriles. Respecto al intervencionismo, se había extendido la idea de que el
+Estado, a través del Ejército, debía tener mayor protagonismo en el desarrollo de la industria,
+principalmente de los sectores estratégicos, ya fuese un periodo de paz o de guerra (Álvarez &
+Ortúñez, 2010: 189).
+De hecho, la mayoría de las empresas metalúrgicas de la ciudad fueron intervenidas
+militarmente (como fue el caso de Talleres Gabilondo por parte de la Jefatura de Fabricación
+del Ejército del Norte en febrero de 1937), y utilizadas para fabricar proyectiles, principalmente
+granadas, y reparar vehículos militares. El personal de los talleres se incrementó en tal cuantía
+que duplicó su cifra normal, y fue necesario instruirles en los trabajos que realizaban, dada la
+escasez de obreros con dominio del oficio9. Desde su intervención, Talleres Gabilondo requería
+la autorización de la autoridad para la compra de diferentes materiales (Memoria 1937). El
+sector metalúrgico de la ciudad resistió muy bien este periodo a pesar de la falta de
+abastecimiento de materias primeras que estaban en regiones controladas por el bando
+republicano10 (Álvarez & Ortúñez, 2009: 25).
+La Guerra Civil española finaliza en 1939, finaliza con la victoria del bando sublevado y se
+instaura la Dictadura de Francisco Franco que duraría 40 años. Comienza entonces la primera
+etapa de la Dictadura, periodo de autarquía económica (1939-59), en estos años, especialmente
+en la década de los 40, se produce en España una importante recesión económica, donde se debe
+9 Además, durante estos años, Talleres Gabilondo aprueba conceder íntegros los sueldos a los trabajadores que se
+hallaban luchando en los frentes de combate (Memoria 1936).
+10 Los socialistas, comunistas, unionistas y anarquistas coordinaron la zona Republicana, a través del Comité
+Central Antifascista, asumiendo el control económico, el suministro de materias primas, y otros asuntos
+económicos y políticos (Fernández-Revuelta et al., 2002: 356).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+6
+
+=== PAGE 7 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+destacar la falta de materias primas para la fabricación, caída
+generalizada de la producción, etc.
+4. Talleres de Fundición Gabilondo: el caso de estudio
+4.1. Origen y evolución histórica
+Talleres de Fundición Gabilondo existió desde 1860 a 1964. Los hermanos Agustín, Acisclo y
+Gabriel Gabilondo11 fundaron en 1860 en Valladolid la sociedad “G. Gabilondo y hermanos”12
+bajo la forma jurídica de una sociedad regular colectiva. Inicialmente su objeto social era la
+fabricación de camas de hierro y maquinaria principalmente para la industria harinera, así como
+la compraventa de artículos de relojería (Álvarez & Ortúñez, 2009: 19). Con el tiempo fueron
+adaptando su producción a la demanda cambiante del resto de industrias de su entorno
+(ferroviaria, harinera, resinera, papelera, etc.).
+En 1872, Leto Gabilondo13 (hijo de Agustín Gabilondo) introduce una serie de importantes
+mejoras en la compañía, hasta 189714, fecha en la que fallece. Entre sus mejoras cabe destacar
+la readaptación de la actividad tradicional del taller, desde una actividad enfocada
+principalmente a la fabricación de equipamiento y material de la industria harinera a una
+actividad enfocada a la fabricación de material ferroviario.
+A finales del siglo XIX las primeras empresas de fundición creadas alrededor del Canal de
+Castilla habían desaparecido, y la actividad estaba concentrada en la Ferroviaria del Norte,
+Talleres de Fundición Gabilondo y Talleres de Miguel de Prado. Bajo la gestión de Leto
+Gabilondo (1872-97), los talleres se habían adaptado progresivamente a la demanda de una
+industria ferroviaria en auge en Valladolid, firmando algunos contratos con los talleres del
+Norte y con otras compañías ferroviarias para suministrarles pequeño material de vía (p.e.:
+placas, juntas, bridas, tornillos o tirafondos) (Álvarez & Ortúñez, 2009: 19).
+Tras la muerte de Leto Gabilondo en 1897 será su viuda, Elvira Manso, quien continúe con el
+negocio. En estos años se produce el despegue de la industria metalúrgica, como consecuencia
+del giro proteccionista en 1891 de la política comercial española (Álvarez & Ortúñez, 2009:
+20). En la Foto 2 se recogen algunos vestigios publicitarios de aquella primera época de la
+empresa, algunos de antes de su constitución como sociedad anónima.
+El 26 de abril de 190415, se constituye en Valladolid por escritura pública, la compañía anónima
+industrial ‘Talleres de Fundición Gabilondo’,16 con un capital social de 500.000 pesetas, 1.000
+11 Los hermanos Gabilondo (Elorrio, Vizcaya) empezaron su actividad profesional vendiendo relojes y en 1860
+crean la fundición. El establecimiento se ubica entre las calles Gabilondo, Florida y Paseo de Zorrilla.
+12 Otras fuentes varían algo las fechas de constitución, Álvarez & Ortúñez (2009: 19) afirman que los talleres
+Gabilondo empezaron a funcionar en 1862, y que, en 1865, junto con Pedro Elisburu de Gabilondo, crean la
+sociedad regular colectiva “G. Gabilondo y hermanos”.
+13 Leto Gabilondo también fue concejal del Ayuntamiento de Valladolid entre 1888 y 1892 (Gabilondo, 2012: 12).
+14 Fueron famosas las camas metálicas fabricadas por esta firma en la época de Leto Gabilondo.
+15 Se constituye en esta fecha por escritura pública y fue modificada por las escrituras de 16 de enero de 1915, 19
+de abril de 1917, 23 de diciembre de 1942 y 21 de junio de 1947. Se halla registrada en el Registro Mercantil de
+la provincia, en el libro 7º de Sociedades, folio 7, hoja número 319. (Copia de la escritura de ampliación de capital
+de Talleres Gabilondo, 30 de junio de 1947, AHPVA)
+16 En línea con la idea de Álvarez & Ortúñez (2009: 22), quienes señalaron que algunos de los talleres metalúrgicos
+artesanales se trasformaron con el tiempo en empresas de construcciones mecánicas de cierta relevancia, a través
+de la creación de sociedades anónimas, lo que implicaba la generación de economías de escala.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+7
+
+=== PAGE 8 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+acciones de 500 pesetas/acción. La Tabla 117 recoge la estructura
+de propiedad en el momento de su constitución. La Banca Jover y Cía. y el Banco Castellano18
+fueron accionistas, evidenciando, una vez más, el papel protagonista de la banca también en
+estas industrias auxiliares.19 El Consejo de Administración quedaba compuesto por Elvira
+Manso, Ubaldo Manso, Antonio Asensio (Banca Jover y Cía.), Gumersindo Álvarez (Banco
+Castellano), Marcos Merino y Rodrigo Boheme; años después se incorporaron al Consejo, los
+señores Peña López Argüello, Acaza, Tejedor, Escribano, Loras y Moliner (Gabilondo, 2012:
+74).
+Tabla 1: Estructura de propiedad inicial
+Accionista N. de % sobre
+Elvira Manso, Viuda de Leto Gabilondo (1) acc3i6o3n es 36to,3ta0l%
+Elvira Manso, en representación de sus hijos menores de edad 200 20,00%
+Jover y Compañía 120 12,00%
+En cartera 96 9,60%
+Ramón (apellido ilegible) (2) 60 6,00%
+Marcos Merino 52 5,20%
+Rodrigo Boheme 50 5,00%
+Ubaldo Manso 30 3,00%
+Carlos Manso 29 2,90%
+Total 1.000 100%
+Fuente: Biblioteca del AHPVA, Fondos Talleres Gabilondo, Libro Diario, Ref. 1.
+Nota: (1) 208 acciones son cedidas, la mayoría a Manuel Amoategui. (2) El apellido de Ramón es
+ilegible, podría ser Ramón Moliner Vaquero del Banco Castellano.
+Cuando Talleres de Fundición Gabilondo se constituye en sociedad anónima (en 1904) todavía
+podía apreciarse un fuerte componente de empresa familiar en el negocio, tanto en la estructura
+de capital como en el nombramiento de Ubaldo Manso, hermano de Elvira Manso, como
+presidente del Consejo de Administración. En 1911 forman parte de su Consejo de
+Administración: “Jóver y Cía., Tomás de la Maza, Félix González Jiménez y otras
+personalidades importantes de Valladolid” (El Financiero Hispano-Americano, 1911: 108).
+En 1927 (primer año del que se conservan las Memorias) todavía aparecen miembros de la
+familia Gabilondo en el Consejo de Administración, aunque con posterioridad no quedaría ni
+rastro del carácter familiar con el que se fundó la empresa, como puede deducirse del siguiente
+comentario, en el que se reconocen solo como “industria antigua y de gran solera” cuyas
+dificultades no tienen que ver con las que puedan presentar las industrias de carácter familiar:
+17 En el AHPVA (Fondos Talleres Gabilondo, Ref. 1) se conservan los resguardos de las primeras acciones que
+Talleres Gabilondo emitió al constituirse sociedad anónima en 1904. En estos resguardos se apuntaba quién era el
+propietario de cada acción. De los 4 libros que recopilan los resguardos de las acciones (250 acciones cada uno),
+el n.º 2 no se conserva.
+18 Para la elaboración de la Tabla 1 se han utilizado los datos que aparecen en el primer asiento de constitución
+de la compañía en el Libro Diario y en este asiento no aparece el Banco Castellano. Ahora bien, en el AHPVA se
+conservan los Libros de resguardos de acciones y en ellos aparece que 48 acciones pertenecen al Banco
+Castellano. De modo que, suponemos que Ramón (cuyos apellidos son ilegibles en el Libro Diario y que podría
+referirse a Ramón Moliner Vaquero) tenía algún tipo de relación con el Banco Castellano.
+19 Vidal Olivares (1999: 634) afirma que la bancarización se produce en la compañía ferroviaria Norte a partir de
+1914, siendo un fenómeno muy notable tras la Primera Guerra Mundial. Salvando las distancias con la compañía
+ferroviaria, cabe señalar que, desde la constitución de Talleres Gabilondo, en su estructura de propiedad participa
+la banca (concretamente el Banco Castellano).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+8
+
+=== PAGE 9 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+“Hoy os podemos decir que este problema no nos asusta;
+evolucionaremos con los tiempos, y si se nos cierran unos caminos, buscamos nuevos
+horizontes e iniciamos el próximo ejercicio con un plan de fabricación variado, por la
+índole de nuestra industria y clientela, pero sí, con algunas series de fabricación y
+producciones de acero, que nos permitan, como volante regulador, ir absorbiendo
+nuestros gastos generales, grandes, como en todas estas industrias antiguas y de gran
+solera, que tienen que luchar en las circunstancias y el momento que vivimos, con la
+pequeña industria de carácter familiar, que no los tiene o los tiene muy disminuidos.”
+(Memoria 1955).
+En el momento de su trasformación en sociedad anónima (1904), el objeto social queda definido
+de la siguiente manera: “sus principales productos son maquinaria en general, toda clase de
+fundición de hierro y bronce, trabajando con especialidad el material ferroviario, como
+vagones, placas giratorias, grúas, aparatos y maquinaria para Azucareras, calderas, etc.” (El
+Financiero Hispano-Americano, 1911: 107). En 1911 los talleres ya habían construido varios
+mercados, frontones, puentes, plazas de toros, y numerosas fábricas de harinas y de otras
+industrias; empleaban a 200 trabajadores y operaban en España y Portugal (El Financiero
+Hispano-Americano, 1911: 107).
+Pero el objeto social de los talleres va evolucionando conforme cambia la demanda de la
+industria en la que opera. A finales de la década de 1920, adquiere relevancia la construcción y
+reparación de obras metálicas y maquinaria en general destinada, entre otras, a las fábricas de
+azúcar y cerámicas. En la década de 1930 su cartera de clientes aumenta como consecuencia de
+diferentes factores, entre los que cabe destacar, la imposición de aranceles a las importaciones,
+la depreciación de la peseta o el aumento de la demanda de la industria azucarera (Álvarez &
+Ortúñez, 2009: 22). En 1933 Talleres Gabilondo adquiere el inmueble número 9 del Paseo de
+Zorrilla, colindante a sus instalaciones, como recogen en la Memoria de ese año: “pensando en
+el futuro desarrollo del negocio”.
+La Guerra Civil, comenzada en julio de 1936, dio lugar a la intervención militar de su
+producción para la fabricación de armamento hasta el final de la Guerra Civil20, si bien la
+gestión siguió quedando en manos de sus propietarios. Durante los años de la Guerra Civil, el
+incremento de los pedidos destinados al ejército nacionalista condujo a que tuviesen que
+construir gran parte de la maquinaria, adquirir terrenos colindantes para organizar su
+fabricación y reordenar y ampliar sus instalaciones con el fin de desarrollar los trabajos militares
+exigidos. En 1939 adquieren las fincas de los números 5 y 7, colindantes al número 9 donde
+estaban sus instalaciones (Memoria 1938). En estos años, la actividad de la empresa se
+intensificó y tuvieron que trabajar a tres turnos para dar respuesta a la demanda de pedidos. La
+intervención militar de los Talleres con una producción restringida para el ramo de guerra y
+simultaneada con encargos de clientes particulares, finaliza a mediados de 1939 y a partir de
+entonces se realiza una transición de un régimen de fabricación a otro. Esto también contribuyó
+a que, tras la Guerra Civil, Talleres Gabilondo pudieran adaptarse nuevamente a la demanda no
+bélica sin demasiados inconvenientes.
+Una vez terminada la guerra comienza en España un periodo de aislamiento denominado
+autarquía que duraría hasta 1959, y que se caracterizó por una profunda depresión económica.
+20 Aunque los Talleres continuaban de una forma muy residual haciendo algunos encargos para sus clientes
+habituales: “Únicamente la sección de calderería y una reducida fracción de las otras secciones fueron
+autorizadas para cumplimentar determinados encargos urgentes de nuestra habitual clientela” (Memoria 1937).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+9
+
+=== PAGE 10 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Al término de la contienda, en los años 40 se intensificaron los
+pedidos de Renfe, de la industria azucarera, cerámica y de molinería, lo cual indujo una nueva
+ampliación. En 1943 adquieren la finca número 3 de la Calle de la Florida, colindante a la que
+en la misma calle era ya propiedad de esta empresa (Memoria 1943), y donde trasladarán, a las
+afueras de la ciudad, sus talleres, que comenzaron a funcionar en 1950.
+En este contexto, durante la década de los años 1940, las relaciones entre Talleres Gabilondo y
+RENFE crecieron significativamente.21 Los talleres fabricaron piezas para la red de ferrocarriles
+en sus talleres de calderería y repararon locomotoras, cisternas y vagones cubas22. En 1945 ya
+disponían en los talleres de apartadero con la estación de Ariza para la descarga de materiales
+en la propia obra (Memoria 1945). En la década de los años 40 el beneficio de Talleres
+Gabilondo crecía progresivamente, en parte gracias a las reparaciones de material destruido
+durante la Guerra Civil. A finales de la década de 1940, construían maquinaria de diversa clase,
+tanto para uso agrícola como industrial, especializándose en la fabricación de maquinaria
+destinada a la industria azucarera, cerámicas, resinera, de curtidos, de la madera y molinería
+(Álvarez, 2007: 253-54).
+Este crecimiento en la producción de los talleres como respuesta a la demanda de reparaciones
+de material ferroviario fue el origen de un periodo de modernización y cambio determinante en
+la compañía. A finales de la década de los 40 y principios de los 50, los talleres llevan a cabo
+un proceso de ampliación de sus instalaciones y diversificación de su producción. En 1949
+aprueban ampliar el negocio disponiendo de talleres de fundición, calderería, vagones,
+construcciones metálicas, forja, ajuste y mecánica, por lo que trasladan sus instalaciones a
+principios de la década de 1950 a unos nuevos edificios construidos a las afueras de la ciudad,
+en la carretera de Madrid, que disponen de apartadero de ferrocarril (Foto 3).
+En la Memoria de la compañía de 1953 se recoge expresamente el objetivo prioritario de la
+compañía señalando que es el mantenimiento de la empresa y la modernización de la
+infraestructura para ser más competitivos. Esto evidencia una clara apuesta de los gestores por
+una política largoplacista. No tenían intención de abandonar el negocio, por el contrario,
+perseguían un objetivo de perdurabilidad y no dudaban en advertir a sus accionistas de que
+llegado el caso les pedirían un esfuerzo.23
+En los años 50 se asentaron en Valladolid nuevas industrias, automovilística con Fasa Renault,
+químicas con Endasa (aluminio), Nicas (abonos), Michelin (automoción), Pegaso, Indal, etc.,
+lo que dio lugar a nuevos pedidos para los Talleres de Fundición objeto de este caso. En la
+Memoria de 1954 recogen expresamente la intención de centrarse en la producción de
+maquinaria agrícola: “Siguiendo nuestra idea de dedicarnos intensamente a la fabricación de
+maquinaria agrícola […]”. En esta década de 1950, Talleres Gabilondo consigue además la
+patente en exclusiva para fabricar en España un tipo de máquina destinada a la industria
+papelera, y en 1955 una parte importante de su producción eran máquinas para refinar papel.
+21 Los talleres ferroviarios de Norte tenían como objetivo la autosuficiencia en la explotación del ferrocarril. Esto
+supuso que hasta finales del XIX, no hubo apenas relaciones entre los talleres de Norte y otras fundiciones y
+talleres del entorno (Álvarez & Ortúñez, 2009: 16), salvo por pedidos de poca importancia.
+22 “Entre las mejoras introducidas en nuestros Talleres, figura la colocación de la vía de ancho normal que
+comunica con las estaciones del Norte y Campo de Béjar, y se ha construido también una placa giratoria, lo que
+nos ha permitido dedicarnos a la reparación de material ferroviario de gran necesidad nacional en los momentos
+actuales” (Memoria 1940).
+23 “[…] estimamos que dicha renovación debe hacerse, aunque para ello tengamos que pedir algún sacrificio,
+llegado el momento, a los señores Accionistas” (Memoria 1953).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+10
+
+=== PAGE 11 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+En 1954 la empresa empleaba a 325 obreros. En 1964, finalmente,
+Beloit y Segura S.A., una empresa de la industria papelera, compró Talleres Gabilondo.24
+La propiedad de los Talleres fue pasando de mano en mano, pero la consideración de sus naves
+como elementos de arqueología industrial, ha impedido la destrucción total de las mismas,
+conservándose su esqueleto, tal y como queda mostrado en la Foto 4.
+4.2. El Consejo de Administración: evolución y composición
+La Tabla 2 recoge los miembros del Consejo de Administración de Talleres Gabilondo durante
+el periodo 1927-1957 y 195925. En la composición del Consejo de Administración pueden
+observarse varias cuestiones: la presencia de miembros de la familia Gabilondo, la notable
+participación de consejeros del Banco Castellano26 y la evidencia de que una mujer, Elvira
+Manso, ocupó durante 14 años27 un puesto en el Consejo. De ella llegó a decirse que colocó el
+negocio en puestos de gran prestigio industrial (VVAA, 1985: 341).
+Desde 1917 hasta 1942 (fecha en que se modifican los Estatutos), la administración de la
+compañía estaba a cargo de un Consejo de Administración, compuesto de seis accionistas, y de
+un Director-Gerente, y para ser consejero se necesitaba poseer en el momento de la elección,
+veinticinco acciones de la sociedad. En 1947, junto con la ampliación de capital, se modifican
+algunos de los artículos de los Estatutos de la compañía, y la administración de la compañía,
+estará a cargo de un Consejo, compuesto de seis accionistas como mínimo y nueve como
+máximo y de un Director Gerente, además para consejero se exige poseer, por lo menos, en el
+momento de la elección, cincuenta acciones de la sociedad. (Copia de la Escritura de
+Ampliación de Capital Social de Talleres de Fundición Gabilondo s.a. 1947, AHPVA).
+Tabla 2: Miembros del Consejo de Administración (1928-1959)
+Presidente Periodo
+Ramón Moliner Vaquero28 1928-1959
+24 En 1976 pasa a formar parte de la multinacional norteamericana bajo la denominación de Beloit Ibérica S.A.
+Posteriormente, en 1983 COINPASA compra la empresa y se constituyen como ENERTEC S.A. Desde enero de
+2001 se inicia un proceso de liquidación de la empresa que finaliza al año siguiente con la venta del solar y el
+despido de sus 93 trabajadores (Archives Portal Europe, s.f.).
+25 La remuneración del Consejo siempre fue del 5% del resultado del ejercicio. Durante la intervención militar, al
+crecer los resultados, la retribución del Consejo fue la siguiente: 2.570,23 ptas. en 1936, 10.857,28 ptas. en 1937,
+28.638,50 ptas. en 1938 y 15.639,95 ptas. en 1939. Lo que debió suponer una importante mejora en la retribución
+de los consejeros (cuyo número permanecía constante).
+26 Surgió entonces una burguesía de comerciantes locales en la ciudad que en 1857 fundó el Banco de Valladolid,
+con la finalidad de disponer de las inversiones suficientes para dotar a la ciudad de una línea ferroviaria. La Ley
+del 26 de abril de 1870 dispuso la disolución y liquidación de este banco.
+27 Las Memorias Anuales de Talleres Gabilondo que se han localizado en el AHPVA comprenden el periodo 1928-
+1959. En estas, Elvira Manso aparece como miembro del Consejo de Administración desde 1928 hasta su
+fallecimiento en 1942. No podemos asegurar con absoluta certeza que fuese consejera con anterioridad a 1928,
+porque no disponemos de las Memorias Anuales, no obstante, todo apunta a que así fue. Varios autores han
+señalado que cuando fallece su marido, Leto Gabilondo, en 1897, ella continúa con el negocio y que, en 1904,
+cuando Talleres Gabilondo se constituye en sociedad anónima, ella nombra a su hermano, Ubaldo Manso,
+presidente del Consejo de Administración. Todo esto lleva a pensar que, aunque nos limitamos a las Memorias
+disponibles (1928-1959), es probable que Elvira Manso fuese miembro del Consejo de Administración desde 1904,
+es decir durante 38 años.
+28 Ramón Moliner Vaquero, presidente del CA de Talleres Gabilondo desde 1927, y Federico Tejedor Melero,
+vocal del CA, se encontraban en la cima del poder económico de la capital, esto es, ocupaban los puestos 8 y 26,
+respectivamente, de la lista de los principales contribuyentes de Valladolid en 1911 (Álvarez & Ortúñez, 2009:
+22). El hermano de Ramón Moliner Vaquero, Vicente, era el presidente del Consejo de Administración del Banco
+Castellano.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+11
+
+=== PAGE 12 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Vicepresidente
+Arturo López Argüello29 1928-1949 (1)
+Celso Lozano Capellán30 1 950-1959
+Consejeros
+Elvira Manso, Viuda de Leto Gabilondo 1928-1942 (1)
+Federico Tejedor Melero 1928-1933 (1)
+Félix González Jiménez Peña 1928-1930 (2)
+Ubaldo Manso (Presidente hasta 1928) 1928-1933 (1)
+Juan de Aldecoa Galíndez (Consejero Delegado) 1931-1949 (3)
+Celso Lozano Capellán 1933-1950 (4)
+César Gabilondo Manso 1933-1959
+Calixto Fandos Loras31 1942-1959
+Francisco Mateo Martínez32 1948-1959
+Primitivo González García33 1948-1959
+Salvador Escribano y Escribano 1949-1959
+Banco Castellano 1950-1959 (5)
+Ángel Bagués Moreno (representación del Banco 1952
+Castellano)
+César Moro Toral (Consejero Director Gerente) 1956-1959
+Eladio Martín Mateo34 1 956-1959
+Director Gerente
+Juan de Aldecoa Galíndez 1928-1930 (6)
+Manuel López Peredo 1931-1940
+Enrique Díaz-Caneja y Fando 1940-1942
+José Mezquita Ortega 1942-1956
+Fuente: AHPVA, Delegación de Hacienda, Contribuciones de Utilidades, Ref. 7332.
+Notas: (1) Fallece; (2) Dimisión por incompatibilidades; (3) Renuncia por causas desconocidas.
+(4) Se nombra vicepresidente; (5) En 1950 fallece Arturo López Argüello (director del Banco
+Castellano), y a partir de entonces se recoge como vocal del CA de Talleres Gabilondo “Banco
+Castellano”; (6) Se retira;
+La familia Gabilondo siempre estuvo vinculada en mayor o menor medida a la gestión de la
+empresa. De hecho, fueron miembros del Consejo: Elvira Manso (1928-1942), Ubaldo Manso
+(1928-1933)35 y César Gabilondo Manso (1933-1959). En 1928 la Presidencia del Consejo pasa
+de Ubaldo Manso (hermano de Elvira) a Ramón Moliner Vaquero, y desde entonces adquieren
+más representación en el Consejo miembros que no pertenecen a la familia, entre los que cabe
+destacar la notable participación de consejeros del Banco Castellano36. Además, hay que señalar
+que el presidente del Consejo de Administración de Talleres Gabilondo (Ramón Moliner
+Vaquero) era hermano del presidente del Consejo de Administración del Banco Castellano
+(Vicente).37
+29 Director del Banco Castellano.
+30 Vicepresidente 1º del Consejo de Administración del Banco Castellano en 1860.
+31 Vocal del CA del Banco Castellano en 1860.
+32 Presidente del CA del Banco Castellano en 1860.
+33 Vicepresidente 2º del Consejo de Administración del Banco Castellano en 1860.
+34 Vocal del CA del Banco Castellano en 1860.
+35 Presidente del Consejo de Administración hasta 1928.
+36 En el Consejo de Administración de los Talleres de Fundición Gabilondo fue habitual la presencia de hombres
+procedentes de las élites económicas y con frecuencia muy vinculados a la banca.
+37 De estos hermanos se llega a decir: “Gran prestigio ha sabido conquistar esta Casa [familia Moliner], a través
+ya de casi cuatro generaciones, habiendo presidido en ella la más absoluta honorabilidad, seriedad y amor a la
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+12
+
+=== PAGE 13 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Las fuentes orales explican que, durante la intervención, el mando militar que controlaba la
+producción de los talleres era el comandante José González-Regueral y Jové38. También señalan
+la presencia de un comisario político de origen falangista, pero parece que no hubo más
+militares allí presentes. En estos años la fuerza de trabajo fue mayoritariamente femenina ya
+que los hombres menores de 40 años habían sido reclutados por el ejército.
+Por otro lado, en las Memorias de la compañía relativas al periodo de la intervención continúa
+recogiéndose un listado de los miembros del Consejo de Administración, sin variación alguna.
+Estas memorias seguían siendo elaboradas por el Consejo, firmadas por el presidente, y
+aprobadas por los accionistas, como era habitual.
+Por todo lo anterior, cabe destacar que, salvo por el hecho de que la intervención militar decidía
+y controlaba en estos años qué se producía en los Talleres, el control económico permanecía en
+manos de los accionistas. De hecho, en este periodo de intervención la Junta General de
+Accionistas distribuye anualmente un dividendo de 10 pesetas/acción (Anexo 1). Esto lleva a
+considerar que, a pesar de que físicamente hubiese militares presentes en los talleres para
+controlar que efectivamente se fabricase el material bélico que demandaban, los gestores
+mantenían el control y el poder de decisión sobre todos los demás aspectos de la organización.
+5. Las Memorias de Talleres Gabilondo (1927-1959)
+5.1. Documentación, principales variables y cambios en las cuentas
+En el Archivo Histórico Provincial de Valladolid se conservan las Memorias Anuales de
+Talleres de Fundición Gabilondo desde 1927 a 1959 (a excepción del año 1958). Estas
+Memorias incluyen el informe comentando la situación y evolución de la compañía que incluye
+la propuesta de reparto del resultado del ejercicio, el Balance de Situación39, el resumen de la
+Cuenta de Pérdidas y Ganancias40, los acuerdos aprobados por la Junta General de Accionistas,
+y, desde 1951 el certificado de los censores de cuentas (en cumplimiento de la Ley de 17 de
+julio de 1951 sobre el régimen jurídico de las sociedades anónimas).
+En relación con el informe comentando la situación y evolución de la compañía que incluye la
+propuesta de reparto del resultado del ejercicio, es lo que denominamos las narrativas y
+analizamos en el apartado 5.2. desde la perspectiva de la teoría del sesgo de atribución. En el
+Anexo 2 se recoge para cada año la base de distribución y el reparto del resultado.
+profesión, y las personas que en distintas épocas la han regentado y dirigido, han dado abundantes pruebas de
+competencia, inteligencia y laboriosidad que ha trascendido a otras empresas y entidades industriales y
+bancarias, que siempre se preciaron de contar con un Moliner dentro de sus Consejos y cuadros directivos”
+(Cámara de Comercio, 1961).
+38 “Con el levantamiento militar de julio de 1936, al que González- Regueral presentó una rápida adhesión, asumió
+responsabilidades de importancia al ser encargado de asegurar las comunicaciones en el frente de batalla del norte
+de España y al ser designado posteriormente delegado del Gobierno nacional en los Ferrocarriles del Norte” (véase
+Real Academia de Historia, 2019). En el periodo 1949-1957 fue alcalde de Valladolid.
+39 Véase Fotos 5 y 7.
+40 Véase Fotos 6 y 8.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+13
+
+=== PAGE 14 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+En relación con las cifras que presentan las Memorias, el Gráfico
+1 muestra el resultado del ejercicio41 de Talleres Gabilondo desde 1927 a 1959. En este gráfico
+pueden identificarse dos tendencias definidas y de interés. La primera es el punto de inflexión
+en los años de la Guerra Civil (1936-1939) cuando se produce un gran volumen de actividad
+para el ramo de la guerra. Y, en segundo lugar, la tendencia creciente que se manifiesta en los
+años 1940s, cuando aumentó la demanda, principalmente de pedidos de reparación de material
+ferroviario que había sido destruido durante la Guerra Civil y se reorientó la fabricación de
+maquinaria hacia otras industrias, cuyo suministro no se había abandonado en épocas anteriores,
+lo que facilitó la readaptación al mercado tras la intervención. Cabe señalar que el notable
+resultado de 1947 corresponde al beneficio de la venta de los terrenos y edificios, donde estaban
+ubicados hasta esa fecha, a Inmobiliaria de Valladolid, antes de trasladarse a los nuevos
+edificios construidos en -por aquel entonces- las afueras de la ciudad (Memoria 1947).
+Gráfico 1: Resultados y Activo Total en millones de pesetas (1927-59)
+70,00 2,50
+60,00
+2,00
+50,00
+1,50
+40,00
+30,00
+1,00
+20,00
+0,50
+10,00
+0,00 0,00
+7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7 9
+2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Activo Resultados
+En relación con el Balance de Situación y el resumen de la Cuenta de Pérdidas y Ganancias,
+cabe destacar que estos documentos no presentan cambios significativos hasta 1951, cuando se
+aprueba la Ley sobre el régimen jurídico de Sociedades Anónimas de 17 de julio, a partir de
+entonces se exige una determinada forma y contenido para esas cuentas.
+En relación con los cambios de formato y estructura que se evidencian en los balances de la
+compañía, se pueden distinguir tres periodos:
+a) Periodo 1927-1939: los balances son homogéneos y, salvo alguna excepción, las partidas
+que aparecen se repiten anualmente (véase Panel A Anexo 3).
+41 El “beneficio líquido” se presenta en un estado que denominan “Resumen de la Cuenta de Pérdidas y Ganancias”.
+Este “beneficio líquido” es la diferencia entre 1) la suma total de diferentes beneficios que obtienen en función de
+la actividad (que pueden ser: “Beneficios de la cuenta de Fabricación”, “Beneficios de la cuenta de Mercaderías”,
+“Beneficios de la cuenta de Inmuebles”, “Beneficios de la cuenta de Maquinaria”, “Beneficios en varias cuentas”,
+“Beneficio de la Cuenta de Ventas” y “Remanente del Ejercicio Anterior”), y 2) partidas que minoran ese resultado
+(“Quebranto en negociación de efectos”, “Saldo de cuenta de impuestos”, “Participación de la Dirección en los
+beneficios anuales” y “Participación de la Sub-Dirección en los beneficios anuales”). En la cuenta de PPyGG
+llaman “Beneficio líquido” al remanente del año anterior más el beneficio del año actual, pero en la base de reparto
+del resultado reconocen el concepto por el importe correcto (véase Anexo 2). No obstante, el Gráfico 1 se
+construye con los datos del beneficio del ejercicio actual (sin incluir remanente de años anteriores).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+14
+
+=== PAGE 15 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+b) Periodo 1940-1950: de forma progresiva, tanto en el
+ACTIVO como en el PASIVO comienzan a aparecer nuevas partidas, principalmente por
+aplicación de nueva legislación (en el activo, p.e. “Inversión de la Reserva Legal, Leyes 12-
+9-42, y 6-2-43”, “Inversión de la Reserva Especial, Ley 30-12-43”; y en el pasivo, “Fondo
+de Reserva Obligatoria, Leyes 12-9-1942 y 6-2-1943”, “Fondo de socorros al personal” y
+“Reserva para incendios”) y partidas relativas a nuevas inversiones y ampliaciones de
+instalaciones (p.e. “Terrenos adquirido para la construcción de nuevos talleres”,
+“Edificaciones de Nuevos Talleres”, “Laboratorio de ensayos”, “Laboratorio de análisis”)
+(véase Panel B Anexo 3).
+c) Periodo 1951-1959: los balances de este periodo se preparan cumpliendo con la ley de
+sociedades de 1951 que recogía un listado de apartados para el ACTIVO y el PASIVO
+(véase Panel C Anexo 3).
+En la cifra de activo total, los aumentos respecto al año anterior más significativos se producen
+en 1938 (46%), 1942 (343,16%), 1947 (136,16%) y en 1950 y (46,64%) (Anexo 4).
+En relación con el resumen de la Cuenta de Pérdidas y Ganancias, los cambios en el periodo
+1927-50 son muy escasos, excepto por la partida “Saldo de cuenta de impuestos” que aparece
+en el año 1940. Y algún cambio menor como, por ejemplo, a partir de 1947, cuando se presentan
+en distintas partidas la participación de la dirección y de la subdirección en los resultados (véase
+Anexo 5).
+Los Balances y las Cuentas de PPyGG de Gabilondo presentan un formato que se mantiene, al
+menos, desde 1927 a 1951. A partir de entonces, y por la aplicación de la ley se sociedades
+anónimas de 1951, el formato cambia, aparecen epígrafes (apartados) numerados que la ley
+exige para ambos documentos, por aplicación de los Arts. 103 y 105.42 Al margen del cambio
+42 Art. 103: El balance de las Sociedades anónimas no sometidas en esta materia a una legislación especial deberá
+contener por separado, y en cuanto le sean aplicables, las partidas siguientes: EN EL ACTIVO: 1. Créditos contra
+accionistas por acciones suscritas y no desembolsadas; 2. Dinero efectivo en Caja y Bancos, 3. Inmuebles e
+instalaciones industriales, 4. Maquinaria y mobiliario, 5. Títulos cotizados en Bolsa, 6. Títulos sin cotización oficial
+y participaciones en otras empresa, 7. Bienes afectos a la reserva legal, 8. Acciones propias de la Sociedad
+adquiridas de acuerdo con lo dispuesto en el art. 47, 9. Efectos de comercio, 10. Los demás créditos, 11. Materias
+primas y mercaderías, 12. Concesiones, licencias, derechos de propiedad industrial o intelectual y demás elementos
+del patrimonio de la Empresa, siempre que se hubiese pagado precio por su adquisición, 13. Los gastos de primer
+establecimiento y de constitución de la Sociedad, 14. El importe de las obligaciones amortizadas, si en el pasivo
+figurara el de las obligaciones emitidas, 15. El importe de las acciones no suscritas procedentes de los aumentos
+de capital. EN EL PASIVO: 1. El capital social con expresión de las diversas clases de acciones, 2. La reserva
+legal, 3. Las demás reservas, 4. Las deudas con garantía hipotecaria o pignoraticia, 5. Las demás deudas de las
+Sociedad, distinguiendo las vencidas de las que no lo estén, y las fianzas, garantías y otras deudas subsidiarias,
+cuando sea patente la insolvencia del deudor principal, 6. Las obligaciones emitidas por la Sociedad o las que estén
+en circulación, 7. Los fondos de amortización del activo, si los bienes patrimoniales figuran en él por su valor de
+adquisición. En el activo o en el pasivo, según proceda, figurará el saldo de la cuenta de Pérdidas y Ganancias.).
+Art. 105: Al formar la cuenta de Pérdidas y Ganancias, los Administradores expresarán con separación: A) En la
+parte relativa a los ingresos: 1. Los ingresos obtenidos por la actividad normal de la Empresa. 2. Las cantidades
+ingresadas por circunstancias u operaciones extraordinarias. 3. Los fondos de las reservas que se apliquen a los
+fines para que fueron constituidas y los ingresos que se obtengan por la enajenación o liquidación de elementos
+patrimoniales que constituyeran reservas ocultas o tácitas. Deberá consignarse asimismo la inversión de dichos
+fondos, cualquiera que sea su naturaleza. B) En la parte relativa a los gastos: 1. Los satisfechos por salarios y
+sueldos. 2. Las cantidades percibidas por los administradores que no se hallen comprendidos en el número anterior.
+3. Las amortizaciones del activo. 4. El importe de los seguros sociales. 5. Los impuestos. 6. Las pérdidas o gastos
+para cuya compensación se hayan aplicado las reservas. 7. Los demás gastos que sean corrientes en el tráfico de
+la Empresa. 8. Los gastos y quebrantos extraordinarios.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+15
+
+=== PAGE 16 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+de formato en las cuentas como resultado de la nueva legislación,
+con anterioridad los documentos no presentan cambios especialmente relevantes. En Fernández
+Revuelta et al. (2002, p. 363-64) sí hubo un cambio en el formato de ingresos, costes y
+beneficios, que se observa entre antes y después de la guerra, a pesar de que el jefe de la
+contabilidad permaneció en su puesto durante todo el conflicto.
+5.2. Análisis de las narrativas
+La parte narrativa de las Memorias Anuales es muy escueta, la más extensa (1951) tiene 7
+páginas y la más breve (1957) tiene 3 páginas. El número de palabras crece progresivamente a
+partir de 1942, coincidiendo ese año con el hecho de que hubo un cambio de director de la
+compañía. Parece que hay una ligera correlación positiva entre el número de palabras de las
+Memorias y los resultados (Gráfico 2). Por otro lado, el máximo en número de palabras en una
+Memoria se produce en 1951 (con 2.132), posiblemente como resultado de la nueva legislación
+que resulta de aplicación ese año.
+Gráfico 2: Longitud narrativas vs. Resultados
+2,50 2.500
+2,00 2.000
+1,50 1.500
+s
+e
+n
+o lliM 1,00 1.000
+0,50 500
+0,00 0
+7 9 1 3 5 7 9 1 3 5 7 9 1 3 5 7
+2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+resultados nº palabras
+Hemos analizado las narrativas desde la perspectiva de la teoría del sesgo de atribución. Para
+el análisis se han seleccionado todas las frases (en ocasiones párrafos) que se incluyen en las
+Memorias publicadas por la empresa a lo largo de 30 años, desde 1927 hasta 1957. Estas frases
+recogen una relación causa-efecto donde un factor (interno o externo) incide positiva o
+negativamente sobre el resultado del ejercicio, o indirectamente sobre una variable que afecta
+a este.43 Las frases se han codificado, indicando para cada una de ellas: (1) la variable causal,
+(2) el efecto o consecuencia, (3) si la causa es interna o externa, y (4) si el efecto es positivo o
+negativo (bien directa o indirectamente) sobre el resultado del ejercicio.
+A modo de ejemplo, seleccionamos las explicaciones que hacen referencia directa o
+indirectamente al resultado del ejercicio. En el primer caso, encontramos por ejemplo frases
+como: “La realización de importantes encargos anteriores, a que nos referíamos en la Memoria
+precedente, nos ha permitido, pese a las circunstancias apuntadas, ofreceros el resultado
+43 En línea con el método de trabajo de trabajo de artículos como Aerts (2005), quien distingue entre los efectos en gastos,
+ingresos y resultado.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+16
+
+=== PAGE 17 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+favorable que refleja el Balance y cuenta de Pérdidas y
+Ganancias, que más adelante os presentamos” (Memoria 1932). Y, en el segundo caso, hemos
+seleccionado también frases que recogen causas que indirectamente afectan al resultado del
+ejercicio a través de otras variables, como, por ejemplo: “los optimismos que os comunicábamos
+al comenzar el año último se han visto en parte, realizados, pues hemos logrado alcanzar un
+volumen de obra superior al del ejercicio precedente” Memoria 1929). En este último ejemplo
+no hacen referencia directa al resultado del ejercicio, sino al volumen de obra que a su vez
+afectará al resultado del ejercicio.
+Hay muchas otras frases que no han sido incorporadas al análisis porque la relación de
+causalidad no es tan evidente, nos referimos a aquellas explicaciones que podríamos denominar
+de “evitación” ya que presentan la gestión de la compañía como responsables de que lo externo
+no resulte tan perjudicial para la empresa, por ejemplo, “Cada año que transcurre son mayores
+nuestros deseos, y ponemos en ellos todo nuestro esfuerzo en la Memoria plena de
+satisfacciones, tanto en el resultado económico, como en el de proyectos realizables para el
+porvenir. La realidad es que seguimos tropezando con dificultades de toda índole, haciendo
+que nuestra labor no sea todo lo brillante que deseáramos.” (Memoria 1954)
+Expuesto lo anterior, cabe señalar que en total se han identificado 97 observaciones, de las
+cuales 66 hacen referencia a causas externas a la organización que impactan en resultados y 31
+a causas internas (2 observaciones incluyen causas internas y externas simultáneamente). Por
+otro lado, 41 hacen referencia a un impacto positivo en resultados y 54 a un impacto negativo.
+La Tabla 3 clasifica las observaciones en función de la combinación causa-efecto, identificando
+54 frases que explican efectos negativos en los resultados de la compañía con origen en causas
+externas, y ningún caso con origen en causas internas. Por otro lado, 31 frases explican
+resultados positivos de la empresa con origen en causas internas y 12 imputables a causas
+externas.
+Tabla 3: Resumen de las relaciones de causalidad identificadas
+Causa/Efecto Externa Interna Total
+Negativo 54 0 54
+Positivo 12 31 43
+Total 66 31 97
+La Tabla 4 recogen las causas más frecuentes, tanto internas como externas, y su efecto en
+resultados utilizadas en las narrativas. Del análisis del contenido de las Memorias de Talleres
+Gabilondo se evidencia una tendencia general a atribuir resultados positivos como consecuencia
+de causas internas a la organización, entre las que caben destacar referencias expresas, entre
+otras, a la “actuación previsora de los gestores”, al “correcto desempeño de los gestores”, a la
+“inteligencia y cuidadosa labor del personal directivo y facultativo”.
+También se observa una clara tendencia a atribuir resultados negativos como consecuencia de
+causas externas a la organización, entre las que destacan, con más frecuencia, la depresión en
+otras industrias, la inestabilidad del contexto social y político, el retraso o la carestía en el
+suministro de materias primas, o los problemas con el suministro de energía eléctrica. Incluso
+llegan a referirse expresamente a las causas que afectan negativamente al resultado como
+“causas ajenas a la voluntad de los gestores”.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+17
+
+=== PAGE 18 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Tabla 4: Listado de causas Externas/Internas por año
+1927 crisis general de ClaA inUdSuAstrSi aE XTERNAS - EFECTO NEGATIVO
+falta de trabajo
+1929 depresión de la industria harinera y resinera
+1930 depreciación de la moneda y elevados aranceles
+1931 agitación social y luchas políticas
+contexto social de agitación y luchas políticas
+1932 crisis mundial y evolución de las organizaciones proletarias
+1933 incidencias políticas y sociales
+legislación de accidentes de trabajo
+1934 amenazas de orden público
+1935 inestabilidad de los gobiernos
+retraso en el suministro de materias primas
+1936 paralización industrial y agitación social
+dificultades del momento
+dificultades contexto social y político
+1938 escasez de mano de obra y dificultades para la adquisición de maquinaria
+1940 terminación de la producción de material de guerra
+carestía de materias primas y dificultades de transporte, aumento de jornales, paga de los
+1941 edsocmasinezg odse ym aautmereianst op rdiem parse yc idoi fdiec utoltdaodse sl odse p trroadnuspcotorste
+1942 escasez de materias primas y dificultades de transporte
+1943 carencia de materias primas
+guerra mundial
+falta de hulla
+causas ajenas a la voluntad de los gestores
+1944 problemas con el suministro de energía eléctrica
+problemas con el suministro de energía eléctrica
+encarecimiento de la mano de obra y encarecimiento del producto
+escasez de materias primas
+1945 restricciones de energía
+1946 dificultad en la adquisición de materias primas y restricciones de energía
+1947 situación industrial de otras empresas, falta de abastecimiento de materias primas
+sequía y falta de energía eléctrica
+restricciones de gasolina
+1948 sequía y restricciones de energía
+restricciones de energía eléctrica
+1949 restricciones de materias primas
+sequía, restricciones energéticas, Impuestos
+restricciones (sequía, materias primas, etc.)
+falta de puente giratorio debido a la falta de materiales
+1950 restricciones de materias primas
+retrasos en el servicio oficial de materiales
+1952 precio de las materias primas
+precio de energía eléctrica
+escasa distribución de materias primas
+1953 restricciones de energía eléctrica
+1954 suministro de energía eléctrica
+problema de suministro de materias primas para la producción
+dificultad de adquisición de materiales
+1955 problemas con el suministro de laminados
+RENFE aumenta la capacidad de sus talleres o desguaza un número importante de
+1956 laoucmomenototo draes j ornales, subida precios materiales, restricciones eléctricas
+paralización de los hornos eléctricos
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+18
+
+=== PAGE 19 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+1957 dificultades generales, falta de un escenario de normalidad
+restricciones eléctricas
+1927 actuación previsorCaA dUe SloAs Sg eIsNtoTrEesR NAS – EFECTO POSITIVO
+1928 aumento del volumen de obra
+importancia de algunas obras conseguidas y constantes mejoramientos que van introduciendo
+(mcoednisdeacsu evnacriiaas d dee u rne epmlapnl aezmop yr emndejiodro )d e instalaciones
+(buena gestión) bien dotadas amortizaciones y reservas y disponer de importante remanente
+1929 mejora de la posición de la empresa en el mercado y habilidad de los gestores (menor cantidad
+aduem obenrato p droed culcieidnate) s y trabajos extraordinarios
+1930 esmerada construcción y precio ventajoso de la maquinaria que fabrican en los Talleres
+aumento de la clientela y de los trabajos en ejecución y en proyecto
+1931 mantener el volumen de obra
+logro de los gestores (buen desempeño)
+1932 importantes encargos
+mejoras en el equipamiento
+1933 encargos realizados
+1934 decisiones de los gestores (restricciones en los beneficios y facilidades en los pagos)
+1936 acontecimientos (Glorioso Movimiento Nacional)
+1938 aumento de la producción como consecuencia de los 3 turnos de trabajo
+1942 modernización y equipamiento de la industria
+1943 inversión en instalaciones
+mejoras en las instalaciones
+1944 modernización y mejora de equipamientos
+1945 mejoras internas para el suministro de energía eléctrica
+1946 instalaciones para evitar las restricciones energéticas
+inteligencia y cuidadosa labor del personal directivo y facultativo
+1947 sacrificio del personal
+1948 compromiso del personal de la empresa
+esfuerzo realizado por nuestros cooperadores (entendemos trabajadores) tanto de carácter
+1949 até cpneiscaor cdoem loa sc odmifeicrcuilatal d es, estas han sido sorteadas logrando los gestores las cifras que
+1950 reespfuoerrtazno y entusiasmo del personal
+1954 acuerdo de colaboración que formalizaron los gestores con una tercera empresa
+negociación de los gestores con esta empresa
+1928 importancia de algCuAnUasS oAbSra Es cXoTnEseRguNiAdaSs –y cEoFnEstCanTteOs mPOejSoIraTmIVieOnt os que van introduciendo
+1929 (mcoejnosreac duee nlac ipao dseic uiónn p dlea nla e emmpprerensdai deon) e l mercado y habilidad de los gestores (menor cantidad
+1930 tdrea boabsr aim pproudeustcaisd aa) nuevas fábricas
+1936 Glorioso Movimiento Nacional
+Glorioso Movimiento Nacional
+1937 Glorioso Movimiento Nacional
+incremento de la producción (aumentada por la intervención)
+1938 régimen de militarización
+cooperación de los servicios militares
+1939 Caudillo Generalísimo Franco (paz victoriosa, libres de inquietudes y zozobras de la guerra)
+1951 mejora de los problemas económicos en el país y de los fenómenos meteorológicos
+mayor disponibilidad de los materiales precisos
+Es en relación con la combinación causa externa - efecto positivo en resultados, donde
+consideramos de mayor interés las evidencias que muestra este caso. Las 12 observaciones que
+recogen causa externa-efecto positivo (Tabla 3) incluyen 2 observaciones que al mismo tiempo
+atribuyen el efecto positivo a causas internas, de modo que 2 observaciones serían “mixtas”.
+Retirando estas dos observaciones, por dejar únicamente las explicaciones “puras” que
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+19
+
+=== PAGE 20 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+atribuyen exclusivamente a causas externas efectos positivos en
+resultados, tendríamos 10 observaciones. Lo importante de estas frases es cuándo aparecen, ya
+que 7 de las 10 (70%) se recogen en las Memorias Anuales publicadas en los años que
+corresponden al periodo de la Guerra Civil, en particular a los años en los que los Talleres están
+militarmente intervenidos (Tabla 5).
+Tabla 5: Observaciones causa externa-efecto positivo
+Año Observaciones
+1930 1
+1936 2
+1937 2
+1938 2
+1939 1
+1951 2
+Total 10
+A continuación, se recoge en la Tabla 6 se exponen las frases que resultan de interés, recogidas
+en las narrativas durante la intervención.
+Tabla 6: Frases de causas EXTERNAS y efecto POSITIVO durante la intervención
+Obs. 1: “En tal situación, sobrevino el Glorioso Movimiento Nacional, destinado a poner
+término en plazo próximo al estado caótico a que nos hallamos abocados, reanudándose la
+actividad en los Talleres con la fabricación de material para el ramo de Guerra.” (Memoria
+1936).
+Causa → Glorioso Movimiento Nacional. Efecto → se reanuda la producción de los Talleres
+con la fabricación de material bélico.
+Obs. 2: “Al sobrevenir el movimiento aludido, consignamos con satisfacción, que una parte
+de nuestro personal, conservado con tanto esfuerzo, no faltó a sus obligaciones, viéndonos
+precisados a despedir al que no se reintegró al trabajo en un tiempo prudencial" (Memoria
+1936)
+Causa → Glorioso Movimiento Nacional. Efecto → no absentismo de la plantilla.
+Obs. 3: “A principios del mes de febrero, la Jefatura de Fabricación del Ejército del Norte
+procedió a la militarización de los Talleres y movilización de su personal, continuando en la
+actualidad en dicha situación militar. Este último ha sido incrementado en tal cuantía, que ha
+duplicado su cifra normal, y en gran parte ha habido necesidad de instruirle en el género de
+trabajos que realiza, a causa de la escasez que se nota de obreros con dominio del oficio.”
+(Memoria 1937)
+Causa → militarización por parte de la Jefatura de Fabricación del Ejército del Norte. Efecto
+→ aumento del número de empleados y formación de estos en el oficio.
+Obs 4: “Habiéndose incrementado notablemente la producción [como consecuencia de la
+producción para el ramo de la Guerra], es natural que los beneficios conseguidos superen a
+los precedentes […]” (Memoria 1937)
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+20
+
+=== PAGE 21 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Causa → Jefatura de Fabricación del Ejército del Norte (que militariza los Talleres). Efecto
+→ aumento notable de la producción que incrementa beneficios.
+Obs. 5: “Desarrollada toda la actividad de estos Talleres bajo el régimen de militarización,
+nos cabe el honor de haber cooperado, aun siendo en proporción reducida e indirecta, a la
+admirable labor que durante el tercer año triunfal ha realizado nuestro Glorioso Ejército en
+la liberación de la Patria, bajo el mando genial de su ilustre Caudillo el Generalísimo
+Franco. Huelga decir que casi la totalidad de la producción ha sido de material de guerra,
+habiéndose establecido tres turnos de trabajo y ampliado circunstancialmente nuestras
+instalaciones a fin de lograr el máximo rendimiento.” (Memoria 1938)
+Causa → Glorioso Ejército (bajo el mando genial de su ilustre Caudillo el Generalísimo
+Franco). Efecto → incremento del volumen de producción de material de guerra que supone
+establecer tres turnos de trabajo.
+Obs. 6.: “En la adquisición de primeras materias se ha hallado alguna dificultad, desde luego
+muy inferior a las que cabía esperar en las circunstancias anómalas que atravesamos. Para
+vencer éstas hemos contado en todo momento con la cooperación de los servicios militares"
+(Memoria 1938)
+Causa → Cooperación de los servicios militares. Efecto → reducción de dificultades en la
+adquisición de materias primas.
+Obs. 7: “La satisfacción, anualmente renovada, que nos produce el reuniros en nuestro
+domicilio social, para daros cuenta del resultado económico del ejercicio de 1939, se ve hoy
+aumentado, por poderlo hacer libres de las inquietudes y zozobras de la guerra en la paz
+victoriosa a que nos han llevado las armas de nuestro invicto Caudillo Generalísimo Franco”
+(Memoria 1939)
+Causa → Paz victoriosa del invicto Caudillo Generalísimo Franco. Efecto → aumento del
+resultado económico del ejercicio.
+Talleres Gabilondo quedaron adheridos al ejercito nacionalista desde el principio. Cabe esperar
+que, en un contexto de represión, como los años de la Guerra Civil española, donde cualquier
+crítica u opinión contraria al régimen implicaba casi con toda probabilidad la muerte, las
+narrativas de las empresas declarasen su adhesión ideológica a este. De hecho, las narrativas de
+Talleres Gabilondo llegan a convertirse en estos años en un medio de apoyo al ejército
+nacionalista, presentándose a sí mismos como adheridos al régimen (en principio parece que
+voluntariamente). De hecho, son frecuentes en este periodo las manifestaciones expresas en
+favor del régimen. En la Memoria de 1938 se recoge: “nos cabe el honor de haber cooperado,
+aun siendo en proporción reducida e indirecta, a la admirable labor que durante el tercer año
+triunfal ha realizado nuestro Glorioso Ejército en la liberación de la Patria, bajo el mando
+genial de su ilustre Caudillo el Generalísimo Franco”.
+A lo anterior, se debe añadir que, durante los años de la intervención, las Memorias de los
+Talleres finalizan su exposición de la siguiente manera:
+- “Y terminamos esta memoria haciendo votos fervientes por el triunfo del Movimiento
+Salvador dirigido por nuestro Invicto Caudillo el Generalísimo Franco, que ha de llevar a
+nuestra Nación a ser la España grande y próspera que todos anhelamos.” (Memoria 1937)
+- “Y terminamos esta memoria reiterando nuestra entusiasta adhesión al ilustre caudillo y a
+su Glorioso Ejército, artífices de una serie de una serie de victorias históricas conducentes
+a un próximo y definitivo triunfo, que será la coronación de la magna empresa de la
+liberación de nuestra querida patria a la que auguramos días de resurgimiento y
+prosperidad.” (Memoria 1938)
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+21
+
+=== PAGE 22 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+- “Terminamos esta memoria haciendo votos cordiales, porque
+nuestra nación, tan profundamente quebrantada en los últimos años, consiga pronto el
+anhelado restablecimiento, aunque esta sociedad; en su modesta esfera, se proponen
+cooperar con el máximo esfuerzo”. (Memoria 1939)
+6. Conclusiones
+Este trabajo ha analizado las narrativas del caso de Talleres de Fundición Gabilondo que fueron
+intervenidos militarmente para la fabricación de armamento durante la Guerra Civil española.
+Utilizando la teoría del sesgo de atribución, los resultados demuestran cómo los gestores ya
+aplicaban prácticas de impression management, legitimando la actuación del régimen
+ideológico de la época. La empresa en definitiva atribuía sus buenos resultados (obtenidos con
+la fabricación de armamento) a las bondades del movimiento nacionalista. En todo esto hay un
+componente de legitimación, es decir, los resultados positivos se justifican porque “estoy en el
+bando correcto”.
+Se debe tener en consideración como una limitación del trabajo que las Memorias de los talleres
+son especialmente breves, lo que reduce la riqueza de relaciones causales que permitiría
+concretar qué mecanismos de atribución fueron utilizados con más frecuencia o si aparecen
+patrones de repetición.
+No se observan variaciones en el formato o presentación de las cuentas entre antes y después
+de la intervención, a diferencia del trabajo de Fernández Revuelta et al. (2002: 363-64) donde
+sí evidencian que hubo un cambio en el formato de ingresos, costes y beneficios, que se observa
+entre antes y después de la guerra, a pesar de que el jefe de la contabilidad permaneció en su
+puesto durante todo el conflicto.
+Las narrativas de Talleres de Fundición Gabilondo validan la tendencia que identifica la
+literatura sobre sesgo de atribución, salvo en lo relativo a los años en los que la empresa
+estudiada es intervenida militarmente, como demuestran las referencias que atribuyen
+resultados positivos al bando nacionalista.
+Podría considerarse que el régimen de intervención militar fuese considerado para estos años
+un factor interno a la organización, sin embargo, la gestión de los Talleres no era realizada por
+militares y las Memorias iban destinadas a rendir cuentas a los accionistas. Durante estos años
+se produce en las Memorias un traspaso de las atribuciones positivas desde los gestores al bando
+nacionalista, y cabe destacar que a pesar de que las narrativas podían haber expuesto
+simultáneamente causas internas con efecto positivo en resultados, tampoco lo expresaron
+durante esos años.
+Por otro lado, es evidente que el clima reinante en el entorno fue clave para que se produjera la
+trasferencia de las atribuciones positivas a las bondades del régimen. Este estudio de caso pone
+en evidencia que la literatura sobre sesgo de atribución no es válida en determinados contextos
+sociales y políticos, como el estudiado en este caso, en que se produjo una intervención militar
+de la producción de los talleres.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+22
+
+=== PAGE 23 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+La literatura evidencia múltiples formas que se detectan en el
+impression management que persiguen la legitimación (Ogden & Clarke 2005). Parece
+evidente a priori el reflejo del sesgo de atribución en las narrativas sobre resultados contables
+de los talleres, ahora bien, sería igual de importante identificar qué factores motivan a que este
+sesgo sea más acusado. Estos factores podrían ser el miedo, la alineación de objetivos, la
+exculpación deliberada, la ideología compartida, etc. En cualquier caso, es complicado
+responder a esta pregunta pues no se disponen de las suficientes fuentes como para profundizar
+en este punto.
+A partir de 1941 la extensión de las narrativas crece progresivamente. ¿Este aumento de
+información podría deberse a la otra función de las narrativas, a un intento de los gestores por
+tratar de mantener la confianza de los stakeholders en la empresa, después de un periodo en el
+que las narrativas estuvieron más destinadas al impresion management? Es difícil concluir
+algo al respecto, puesto que este cambio en la longitud del documento coincide también con
+un cambio de director de la empresa, de modo que es difícil identificar qué determina
+realmente este cambio.
+Agradecimientos
+Agradecemos a Vicente de Castro Fernández, Licenciado en Historia por la Universidad de
+Valladolid, su colaboración imprescindible para la localización de las fuentes archivísticas,
+esenciales para reconstruir la historia de la empresa.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+23
+
+=== PAGE 24 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Fuentes primarias
+Talleres Gabilondo/ENERTEC (AHPVA):
+Gabilondo (1947): Copia de la escritura de ampliación de capital social de Talleres
+Gabilondo, 30 de junio de 1947. Archivo Histórico Provincial de Valladolid, Talleres
+Gabilondo/ENERTEC, Ref. ES.47186.AHPVA/1 - ES-47186-AHPVA-UD-1583180
+Memorias Gabilondo (1927-1959): Memorias Anuales de los Talleres de Fundición
+Gabilondo. Archivo Histórico Provincial de Valladolid, Talleres Gabilondo/ENERTEC,
+Ref. ES.47186.AHPVA/1 - ES-47186-AHPVA-UD-1583180
+Legislación:
+Ley de 17 de julio de 1951 sobre régimen jurídico de las sociedades anónimas. Boletín Oficial
+del Estado: núm. 199, de 18/07/1951, páginas 3355 a 3374. Departamento: Jefatura del
+Estado PDF (Referencia BOE-A-1951-7800)
+Fuentes secundarias
+Biblioteca Digital de Castilla y León:
+El financiero Hispano-americano, 1911 (extraordinario).
+Cámara de Comercio, 1961: “Bodas de Diamante de la Cámara Oficial de Comercio y de
+Industria de la Provincia de Valladolid”. Información Económica, 244 (extraordinario)
+Hemeroteca Nacional de la Biblioteca Nacional de España:
+Anuario del Comercio, de la Industria, de la Magistratura y de la Administración, 1910.
+El financiero Hispano-americano, 7/4/1911.
+Revista ilustrada de Banca, Ferrocarriles, Industria y Seguros, 10/3/1912.
+Sitios web
+Archives Portal Europe (s.f.). Talleres Gabilondo/ENERTEC 1904/1998.
+https://www.archivesportaleurope.net/ead-display/-/ead/pl/aicode/ES-
+00000053031/type/hg/id/ES.47186.AHPVA_SLASH_1/unitid/ES.47186.AHPVA_SLASH
+_1+-+ES.47186.AHPVA_SLASH_242/search/0/talleres+gabilondo
+Fundación Joaquín Diez. [online] Disponible en: <http://www.
+https://funjdiaz.net/comercio/ficha.php?id=2126> [Fecha de acceso: 8 de julio de 2018].
+Valladolid Web. [online] Disponible en: <https://www.valladolidweb.es/index.htm> [Fecha
+de acceso: 8 de julio de 2018].
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+24
+
+=== PAGE 25 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Bibliografía
+Abdelrehim, N., Maltby, J. & Toms, S. (2014). Narrative reporting and crises: British
+Petroleum and Shell, 1950-1958. Accounting History, 20(2), 138-57.
+https://doi.org/10.1177/1032373214563323
+Aerts, W. (2005). Picking up the pieces: impression management in the retrospective
+attributional framing of accounting outcomes. Accounting, Organizations and Society,
+30, 493-517. https://doi.org/10.1016/j.aos.2004.07.001
+Álvarez Martín, M.M. (2007). La industria fabril en Castilla y León durante el primer
+franquismo (1939-1959). Valladolid, Ed. Universidad de Valladolid.
+Álvarez Martín, M.M. & Ortúñez Goicolea, P.P. (2009). La formación de un distrito
+metalúrgico en Valladolid (c. 1842-c. 1953). Asociación Española de Historia
+Económica, Documentos de trabajo. https://www.aehe.es/wp-
+content/uploads/2015/04/dt-aehe-09061.pdf
+Álvarez Martín, M.M. & Ortúñez Goicolea, P.P. (2010). La Mirada del Ejército sobre la
+Industria: Los Sectores Eléctrico y Químico en la España de Entreguerras. Anales de
+Estudios Económicos y Empresariales, 20, 185-212.
+https://dialnet.unirioja.es/descarga/articulo/3763144.pdf
+Brennan, N. & Merkl-Davies, D. (2013). Accounting narratives and impression
+management. In: The Routledge Companion to Communication in Accounting. London:
+Routledge, 109–32.
+Burchell, S., Clubb, C., Hopwood, A. & Hughes, J. & Nahapiet, J. (1980). The roles of
+accounting in organizations and society. Accounting, Organizations and Society, 5(1),
+5-27. https://doi.org/10.1016/0361-3682(80)90017-3
+Cayón, F. (1999). “La industria de construcción de material ferroviario: estructura y
+evolución (1848-1997)”. En Vidal Olivares, Muñoz Rubio y Sanz Fernández (eds.):
+Siglo y medio del ferrocarril en España, 1848 - 1998: economía, industria y sociedad.
+Ed. Instituto Alicantino Juan Gil-Albert, 787-808.
+Cayón, F., González, R. & Muñoz Rubio, M. (1998). El Camino del Tren. 150 años de
+infraestructura ferroviaria. Madrid, Ed. RENFE y FFE.
+Cayón, F. & Muñoz Rubio, M. (1998). La industria de construcción de material ferroviario.
+Una aproximación histórica. Madrid, Ed. Fundación Empresa Pública.
+https://www.fundacionsepi.es/investigacion/publicaciones/DocumentosTrabajo/PHE/hdt
+1998_3.pdf
+Claworthy, M.A. & Jones, M.J. (2006). Differential patterns of textual characteristics and
+company performance in the chairman’s statement. Accounting, Auditing &
+Accountability Journal, 19(4), 493-511. 10.1108/09513570610679100
+Cobbin, P. E. & Burrows, G. H. (2018). The profession of arms and the profession of
+accounting numbers – Accounting, the military and war: A review. Accounting History,
+23(4), 487-520. https://doi.org/10.1177/1032373218779188
+Fernández-Revuelta, L., Gómez, D. & Robson, K. (2002). Fuerzas Motrices del Valle de
+Lecrín, 1936-9: accounting reports and ideological struggles in time of civil war.
+Accounting, Business & Financial History, 12(2), 347-366.
+https://doi.org/10.1080/09585200210134974
+Gabilondo Santander, I. (2012). Leto Gabilondo: un vallisoletano ilustre. Edición del Autor,
+88 pp. Biblioteca del Archivo Municipal de Valladolid, ref. C.217-25.
+Gómez Mendoza, A. (1978). “Los ferrocarriles y la industria siderúrgica”. En Los
+ferrocarriles y el desarrollo económico de Europa Occidental durante el siglo XIX.
+Madrid, Ed. Renfe, 129-146.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+25
+
+=== PAGE 26 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Gómez Mendoza, A. (1981). “Los ferrocarriles y la industria
+siderúrgica, 1855-1913”. En Los ferrocarriles y el desarrollo económico de Europa
+Occidental durante el siglo XIX. Madrid, Ed. Renfe, 129-146.
+Gómez Mendoza, A. (1985). La industria del material ferroviario, 1844-1935. Madrid,
+Banco de España.
+Lalana Soto, J.L. (2003). Los talleres ferroviarios de Valladolid: del siglo XIX al XXI. En
+Actas del III Congreso de Historia Ferroviaria: Siglo y medio del ferrocarril en Asturias,
+Gijón. https://www.docutren.com/HistoriaFerroviaria/Gijon2003/pdf/te4.pdf
+Li, F. (2008). Annual report readability, current earnings, and earnings persistence. Journal of
+Accounitng & Economics, 45, 221-247. https://doi.org/10.1016/j.jacceco.2008.02.003
+Moreno, A., Jones, M.J. & Quinn, M. (2019). A longitudinal study of the textual
+characteristics in the chairman’s statements of Guinness: An impression management
+perspective. Accounting, Auditing & Accountability, 32(6), 1741-1741.
+https://doi.org/10.1108/AAAJ-01-2018-3308
+Ogden, S. & Clarke, J. (2005). Customer disclosures, impression management and the
+construction of legitimacy: Corporate reports in the UK privatised water industry.
+Accounting, Auditing & Accountability, 18(3), 313-345.
+https://doi.org/10.1108/09513570510600729
+Pérez Sánchez, G.A. (1992). Los Talleres Principales de Reparación de la Compañía del
+Norte en Valladolid: un estudio de la historia social (1861-1931). Revista de
+Investigaciones Históricas: época moderna y contemporánea, 12, 255-284.
+https://dialnet.unirioja.es/descarga/articulo/66339.pdf
+Real Academia de la Historia (2019). José Antonio González-Regueral y Jové. Recuperado
+de http://dbe.rah.es/biografias/63282/jose-antonio-gonzalez-regueral-y-jove
+Rutherford, B.A. (2003). Obfuscation, textual complexity and the role of regulated narrative
+accountijng disclosure in corporate governance. Journal of management and
+governance, 7(2), 187-210. https://link.springer.com/article/10.1023/A:1023647615279
+Salancik, G.R. & Meindl, J.R. (1984). Corporate Attributions as Strategic Illusions of
+Management Control. Administrative Science Quarterly, 29(2), 238-254.
+https://www.jstor.org/stable/2393176
+Sancho Sora, A. (2000). Especialización flexible y empresa familiar: la Fundición Averly de
+Zaragoza (1863-1930). Revista de Historia Industrial, 17, 61-95.
+https://raco.cat/index.php/HistoriaIndustrial/article/view/63361
+Suchman, M.C. (1995). “Managing legitimacy: strategies and institutional approaches”,
+Academy of Management Review, 20(3), 571-610. https://doi.org/10.2307/258788
+Vidal Olivares, J. (1999). La estructura de la propiedad, la organización y la gestión de una
+empresa ferroviaria: la Compañía de los Caminos de Hierro del Norte de España, 1858-
+1936. Revista de Historia Económica, 3, 623-662. http://hdl.handle.net/10016/2085
+VVAA (1985). Valladolid en el S. XIX. Historia de Valladolid, tomo VI.
+Wais, F. (1974). Historia de los ferrocarriles españoles. Madrid, Ed. Editora Nacional.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+26
+
+=== PAGE 27 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Anexo 1. Beneficio líquido, Capital Social y Dividendos
+(Pesetas)
+Año Beneficio Variación t Capital Social Dividendos (%) Impuestos
+1904 Líqui-d o (en sobre t-- 1 (%) 500.000,00 0,0 -
+1905 - - 500.000,00 0,0 -
+1906 - - 500.000,00 0,0 -
+1907 - - 500.000,00 0,0 -
+1908 29.860 - 500.000,00 4,0 a c/ de la Sdad.
+1909 38.650 - 500.000,00 4,5 a c/ de la Sdad.
+1910 51.360 - 500.000,00 5,5 a c/ de la Sdad.
+1911 - - 500.000,00 5,5 a c/ de la Sdad.
+1912 - - 500.000,00 5,0 a c/ de la Sdad.
+1913 - - 500.000,00 5,0 a c/ de la Sdad.
+1914 - - 500.000,00 0,0 -
+1915 - - 500.000,00 0,0 -
+1916 - - 500.000,00 0,0 -
+1917 - - 629.000,00 5,0 a c/ de la Sdad.
+1918 - - 621.500,00 6,0 a c/ de la Sdad.
+1919 - - 608.500,00 6,0 a c/ de la Sdad.
+1920 - - 594.500,00 7,0 a c/ de la Sdad.
+1921 - - 576.500,00 7,0 a c/ de la Sdad.
+1922 - - 556.500,00 7,0 a c/ de la Sdad.
+1923 - - 539.000,00 7,0 a c/ de la Sdad.
+1924 - - 528.500,00 7,0 a c/ de la Sdad.
+1925 - - 515.500,00 7,0 a c/ de la Sdad.
+1926 - - 504.500,00 7,0 a c/ de la Sdad.
+1927 35.242,88 - 500.500,00 6,0 a c/ de la Sdad.
+1928 71.466,12 102,78% 500.500,00 7,0 a c/ de la Sdad.
+1929 73.741,11 3,18% 500.500,00 7,0 a c/ de la Sdad.
+1930 92.015,50 24,78% 500.500,00 7,0 a c/ de la Sdad.
+1931 90.480,73 -1,67% 500.500,00 7,0 a c/ de la Sdad.
+1932 97.898,80 8,20% 500.500,00 7,0 a c/ de la Sdad.
+1933 102.822,75 5,03% 500.500,00 7,0 a c/ de la Sdad.
+1934 106.888,43 3,95% 500.500,00 8,0 a c/ de la Sdad.
+1935 93.365,29 -12,65% 500.500,00 8,0 a c/ de la Sdad.
+1936 51.415,18 -44,93% 500.500,00 6,0 a c/ de la Sdad.
+1937 217.145,63 322,34% 500.500,00 10,0 a c/ de la Sdad.
+1938 572.769,95 163,77% 500.500,00 10,0 a c/ de la Sdad.
+1939 312.798,63 -45,39% 500.500,00 10,0 a c/ de la Sdad.
+1940 181.483,71 -41,98% 500.500,00 10,0 a c/ de la Sdad.
+1941 165.188,73 -8,98% 500.500,00 10,0 a c/ de la Sdad.
+1942 300.862,16 82,13% 500.500,00 10,0 a c/ de la Sdad.
+1943 420.082,24 39,63% 4.000.000,00 10,0 a c/ de la Sdad.
+1944 420.615,04 0,13% 4.000.000,00 8,0 a c/ de la Sdad.
+1945 557.478,95 32,54% 4.000.000,00 8,0 a c/ de la Sdad.
+1946 733.861,65 31,64% 4.000.000,00 8,0 a c/ de la Sdad.
+1947 2.380.135,47 224,33% 4.000.000,00 10,0 a c/ de los accionistas
+1948 1.225.712,50 -48,50% 7.000.000,00 10,0 a c/ de los accionistas
+1949 1.229.844,29 0,34% 10.000.000,00 9,0 a c/ de los accionistas
+1950 1.913.146,29 55,56% 10.000.000,00 9,0 a c/ de los accionistas
+1951 2.013.854,87 5,26% 15.000.000,00 9,0 a c/ de los accionistas
+1952 1.245.718,03 -38,14% 15.000.000,00 6,0 a c/ de los accionistas
+1953 1.897.731,42 52,34% 15.000.000,00 7,0 a c/ de los accionistas
+1954 1.523.608,48 -19,71% 15.000.000,00 6,0 a c/ de los accionistas
+1955 1.513.195,60 -0,68% 20.000.000,00 6,0 a c/ de los accionistas
+1956 1.681.250,32 11,11% 20.000.000,00 6,0 a c/ de los accionistas
+1957 1.851.910,38 10,15% 20.000.000,00 6,0 a c/ de los accionistas
+1958 - - - - -
+1959 1.287.265,56 -30,49% 20.000.000,00 4,0 a c/ de los accionistas
+Fuente: Memorias (1927-1959) y El Financiero Hispano-Americano (1911: 108).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+27
+
+=== PAGE 28 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Anexo 2. Base de distribución y reparto del resultado (Pesetas)
+Panel A: Periodo 1927-1939
+1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937 1938 1939
+Beneficio Líquido 35.242,88 71.466,12 73.741,11 92.015,50 90.480,73 97.898,80 102.822,75 106.888,4 93.365,29 51.415,18 217.145,63 572.769,9 312.798,63
+Remanente 52.710,46 38.136,10 40.144,73 43.232,70 45.414,37 46.679,26 50.333,60 55.188,16 55.990,90 56.534,89 49.236,89 73.685,04 122.766,49
+B ASE DE DISTRIBUCIÓN 87.953,34 109.602,2 113.885,84 135.248,2 135.895,10 144.578,0 153.156,35 162.076,5 149.356,19 107.950,0 266.382,52 646.454,9 435.565,12
+REPARTO
+Impuestos al Estado 6.262,96 10.275,89 10.244,04 10.597,29 10.132,78 10.919,58 15.254,84 17.000,00 15.000,00 7.000,00 40.000,00 310.000,0 150.000,00
+Donativo a la Junta del Tesoro de - - - - - - - - - - 10.000,00 10.000,00 -
+Remuneración al Consejo de 1.762,14 3.573,30 3.687,05 4.600,77 4.524,03 4.894,94 5.141,13 5.344,42 4.668,25 2.570,23 10.857,28 28.638,50 15.639,95
+5% a las Acciones preferentes libres 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00 1.075,00
+Amort. Maquinaria, Herramientas y 4.741,95 17.000,00 18.000,00 25.000,00 32.500,00 32.500,00 25.396,09 23.473,30 17.730,60 12.083,90 36.626,10 70.000,00 32.700,00
+Amortización de Inmuebles 1.052,30 - - 10.000,00 - 4.000,00 10.000,00 8.477,45 5.057,85 3.452,45 5.136,60 15.000,00 15.000,00
+Amortización de Primeras Materias 3.935,25 - - - - - - - - - - - -
+Amortización de Muebles, Enseres y 270,50 - - - 2.500,00 2.000,00 2.000,00 - 324,60 619,15 1.000,00 - -
+Fondo de Reserva ('obligatoria') 1.762,14 3.573,30 3.687,05 4.600,77 4.524,03 4.894,94 5.141,13 1.750,52 - - - - -
+Fondo de previsión - - - - - - - 10.000,00 10.000,00 - 30.000,00 25.000,00 25.000,00
+5% a las Acciones ordinarias, libre 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00 23.950,00
+Reserva para accidentes laborales de - - - - - - - - - 2.957,45 9.027,50 15.000,00 15.000,00
+% aumento de dividendo a las 215,00 430,00 430,00 430,00 430,00 430,00 430,00 645,00 645,00 215,00 1.075,00 1.075,00 1.075,00
+% aumento de dividendo a las 4.790,00 9.580,00 9.580,00 9.580,00 9.580,00 9.580,00 9.580,00 14.370,00 14.370,00 4.790,00 23.950,00 23.950,00 23.950,00
+Remanente para nuevo ejercicio 38.136,10 40.144,73 43.232,70 45.414,37 46.679,26 50.333,60 55.188,16 55.990,90 56.534,89 49.236,89 73.685,04 122.766,4 132.175,17
+TOTAL 87.953,34 109.602,2 113.885,84 135.248,2 135.895,10 144.578,0 153.156,35 162.076,5 149.356,19 107.950,0 266.382,52 646.454,9 435.565,12
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+28
+
+=== PAGE 29 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel B: Periodo 1940-1950
+1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950
+Beneficio Líquido 181.483,71 165.188,73 300.862,16 420.082,24 420.615,04 557.478,95 733.861,65 2.380.135,47 1.225.712,50 1.229.844,29 1.913.146,29
+Remanente 132.175,17 131.534,68 106.413,96 84.553,72 16.007,58 5.540,75 5.433,14 4.198,41 322.071,29 275.924,55 279.257,62
+Reserva obligatoria (libre - - - - - - - - - 359.376,32 -
+B ASE DE 313.658,88 296.723,41 407.276,12 504.635,96 436.622,62 563.019,71 739.294,79 2.384.333,88 1.547.783,79 1.865.145,16 2.192.403,91
+REPARTO
+Impuestos al Estado 55.000,00 55.000,00 125.000,00 120.000,00 90.000,00 112.000,00 142.000,00 740.000,00 305.000,00 280.000,00 420.000,00
+Remuneración al Consejo 9.074,20 8.259,45 15.043,10 21.004,11 18.238,20 27.878,95 36.693,08 - - - -
+Participación del Director - - - 21.004,11 18.238,20 27.878,95 36.693,08 - - - -
+5% a las Acciones pref. 1.075,00 1.075,00 - - - - - - - - -
+Participaciones (o - - - - - - - 154.708,80 87.238,45 78.387,54 121.237,47
+AMORTIZACIONES - - - - - - - - - 250.000,00 399.320,65
+Amort. Maquinaria, 18.000,00 17.000,00 17.000,00 52.603,88 51.668,75 55.249,11 48.152,77 63.762,03 117.708,61 - -
+Amortización de Inmuebles 10.000,00 20.000,00 20.000,00 22.000,00 - - - - - - -
+Amortización de Muebles, - - - - 4.182,14 2.014,78 2.068,77 4.161,33 - - -
+Amortización laboratorio - - - - - - - 13.645,04 12.964,02 - -
+Amortización laboratorio - - - - - - - - 4.558,99 - -
+Fondo de Reserva - - 30.086,20 17.355,98 20.190,16 34.288,31 47.513,57 148.301,40 70.974,52 - -
+Fondo de Reserva - - 15.043,10 25.000,00 25.000,00 28.000,00 - - - - -
+Fondo de Reserva Especial - - - 21.729,90 53.424,41 90.116,47 91.975,11 534.803,40 23.414,65 - -
+Reserva Voluntaria - - - - - - - - - 100.000,00 120.000,00
+Fondo de previsión 30.000,00 30.000,00 - - - - - - - - -
+Amortización de parte de - - 15.000,00 27.780,40 - - - - - - -
+Fondo de Socorro al - - 25.500,00 - - - - 10.000,00 10.000,00 10.000,00 -
+5% a las Acciones 23.950,00 23.950,00 50.050,00 150.150,00 120.120,00 180.160,00 320.000,00 427.500,00 625.000,00 832.500,00 900.000,00
+Reserva para accidentes 10.000,00 10.000,00 10.000,00 10.000,00 - - 10.000,00 15.000,00 15.000,00 15.000,00 30.000,00
+Reserva para incendios - - - - - - - 15.000,00 - 20.000,00 20.000,00
+% aumento de dividendo a 23.950,00 1.075,00 - - - - - - - - -
+% aumento de dividendo a 1.075,00 23.950,00 - - 30.020,00 - - - - - -
+Remanente para nuevo 131.534,68 106.413,96 84.553,72 16.007,58 5.540,76 5.433,14 4.198,41 257.451,88 275.924,55 279.257,62 181.845,79
+TOTAL 313.658,88 296.723,41 407.276,12 504.635,96 436.622,62 563.019,71 739.294,79 2.384.333,88 1.547.783,79 1.865.145,16 2.192.403,91
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+29
+
+=== PAGE 30 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel C: Periodo 1951-1959
+1951 1952 1953 1954 1955 1956 1957 1959
+Beneficio Líquido 2.013.854,87 1.245.718,03 1.897.731,42 1.523.608,48 1.513.195,60 1.681.250,32 1.851.910,38 1.287.265,56
+Remanente 181.845,79 97.782,47 - 18.750,89 47.096,84 5.750,48 4.288,18 -
+B ASE DE DISTRIBUCIÓN 2.195.700,66 1.343.500,50 1.897.731,42 1.542.359,37 1.560.292,44 1.687.000,80 1.856.198,56 1.287.265,56
+REPARTO
+Impuestos al Estado 560.000,00 181.052,48 498.411,93 350.224,31 318.486,32 323.212,60 477.655,76 318.930,78
+Participaciones (o atenciones) estatutarias 161.108,38 99.657,44 151.818,51 121.888,67 121.055,64 134.500,02 148.152,83 102.981,24
+Fondo de Reserva ('obligatoria') 126.809,81 106.290,58 118.750,09 103.149,55 - - - -
+Reserva Voluntaria 70.000,00 - - - 40.000,00 - - -
+5% a las Acciones ordinarias, libre de impuestos 1.125.000,00 900.000,00 1.050.000,00 900.000,00 1.050.000,00 1.200.000,00 1.200.000,00 800.000,00
+Reserva para accidentes laborales de trabajo 30.000,00 36.500,00 40.000,00 - - - - -
+Reserva para incendios 25.000,00 20.000,00 20.000,00 20.000,00 25.000,00 25.000,00 30.389,97 40.000,00
+Remanente para nuevo ejercicio 97.782,47 - 18.750,89 47.096,84 5.750,48 4.288,18 - 25.353,54
+TOTAL 2.195.700,66 1.343.500,50 1.897.731,42 1.542.359,37 1.560.292,44 1.687.000,80 1.856.198,56 1.287.265,56
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+30
+
+=== PAGE 31 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Anexo 3. Balance de Situación (Pesetas)
+Panel A: Periodo 1927-1939
+1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937 1938 1939
+Caja y Bancos 67.873,41 55.386,98 52.193,62 79.437,56 109.650,9 61.718,01 118.982,0 135.138,7 105.446,8 89.540,78 123.320,5 21.662,27 3.837,10
+Muebles, Enseres y 2.709,50 2.439,00 2.478,15 2.788,90 5.038,89 2.666,25 2.341,45 454,40 1.324,60 2.019,15 1.400,00 375,00 970,15
+Inmuebles 221.052,3 220.000,0 220.000,0 262.184,9 255.138,2 292.477,4 288.477,4 278.477,4 280.057,8 282.452,4 284.136,6 360.530,90 345.530,90
+Efectos a cobrar 259,40 10.618,00 2.341,85 - 1.617,10 198,60 - 1.235,20 2.878,75 - - - -
+Valores en cartera - - - - - - - - 26.098,60 26.098,60 26.098,60 26.098,60 36.098,60
+Maquinaria, Herramientas 185.827,3 222.187,5 215.010,3 200.135,0 178.432,7 153.173,5 136.220,8 148.473,3 134.730,6 138.739,6 147.060,9 164.105,68 110.204,22
+Herramientas y útiles 1.580,40 3.387,75 2.452,60 1.826,70 2.564,80 3.381,15 3.710,25 4.855,05 4.118,20 3.980,70 3.729,05 5.064,70 5.229,54
+Primeras materias 69.275,55 67.070,50 84.309,50 75.155,20 82.731,00 84.871,40 80.883,80 77.395,90 93.271,60 108.425,6 102.301,1 105.936,78 172.215,33
+Mercaderías 1.455,60 1.156,35 592,35 592,35 310,00 41.867,50 9.359,45 - 28.200,90 - - - -
+Fabricación y 109.706,4 77.839,92 103.977,1 100.522,9 69.461,40 59.393,70 51.706,95 32.066,50 46.952,20 67.711,15 85.768,90 159.801,35 88.402,30
+Deudores varios 20.704,39 34.225,12 25.592,82 18.142,00 65.197,00 38.900,05 70.304,36 92.070,58 59.508,26 30.931,05 157.361,3 515.885,88 437.449,99
+TOTAL ACTIVO 680.444,3 694.311,1 708.948,2 740.785,5 770.142,0 738.647,6 761.986,6 770.167,1 782.588,4 749.899,1 931.117,0 1.359.461,1 1.199.938,1
+1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937 1938 1939
+Capital 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,0 500.500,00 500.500,00
+Fondo de Reserva 70.166,12 71.928,26 75.501,56 79.188,61 83.789,38 88.313,41 93.208,35 98.349,48 100.100,0 100.100,0 100.100,0 100.100,00 100.100,00
+Fondo de previsión - - - - - - - - 10.000,00 20.000,00 20.000,00 50.000,00 75.000,00
+Residuo de Amortización 210,60 210,60 210,60 - - - - - - - - - -
+Anticipos a cuenta de obra 11.000,00 - - - - - - - - - - - -
+Impuestos por pagar - - 496,02 - - - - 3.000,00 5.625,38 7.327,49 5.687,33 13.673,89 3.125,75
+Reserva para accidentes - - - - - - - - - 4.042,55 972,50 - 5.558,70
+Efectos a pagar 4.564,63 2.568,74 12.613,83 6.467,93 167,45 2.051,15 11.044,84 1.792,05 13.951,60 2.154,95 19.389,07 10.528,02 27.545,10
+Acreedores en c/c. - - - - - - - - - - - - 27.806,55
+Proveedores varios 6.049,65 9.501,35 5.740,44 4.170,17 7.509,55 3.205,04 4.077,09 4.449,00 3.055,24 7.824,07 18.085,62 38.204,26 24.736,91
+Diversas cuentas - - - 15.210,60 42.280,60 - - - - - - - -
+Pérdidas y Ganancias 87.953,34 109.602,2 113.885,8 135.248,2 135.895,1 144.578,0 153.156,3 162.076,5 149.356,1 107.950,0 266.382,5 646.454,99 435.565,12
+TOTAL PASIVO 680.444,3 694.311,1 708.948,2 740.785,5 770.142,0 738.647,6 761.986,6 770.167,1 782.588,4 749.899,1 931.117,0 1.359.461,1 1.199.938,1
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+31
+
+=== PAGE 32 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel B: Periodo 1940-1950
+1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950
+Caja y Bancos 124.919,16 198.089,35 975.516,70 601.056,53 354.008,94 1.137.351,8 1.046.996,2 2.170.174,87 192.471,78 1.159.561,30 655.656,40
+Muebles, Enseres y Semovientes 970,15 970,15 1.270,25 9.972,45 41.821,45 20.147,85 20.687,72 46.537,27 175.770,24 253.811,69 296.926,55
+Inmuebles 363.072,10 364.333,50 394.447,95 460.038,45 438.038,45 438.038,45 441.801,31 - - - -
+Valores en cartera 36.098,60 56.098,60 36.098,60 5.696,10 5.696,10 10.000,00 10.000,00 10.000,00 10.000,00 10.000,00 10.000,00
+Maquinaria, Herramientas y útiles en el 89.585,02 112.740,72 374.095,72 526.038,87 516.687,59 499.861,34 479.527,80 820.370,22 1.471.357,71 5.538.987,52 8.186.413,22
+Herramientas y útiles en Almacén 4.405,05 9.861,20 11.307,63 15.998,56 9.305,35 12.783,19 13.708,44 15.202,75 17.920,29 113.991,37 79.370,04
+Primeras materias 198.575,20 164.835,20 152.092,05 278.863,17 372.755,25 516.806,30 642.355,65 728.697,14 1.275.469,76 1.658.202,54 3.012.258,33
+Fabricación y Reparaciones 94.180,65 113.161,65 87.126,60 144.106,03 399.002,45 606.820,68 660.986,48 886.119,90 1.247.777,60 1.891.780,55 3.472.923,05
+Economato de Víveres para el personal - 3.805,30 1.162,80 1.376,60 2.057,70 2.174,25 3.310,85 2.999,41 5.902,85 3.744,50 1.586,15
+Deudores varios 125.627,60 41.566,89 148.650,16 157.857,35 401.195,95 342.524,77 567.988,27 - - -
+Acciones en cartera - - 2.498.500,0 2.498.500,0 1.748.000,0 - - - - - -
+Dividendo a cuenta - - - 58.150,00 60.020,00 90.080,00 119.670,00 160.000,00 220.000,00 247.425,00 299.535,00
+Gastos de ampliación de capital - - 30.800,90 27.780,40 - - - - - - -
+Inversión de la Reserva Legal (Leyes 12- - - - 30.402,50 47.885,40 67.681,52 101.525,27 147.608,27 296.332,32 - -
+Inversión de la Reserva Especial (Ley 30- - - - - 21.729,90 60.123,45 132.216,62 205.796,71 205.796,71 205.796,71 205.796,71
+Banco Castellano c/c. Fondo Mutualidad - - - - - - 18.499,30 - - - -
+Terrenos adquiridos para la construcción - - - - 450.254,53 410.301,47 338.206,30 264.628,21 264.628,21 264.628,21 264.628,21
+Anticipo para compra de maquinaria - - - 51.385,60 - 200.000,00 200.000,00 - - - -
+Edificaciones de Nuevos Talleres - - - - - 661.329,65 1.615.306,0 2.746.505,84 3.672.617,47 5.321.996,55 8.121.222,82
+Laboratorio de ensayos - - - - - 92.844,91 102.397,26 136.450,41 129.640,22 118.651,20 121.601,20
+Laboratorio de análisis - - - - - 28.729,00 30.708,61 40.091,05 45.589,90 52.517,06 52.517,06
+Cuentas corrientes - - - - - - - 862.293,83 2.023.182,04 - -
+Accionistas. - Cuenta Acciones - - - - - - - 4.500.000,00 3.000.000,00 - -
+Accionistas. - Cuenta Prima de Emisión - - - - - - - 1.755.000,00 1.170.000,00 - -
+Papel Reserva Social (Ley 30-12-1943) - - - - - - - - 158.400,00 181.800,00 181.800,00
+Gastos generales - - - - - 1.481,75 - - - - -
+Gastos a repartir - - - - - 3.603,85 5.605,85 - - - -
+Fondo de Atenciones Sociales (cuenta de - - - - - 15.030,86 33.054,16 51.449,18 - - -
+T OTAL ACTIVO 1.037.433,5 1.065.462,5 4.711.069,3 4.867.222,6 4.868.459,0 5.214.111,3 6.584.552,1 15.549.925,0 15.582.857,1 17.022.894,2 24.962.234,7
+1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950
+Capital 500.500,00 500.500,00 4.000.000,0 4.000.000,0 4.000.000,0 4.000.000,0 4.000.000,0 10.000.000,0 10.000.000,0 10.000.000,0 10.000.000,0
+Reserva Voluntaria - - - - - - - 938.143,10 1.950.985,82 3.120.985,82 3.220.985,82
+Fondo de Reserva 100.100,00 100.100,00 100.100,00 115.143,10 140.143,10 165.143,10 193.143,10 - - - -
+Fondo de Reserva Obligatoria (Leyes 12- - - - 30.086,20 47.442,18 67.632,34 101.920,65 149.434,22 297.735,62 - -
+Fondo de Reserva Especial (Ley 30-12- - - - - 21.729,90 75.154,31 165.270,78 257.245,89 205.796,71 205.796,71 205.796,71
+Reserva Social - - - - - - - - 158.409,86 181.824,51 181.824,51
+Reserva para pluses de trabajos tóxicos, - - - - - - - - - 38.734,85 38.734,85
+Fondos destinados a la Mutualidad de - - - - - - 33.586,20 - - - -
+Cuentas de orden - - - - 4.345,98 - - - - - -
+Fondo de previsión 100.000,00 130.000,00 160.000,00 160.000,00 160.000,00 160.000,00 160.000,00 - - - -
+Fondo de Socorros al personal - - - 25.500,00 25.500,00 18.000,00 9.000,00 - 800,00 4.760,00 13.479,25
+Impuestos por pagar (cuenta de - 13.070,32 - - - - - - - - -
+Reserva para accidentes Trabajo 13.449,10 15.647,80 15.651,15 14.610,10 13.541,15 4.410,70 - - - - -
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+32
+
+=== PAGE 33 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Reserva para incendios - - - 5.453,15 5.453,15 5.453,15 10.906,30 10.906,30 25.906,30 25.906,30 45.906,30
+Reserva Prima de Emisión - - - - - - - 1.755.000,00 1.170.000,00 - -
+Efectos a pagar 5.321,70 8.244,57 17.121,55 2.432,20 4.736,77 62.279,27 6.000,79 3.412,49 224.727,56 268.156,71 84.025,00
+Cuentas corrientes - - - - - - - - - 1.311.285,94 8.732.208,44
+Proveedores varios 4.403,85 1.176,46 10.920,54 9.361,90 8.944,21 77.987,87 132.355,39 - - - -
+Dividendo a pagar - - - - - - 20,00 - 711,44 298,20 1.056,25
+Fondo de amortización - - - - - - - - - - 245.813,70
+Banco Castellano. c/c Doble posición - - - - - - 1.000.000,0 - - - -
+Partidas en suspenso (cuentas de orden) - - - - - 15.030,86 33.054,16 51.449,18 - - -
+Remanente - - - - - - - - 322.071,29 635.300,87 279.257,62
+Pérdidas y Ganancias 313.658,88 296.723,41 407.276,12 504.635,96 436.622,62 563.019,71 739.294,79 2.384.333,88 1.225.712,50 1.229.844,29 1.913.146,29
+TOTAL PASIVO 1.037.433,5 1.065.462,5 4.711.069,3 4.867.222,6 4.868.459,0 5.214.111,3 6.584.552,1 15.549.925,0 15.582.857,1 17.022.894,2 24.962.234,7
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+33
+
+=== PAGE 34 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel C: Periodo 1951-1959 (1-2)
+ACTIVO 1951 1952 1953 1954 1955 1956 1957 1959
+2. Caja y Bancos 1.391.979.11 206.638,27 12.162,49 27.452,20 1.222.111,30 127.006,89 409.493,52 134.080,94
+3. Inmuebles e Instalaciones industriales
+Terrenos e Inmuebles 9.234.981,90 9.448.768,95 9.516.166,96 9.546.354,76 9.570.747,33 9.618.095,96 9.660.333,80 10.055.955,47
+4. Maquinaria y mobiliario
+Maquinaria 8.629.342,07 9.151.497,96 9.303.419,29 9.407.989,34 10.873.396,90 11.180.009,15 12.089.152,55 12.906.331,87
+Muebles y Enseres 663.261,30 672.976,30 699.231,15 662.100,89 683.751,29 712.797,54 737.359,64 824.018,59
+Herramientas y útiles en el Taller 1.088.001,60 1.303.332,23 1.543.857,81 1.772.640,25 2.202.256,99 2.602.868,62 2.668.081,28 3.190.631,41
+Economato víveres para el personal 500,00 500,00 500,00 500,00 - - - -
+Laboratorio de Ensayos 121.376,20 121.400,50 121.400,50 121.400,50 121.400,50 127.239,70 127.239,70 127.104,70
+Laboratorio de Análisis 51.761,83 49.515,83 52.232,40 51.649,10 61.551,78 60.747,35 64.599,01 61.187,66
+6. Títulos sin cotización oficial
+Valores en cartera 10.000,00 10.000,00 10.000,00 10.000,00 10.000,00 10.000,00 10.000,00 10.000,00
+7. Bienes afectos a las reservas legales
+Terrenos e inmuebles - Inversión Reserva Especial 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71
+Papel Reserva Social - Inversión Reserva Social 181.800,00 181.800,00 181.800,00 181.800,00 181.800,00 181.800,00 181.800,00 181.800,00
+Banco Castellano, cta. Caja de ahorros - Inversión Reserva Obligatoria - 126.809,81 233.100,39 351.850,48 455.000,03 455.000,03 455.000,03 455.000,03
+10. Créditos varios
+Deudores varios 2.278.075,16 2.869.390,82 3.710.275,93 4.587.583,52 4.282.969,51 4.737.294,38 4.000.342,05 3.977.549,35
+Dividendo a cuenta beneficios ejercicio actual 298.110,00 449.100,00 - - - - - -
+11. Materias primas y mercaderías
+Almacén 3.094.659,22 4.685.199,07 5.671.771,40 6.135.475,04 6.445.808,08 7.683.957,90 9.735.935,60 7.530.070,00
+Fabricación y Reparaciones 2.832.146,60 2.213.605,50 3.508.276,79 3.311.853,32 5.087.998,13 8.521.885,24 10.102.028,33 19.202.406,10
+13. Gastos de primer establecimiento y de constitución de la
+Gastos ampliación de capital - - - - 382.725,95 382.725,95 100.000,00 -
+Cuentas de Orden
+Valores en depósito 175.000,00 200.000,00 200.000,00 200.000,00 250.000,00 250.000,00 250.000,00 -
+TOTAL 30.256.791,70 31.896.331,95 34.969.991,82 36.574.446,11 42.037.314,50 46.857.225,42 50.797.162,22 58.861.932,83
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+34
+
+=== PAGE 35 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel D: Periodo 1951-1959 (2-2)
+PASIVO 1951 1952 1953 1954 1955 1956 1957 1959
+1. Capital Social 15.000.000,00 15.000.000,00 15.000.000,00 15.000.000,00 20.000.000,00 20.000.000,00 20.000.000,00 20.000.000,00
+1.001 acciones, Serie A, núms. 1/1001 de 500 ptas. nominales cada 500.500,00 500.500,00 500.500,00 500.500,00 500.500,00 500.500,00 500.500,00 500.500,00
+18.999 acc., Serie C, núms. 1.002/20.000, de 500 ptas. nominales cada 9.499.500,00 9.499.500,00 9.499.500,00 9.499.500,00 9.499.500,00 9.499.500,00 9.499.500,00 9.499.500,00
+10.000 acc., Serie D, núms. 20.001/30.000 de 500 ptas. nominales 5.000.000,00 5.000.000,00 5.000.000,00 5.000.000,00 5.000.000,00 5.000.000,00 5.000.000,00 5.000.000,00
+10.000 acc., Serie E, núms. 30.001/40.000 de 500 ptas. nominales cada - - - 5.000.000,00 5.000.000,00 5.000.000,00 5.000.000,00
+2. Reservas legales
+Reserva Especial (Ley 30-12-1943) 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71 205.796,71
+Reserva social (Ley 30-12-1943) 181.824,51 181.824,51 181.824,51 181.824,51 181.824,51 181.824,51 181.824,51 181.824,51
+Reserva Obligatoria (Ley 17-7-1951) - 126.809,81 233.100,39 351.850,48 455.000,03 455.000,03 455.000,03 455.000,03
+3. Otras reservas
+Reserva voluntaria 3.417.847,47 3.487.847,47 3.487.847,47 3.487.847,47 3.487.847,47 3.566.582,32 3.566.582,32 3.566.582,32
+Reserva para incendios 65.906,30 90.906,30 110.906,30 130.906,30 150.906,30 175.906,30 200.906,30 270.934,27
+Reserva para pluses de trabajos tóxicos, penosos y peligrosos 38.734,85 38.734,85 38.734,85 38.734,85 38.734,85 - - -
+Reserva para Accidentes temporales trabajo 27,40 - - - - - - -
+Fondo de Socorros al personal 12.279,25 11.079,25 9.879,25 8.679,25 5.979,25 3.279,25 579,25 -
+Remanente ejercicio anterior 181.845,79 97.782,47 - 18.750,89 47.096,84 5.750,48 4.288,18 -
+5. Débitos varios
+Efectos a pagar. Saldos vencidos 98.852,07 19.193,15 225.860,89 108.484,04 547.302,80 309.155,55 64.525,05 699.389,10
+Proveedores varios. Saldos a vencer 7.537.478,15 462.229,91 730.404,11 623.058,95 1.399.529,91 1.669.489,51 1.571.004,85 2.296.360,90
+Créditos bancarios. - Importe total de los mismos - 9.000.000,00 10.399.492,64 12.000.000,00 9.000.000,00 14.275.905,64 16.008.145,44 17.730.000,00
+Dividendos y participaciones a pagar 153.782,81 97.175,01 145.253,37 121.697,91 36.919,25 63.145,65 57.628,54 516,99
+Impuestos y subsidios administrados 187.382,48 187.480,54 115.779,12 221.647,73 178.526,87 355.241,60 213.966,38 292.076,78
+Anticipo de clientes - - - - 1.784.674,56 504.918,00 2.743.750,68 7.207.434,36
+7. Amortizaciones
+Fondo de amortización 986.179,04 1.443.753,94 1.987.380,79 2.351.558,54 2.753.979,55 3.153.979,55 3.421.253,60 4.668.751,30
+Pérdidas y Ganancias
+Beneficios líquidos ejercicio actual 2.013.854,87 1.245.718,03 1.897.731,42 1.523.608,48 1.513.195,60 1.681.250,32 1.851.910,38 1.287.265,56
+Cuentas de Orden
+Depositantes de valores 175.000,00 200.000,00 200.000,00 200.000,00 250.000,00 250.000,00 250.000,00 -
+TOTAL 30.256.791,70 31.896.331,85 34.969.991,82 36.574.446,11 42.037.314,50 46.857.225,42 50.797.162,22 58.861.932,83
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+35
+
+=== PAGE 36 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Anexo 4. Principales variables y datos (Pesetas)
+ACT IVO INGR ESOS RESULT ADOS CAPITAL
+Año Presidente Consejo Director Palabras Total At-t (%) Total It-t (%) Total Rt-t (%) SOCTIoAtaLl
+-1 -1 -1
+1927 Ramón Moliner Vaquero Juan de Aldecoa 657 680.444,34 - 681.102,34 - 35.242,88 - 500.500,00
+1928 Ramón Moliner Vaquero Juan de Aldecoa 534 694.311,17 2,04% 694.845,98 2,02% 71.466,12 102,78% 500.500,00
+1929 Ramón Moliner Vaquero Juan de Aldecoa 524 708.948,29 2,11% 709.473,09 2,11% 73.741,11 3,18% 500.500,00
+1930 Ramón Moliner Vaquero Juan de Aldecoa 760 740.785,51 4,49% 741.546,67 4,52% 92.015,50 24,78% 500.500,00
+1931 Ramón Moliner Vaquero Manuel López 552 770.142,08 3,96% 770.694,92 3,93% 90.480,73 -1,67% 500.500,00
+1932 Ramón Moliner Vaquero Manuel López 823 738.647,66 -4,09% 739.471,91 -4,05% 97.898,80 8,20% 500.500,00
+1933 Ramón Moliner Vaquero Manuel López 806 761.986,63 3,16% 762.793,86 3,15% 102.822,75 5,03% 500.500,00
+1934 Ramón Moliner Vaquero Manuel López 547 770.167,12 1,07% 770.714,95 1,04% 106.888,43 3,95% 500.500,00
+1935 Ramón Moliner Vaquero Manuel López 651 782.588,41 1,61% 783.240,40 1,63% 93.365,29 -12,65% 500.500,00
+1936 Ramón Moliner Vaquero Manuel López 589 749.899,13 -4,18% 750.489,03 -4,18% 51.415,18 -44,93% 500.500,00
+1937 Ramón Moliner Vaquero Manuel López 694 931.117,04 24,17% 931.812,10 24,16% 217.145,63 322,34% 500.500,00
+1938 Ramón Moliner Vaquero Manuel López 726 1.359.461,16 46,00% 1.360.188,27 45,97% 572.769,95 163,77% 500.500,00
+1939 Ramón Moliner Vaquero Manuel López 651 1.199.938,13 -11,73% 1.200.590,12 -11,73% 312.798,63 -45,39% 500.500,00
+1940 Ramón Moliner Vaquero Manuel López 588 1.037.433,53 -13,54% 1.038.022,42 -13,54% 181.483,71 -41,98% 500.500,00
+1941 Ramón Moliner Vaquero Manuel López 602 1.065.462,56 2,70% 1.066.065,48 2,70% 165.188,73 -8,98% 500.500,00
+1942 Ramón Moliner Vaquero E. Díaz-Caneja y 1.070 4.711.069,36 342,16% 4.712.140,99 342,01% 300.862,16 82,13% 500.500,00
+1943 Ramón Moliner Vaquero José Mezquita 1.164 4.867.222,61 3,31% 4.868.388,38 3,32% 420.082,24 39,63% 4.000.000,00
+1944 Ramón Moliner Vaquero José Mezquita 1.225 4.868.459,06 0,03% 4.869.685,92 0,03% 420.615,04 0,13% 4.000.000,00
+1945 Ramón Moliner Vaquero José Mezquita 1.033 5.214.111,31 7,10% 5.215.145,88 7,09% 557.478,95 32,54% 4.000.000,00
+1946 Ramón Moliner Vaquero José Mezquita 1.391 6.584.552,16 26,28% 6.585.945,28 26,28% 733.861,65 31,64% 4.000.000,00
+1947 Ramón Moliner Vaquero José Mezquita 1.379 15.549.925,06 136,16% 15.551.306,16 136,13% 2.380.135,47 224,33% 4.000.000,00
+1948 Ramón Moliner Vaquero José Mezquita 1.422 15.582.857,10 0,21% 15.584.281,26 0,21% 1.225.712,50 -48,50% 7.000.000,00
+1949 Ramón Moliner Vaquero José Mezquita 1.956 17.022.894,20 9,24% 17.024.853,18 9,24% 1.229.844,29 0,34% 10.000.000,00
+1950 Ramón Moliner Vaquero José Mezquita 1.445 24.962.234,74 46,64% 24.963.681,94 46,63% 1.913.146,29 55,56% 10.000.000,00
+1951 Ramón Moliner Vaquero José Mezquita 2.132 30.256.791,70 21,21% 12.061.948,54 -51,68% 2.013.854,87 5,26% 15.000.000,00
+1952 Ramón Moliner Vaquero José Mezquita 1.843 31.896.331,95 5,42% 11.349.470,23 -5,91% 1.245.718,03 -38,14% 15.000.000,00
+1953 Ramón Moliner Vaquero José Mezquita 1.259 34.969.991,82 9,64% 11.725.914,34 3,32% 1.897.731,42 52,34% 15.000.000,00
+1954 Ramón Moliner Vaquero José Mezquita 1.257 36.574.446,11 4,59% 14.729.891,40 25,62% 1.523.608,48 -19,71% 15.000.000,00
+1955 Ramón Moliner Vaquero José Mezquita 937 42.037.314,50 14,94% 14.231.001,16 -3,39% 1.513.195,60 -0,68% 20.000.000,00
+1956 Ramón Moliner Vaquero José Mezquita 855 46.857.225,42 11,47% 17.020.423,87 19,60% 1.681.250,32 11,11% 20.000.000,00
+1957 Ramón Moliner Vaquero José Mezquita 512 50.797.162,22 8,41% 21.139.313,05 24,20% 1.851.910,38 10,15% 20.000.000,00
+1958 - - - #N/D #N/D #N/D #N/D #N/D #N/D #N/D
+1959 - - - 58.861.932,83 #N/D 16.416.581,61 #N/D 1.287.265,56 #N/D 20.000.000,00
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+36
+
+=== PAGE 37 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Anexo 5. Cuenta de Pérdidas y Ganancias (Pesetas)
+Panel A: Periodo 1927-1939
+1927 1928 1929 1930 1931 1932 1933 1934 1935 1936 1937 1938 1939
+Quebranto en negociación de efectos 1.458,52 602,91 899,71 1.144,48 1.200,13 895,74 537,63 710,66 708,14 595,03 4.714,04 12.747,83 14.561,99
+Beneficio líquido 87.953,3 109.602,2 113.885,8 135.248,2 135.895,1 144.578,0 153.156,3 162.076,5 149.356,1 107.950,0 266.382,5 646.454,9 435.565,1
+D EBE 89.411,8 110.205,1 114.785,5 136.392,6 137.095,2 145.473,8 153.693,9 162.787,2 150.064,3 108.545,1 271.096,5 659.202,8 450.127,1
+Remanente del ejercicio anterior 52.710,4 38.136,10 40.144,73 43.232,70 45.414,37 46.679,26 50.333,60 55.188,16 55.990,90 56.534,89 49.236,89 73.685,04 122.766,4
+Beneficios de la cuenta de 33.403,68 65.159,28 65.368,85 88.227,88 83.827,59 63.090,40 71.457,54 67.264,38 87.578,17 46.284,28 219.438,7 578.011,4 314.151,96
+Beneficios de la cuenta de 395,75 4.871,74 6.930,30 1.104,10 871,60 28.017,20 28.365,90 32.212,91 - - - - -
+Beneficios de la cuenta de Inmuebles - - - 2.331,25 3.849,60 3.574,70 - - 3.912,25 - - - -
+Beneficios de la cuenta de - - - - - - - 3.583,85 - - - - -
+Beneficios en varias cuentas 2.901,79 2.038,01 2.341,67 1.496,75 3.132,07 4.112,24 3.536,94 4.537,95 2.583,01 5.725,93 2.420,93 7.506,32 13.208,99
+HABER 89.411,8 110.205,1 114.785,5 136.392,6 137.095,2 145.473,8 153.693,9 162.787,2 150.064,3 108.545,1 271.096,5 659.202,8 450.127,1
+Panel B: Periodo 1940-1950
+1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950
+Quebranto en negociación de efectos 6.425,35 852,94 1.127,62 1.642,23 4.020,13 15.328,78 15.386,12 226.572,80 28.203,44 48.686,88 307.706,00
+Remanente ejercicio anterior - - - - - - - - 322.071,29 635.300,87 -
+Beneficio líquido 313.658,88 296.723,41 407.276,12 504.635,96 436.622,62 563.019,71 739.294,79 2.384.333,88 1.225.712,50 1.229.844,29 1.913.146,29
+Saldo de cuenta de impuestos 76.656,07 - 40.821,54 14.517,61 9.538,76 34.568,44 37.562,52 36.303,81 10.018,32 27.925,70 -
+Participación de la Dirección en los beneficios - - - - - - - 125.270,28 64.511,20 65.417,25 102.614,99
+Participación de la Sub-Dirección en los - - - - - - - - - 13.083,45 20.522,84
+D EBE 396.740,30 297.576,35 449.215,28 520.795,80 450.181,51 612.936,93 792.243,43 2.772.480,77 1.650.516,75 2.020.258,44 2.343.990,12
+Remanente del ejercicio anterior 132.175,17 131.534,68 106.413,96 84.553,72 16.007,58 5.540,76 5.433,14 4.198,41 322.071,29 635.300,87 -
+Beneficios de la cuenta de Fabricación 259.752,30 163.837,97 310.669,95 432.367,28 421.111,68 - - - - - -
+Beneficios en varias cuentas 4.812,83 2.203,70 32.131,37 3.874,80 13.062,25 163.319,19 117.294,38 2.768.282,36 172.458,71 40.607,86 101.605,35
+Beneficio de la Cuenta de Ventas - - - - - 444.056,98 669.515,91 - 1.155.986,75 1.344.349,71 2.242.384,77
+HABER 396.740,30 297.576,35 449.215,28 520.795,80 450.181,51 612.916,93 792.243,43 2.772.480,77 1.650.516,75 2.020.258,44 2.343.990,12
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+37
+
+=== PAGE 38 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel C: Periodo 1951-1959 (1-2)
+GASTOS 1951 1952 1953 1954 1955 1956 1957 1959
+1. Salarios y sueldos satisfechos 6.818.290,40
+Importe total de los mismos 2.959.527,05 3.191.512,75 3.189.628,00 3.900.706,80 3.967.106,30 4.922.391,02 5.786.985,72
+Participación Dirección beneficios anuales 108.271,76 66.974,08 102.028,57 81.914,43 19.284,56 34.664,95 38.183,71
+Participación Sub-Dirección beneficios anuales 43.308,70 26.789,63 40.811,43 32.765,77 10.285,10 - -
+3. Amortizaciones del activo 341.044,69 457.574,90 543.626,85 400.000,00 400.000,00 400.000,00 650.000,00
+Maquinaria y útiles en taller - - - - - - 367.274,05
+Gastos ampliación de capital - - . - - - 182.725,95
+4. Seguros sociales
+Seguros sociales unificados, Cuota sindical, Montepío y Seguro de Accidentes de
+Trabajo satisfechos 512.911,08 561.518,11 590.289,68 744.174,86 751.190,55 755.576,98 1.179.373,92 1.178.164,60
+5. Impuestos /Contribución territorial urbana 75.063,82 75.134,42 132.853,85 170.942,75 161.220,79 164.006,17 158.836,37 293.998,74
+6. Gastos compensados con Reservas constituidas para estos fines
+Accidentes temporales del trabajo 29.972,60 30.000,00 36.500,00 40.000,00 - - -
+Impuestos s/utilidades y Dividendos 420.000,00 560.000,00 181.052,48 498.411,93 - - -
+7. Otros gastos
+Gastos generales no incluidos en los epígrafes anteriores 2.226.637,29 1.899.571,17 2.054.056,66 2.376.948,32 2.156.948,16 2.656.198,28 3.407.884,22 3.109.256,13
+Coste primera materia fabricación 3.532.629,76 3.276.255,38 2.184.103,01 4.435.166,87 4.445.085,75 5.382.007,53 6.714.111,35 11.485.816,34
+8. Quebrantos de carácter extraordinario
+Diferencia impuestos s/ utilidades y Dividendos 49.167,87 - 72.252,50 64.320,63 - - -
+Diferencias de inventario 198.238,35 - 143.693,78 135.541,30 - - -
+Cargas Financieras - 535.788,66 697.858,35 797.680,08 736.622,79 818.169,62 1.177.125,46 1.368.548,69
+Otros varios 1.293,30 12.633,10 76.980,24 66.121,11 70.061,56 206.159,00 274.901,92
+AJUSTE - - - - - - - -9.774.758,85
+Beneficio líquido ejercicio actual 2.013.854,87 1.245.718,03 1.897.731,42 1.523.608,48 1.513.195,60 1.681.250,32 1.851.910,38 1.287.265,56
+TOTAL 12.511.921,14 11.939.470,23 11.943.466,82 15.268.303,33 14.231.001,16 17.020.423,87 21.139.313,05 16.416.581,61
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+38
+
+=== PAGE 39 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Panel C: Periodo 1951-1959 (2-2)
+INGRESOS 1951 1952 1953 1954 1955 1956 1957 1959
+1. Ingresos obtenidos por la actividad normal de la Empresa
+Importe ventas en el ejercicio 11.956.953,99 11.225.471,83 11.725.150,80 14.717.993,99 14.087.893,08 16.996.209,00 21.126.110,07 16.340.304,43
+2. Ingresos de carácter extraordinario
+Material derribo planta antigua Talleres 87.876,85 - - - - - - -
+Diferencia positiva cálculo coeficientes teóricos, gastos de fabricación y
+maquinaria 14.763,79 3.285,02 - - - - - -
+Diferencias del inventario 0,00 87.291,78 - - - - - -
+Otros varios 2.353,91 33.421,60 763,54 11.897,41 143.108,08 24.214,87 13.202,98 76.277,18
+3. Reservas aplicadas a los fines para que fueron constituidas
+Reserva para accidentes temporales del trabajo 29.972,60 30.000,00 36.500,00 40.000,00 - - - -
+Impuestos s/utilidades y Dividendos 420.000,00 560.000,00 181.052,48 498.411,93 - - - -
+TOTAL 12.511.921,14 11.939.470,23 11.943.466,82 15.268.303,33 14.231.001,16 17.020.423,87 21.139.313,05 16.416.581,61
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+39
+
+=== PAGE 40 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 1: Algunos trabajos de Talleres de Fundición Gabilondo44
+Bajante en Calle del Peso (Valladolid)
+Bajante en Calle Claudio Moyano (Valladolid)
+44 En algunos de estos trabajos puede leerse “Sobrinos de Gabilondo”. Es difícil encontrar fuentes y referencias
+sobre “Sobrinos de Gabilondo”. Como la sociedad la fundaron tres hermanos es fácil suponer que la heredarían
+sus respectivos hijos bajo ese nombre. La vida de la empresa “Sobrinos de Gabilondo” debió ser breve, ya que
+pronto y por varias razones los hijos de Agustín se hacen con el control del negocio.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+40
+
+=== PAGE 41 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Bajante en Calle Teresa Gil (Valladolid)45
+45 En la bajante puede leerse “Viuda de Leto Gabilondo”. Corresponde a la época anterior a la constitución de la
+sociedad anónima y se remarca en ella la titularidad de la viuda de Leto Gabilondo.
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+41
+
+=== PAGE 42 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Monumento ubicado cerca de la Iglesia de Santa
+María de la Antigua (Valladolid)
+Bajante en Paseo de los Filipinos
+(Valladolid)
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+42
+
+=== PAGE 43 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 2: Vestigios publicitarios de Talleres de Fundición
+Gabilondo
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+43
+
+=== PAGE 44 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+44
+
+=== PAGE 45 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+45
+
+=== PAGE 46 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Fuente: ABC, 7 de julio de 1934
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+46
+
+=== PAGE 47 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 3: Entrada en funcionamiento en 1950 de las nuevas
+instalaciones de Talleres Gabilondo
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+47
+
+=== PAGE 48 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 4: Antiguas naves de Talleres de Fundición Gabilondo
+Paseo Arco del Ladrillo, 50
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+48
+
+=== PAGE 49 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 5: Balance de Situación 1935
+Foto 6: Resumen Cuenta de PPyGG 1935
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+49
+
+=== PAGE 50 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 7: Balance de Situación 1952
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+50
+
+=== PAGE 51 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Foto 8: Resumen Cuenta PPyGG 1952
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+51
+
+=== PAGE 52 ===
+De Computis, Revista Española de Historia de la Contabilidad
+19 (2), diciembre 2022, 1 - 52
+ISSN: 1886-1881 - doi: http://dx.doi.org/10.26784/issn.1886-1881.19.2.7492
+Beatriz Santos Cabalgante
+Doctora en Economía de la Empresa por la Universidad Autónoma de Madrid con mención de doctorado
+internacional, Profesora Contratada Doctora del Departamento de Contabilidad de la UAM. Entre sus líneas de
+investigación destaca la ligada a la historia de la contabilidad, donde cuenta con varios artículos publicados, uno
+de ellos en la revista Accounting and Bussiness Research. Ha participado como miembro de 3 proyectos del
+ministerio, 7 proyectos de innovación docente (uno de ellos ganador del primer Premio ASEPUC-UPF/Barcelona
+School of Management a la innovación educativa en docencia universitaria sobre
+contabilidad y/o auditoría) y ha colaborado en 2 informes dictámenes técnicos de ICAC-ASEPUC. Ha presentado
+cerca de 30 comunicaciones a congresos, principalmente sobre historia de la contabilidad. Revisora de varias
+revistas, algunas indexadas en JCR. Es miembro del Grupo de Investigación HARMONIA-UAM. Actualmente
+Beatriz es la coordinadora académica del Máster en Contabilidad, Auditoría y Mercado de Capitales (MACAM),
+máster que actualmente ocupa la 2ª posición en España en el ranking que realiza El Mundo de titulaciones de
+posgrado del área de auditoría. También ha realizado estancias de formación e investigación en las Universidades
+de Minho (Portugal), Cardiff (Reino Unido), Nevada (EEUU) y Lappeenranta (Finlandia).
+Leandro Cañibano Calvo
+Catedrático de Economía Financiera y Contabilidad, Profesor Emérito de la Universidad Autónoma de Madrid y
+Director de la Cátedra UAM-Auditores Madrid de Información Corporativa: Financiera y de Sostenibilidad.
+Académico numerario de la Real Academia de Doctores de España. Ha sido Profesor Invitado o Visitante de
+distintas Universidades en EE.UU. (Connecticut, Berkeley, Louisiana y Harvard), en Hispanoamérica (Colombia,
+Argentina y Chile), y en Europa (París, Ámsterdam, Leeds, Deusto y Navarra). Director de diversos Proyectos
+europeos de investigación sobre armonización contable (Financial Reporting, HARMONIA e INTACCT), y
+medición de intangibles (MERITUM y E*Know-Net), así como autor de numerosas publicaciones sobre
+Contabilidad y Finanzas. Tiene reconocidos seis sexenios de investigación. Es Doctor ‘Honoris Causa’ por la
+Universidad de Alcalá.
+Como Economista, Auditor de Cuentas y Experto Contable Acreditado (eca), su opinión profesional ha sido
+requerida en importantes casos que implicaban a conocidas empresas y organismos del gobierno. Ha sido miembro
+de la Comisión de expertos para la reforma de la contabilidad en España creada por el Ministerio de Economía, y
+vocal del Comité Consultivo de Contabilidad del Instituto de Contabilidad y Auditoría de Cuentas. Ha sido
+Presidente de la European Accounting Association y actualmente es Presidente de la Asociación Española de
+Contabilidad y Administración de Empresas (AECA).
+___________________________________________________________________________
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+52
+

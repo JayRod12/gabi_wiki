@@ -4,6 +4,14 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 
 ---
 
+## [2026-05-16] ingest | santos_canibano_2022_extracto.md
+
+**Fuente:** `raw/santos_canibano_2022_extracto.md`
+**Resumen:** Extracto del artículo académico Santos-Cabalgante & Cañibano (2022), publicado en *De Computis — Revista Española de Historia de la Contabilidad* (19/2). El artículo analiza las Memorias Anuales de Talleres Gabilondo (AHPVA, 1928–1959) y los libros contables y escrituras notariales. Aporta la tabla completa del accionariado de 1904 (Tabla 1), la trayectoria del Consejo de Administración (1904–1959), la evolución del capital social (500.000 ptas. en 1904 hasta 20.000.000 en 1959), la estructura de series de acciones en 1955–1959, y los roles de Ramón Moliner Vaquero, Arturo López Argüello y el Banco Castellano en la dilución del control familiar. Confirma que Leto gestionó los talleres desde 1872, que la bajante de la calle Teresa Gil rezaba «Viuda de Leto Gabilondo», y que César Gabilondo Manso fue consejero (1933–1959) y último representante familiar.
+**Páginas creadas/actualizadas:** leto_gabilondo, elvira_manso, cesar_gabilondo, talleres_gabilondo, ubaldo_manso, manuel_amoategui
+
+---
+
 ## [2026-05-10] ingest | familia_gabilondo.md
 
 **Fuente:** `raw/familia_gabilondo.md`
@@ -41,6 +49,17 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 **Fuente:** `raw/genalogia.md`
 **Resumen:** Documento de genealogía que completa la cadena generacional de César Rodríguez Gabilondo. Documenta por primera vez la generación intermedia (César Gabilondo y Carmen Santander, hijos de Leto y padres de Carmen) y añade una generación anterior (Agustín e Isidora, tataranietos de César Rodríguez). También confirma que César Rodríguez tiene cuatro hijos: Pablo, Jaime, David y Carolina.
 **Páginas creadas/actualizadas:** familia_gabilondo, cesar_rodriguez_gabilondo, index, cesar_gabilondo (nueva)
+
+---
+
+## [2026-05-16] verificación | cross-referencing de fechas
+
+**Alcance:** Todas las páginas wiki y fuentes raw
+**Resumen:** Revisión cruzada de todas las fechas. Se identificaron y corrigieron dos errores:
+1. `talleres_gabilondo.md`: Elvira permanecía en el consejo "hasta 1946" — imposible (murió en 1942); corregido a "hasta su fallecimiento en 1942" y se acota la presidencia directa a 1897–1905 según `raw/familia_gabilondo.md`.
+2. `cesar_gabilondo.md`: nacimiento "1896" inconsistente con `familia_gabilondo.md` ("c. 1895"); corregido a "c. 1895".
+**Otras observaciones sin corrección:** referencia a "Exposición de París de 1890" en raw (la expo fue 1889, el raw es inmutable); nacimiento de Agustín "c. 1824" en libro Isabel vs. 1825 en partida de bautismo (el wiki es correcto).
+**Páginas corregidas:** talleres_gabilondo, cesar_gabilondo
 
 ---
 
