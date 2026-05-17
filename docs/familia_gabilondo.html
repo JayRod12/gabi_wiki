@@ -155,6 +155,98 @@ Roberto Rodríguez García ─── Ester García Gutiérrez
                                                   │
                         César Rodríguez Gabilondo (Valladolid, 1964) ─── Olga Sánchez Allés (Madrid, 1969)
 </code></pre>
+<h2>Diagrama interactivo</h2>
+<blockquote>
+<p><strong>Convenciones de línea:</strong> <code>───</code> matrimonio (sin flecha) · <code>──►</code> descendencia · <code>(●)</code> nodo de unión conyugal</p>
+</blockquote>
+<pre><code class="language-mermaid">flowchart TD
+    %% ─── ESTILOS ────────────────────────────────────────────────
+    classDef vivo      fill:#dbeafe,stroke:#3b82f6,color:#1e40af
+    classDef fallecido fill:#f1f5f9,stroke:#94a3b8,color:#475569
+    classDef sinDatos  fill:#fef9c3,stroke:#ca8a04,color:#713f12
+    classDef clave     fill:#fee2e2,stroke:#dc2626,color:#7f1d1d
+    classDef mat       fill:#1e293b,stroke:#1e293b,color:#fff
+
+    subgraph LEY[&quot;Leyenda de colores&quot;]
+        direction LR
+        L1[&quot;Vivo / datos conocidos&quot;]:::vivo
+        L2[&quot;Fallecido&quot;]:::fallecido
+        L3[&quot;Sin datos / por documentar&quot;]:::sinDatos
+        L4[&quot;Figura histórica clave&quot;]:::clave
+    end
+
+    %% ─── GEN 0: Bisabuelos de Leto (Elorrio) ───────────────────
+    Juan[&quot;Juan Gabilondo Madinabeitia\nElorrio&quot;]:::sinDatos
+    Micaela[&quot;Micaela Azcárate Ascasua Abrain\nElorrio&quot;]:::sinDatos
+    Juan --- m0((&quot; &quot;)):::mat
+    Micaela --- m0
+
+    %% ─── GEN 1: Agustín y hermanos ─────────────────────────────
+    m0 --&gt; Agustin[&quot;Agustín Gabilondo Azcárate\nElorrio, 1825–1888&quot;]:::fallecido
+    m0 --&gt; Acisclo[&quot;Acisclo Gabilondo Azcárate\ncofundador Gabilondo Hnos.&quot;]:::sinDatos
+    m0 --&gt; Gabriel2[&quot;Gabriel Gabilondo Azcárate\ncofundador Gabilondo Hnos.&quot;]:::sinDatos
+    m0 --&gt; Maria0[&quot;María Gabilondo Azcárate&quot;]:::sinDatos
+
+    Isidora[&quot;Isidora Gangutia Elejalde\nElorrio, 1821–?&quot;]:::sinDatos
+    Agustin --- m1((&quot; &quot;)):::mat
+    Isidora --- m1
+
+    %% ─── GEN 2: Leto y Elvira ──────────────────────────────────
+    m1 --&gt; Leto[&quot;Leto Gabilondo Gangutia\nValladolid, 1860–1897\nConcejal · Talleres Gabilondo&quot;]:::clave
+
+    Elvira[&quot;Elvira Manso López\nValladolid, 1862–1942\nDirectora Talleres 1897–1942&quot;]:::clave
+    Leto --- m2((&quot; &quot;)):::mat
+    Elvira --- m2
+
+    %% ─── GEN 3: Hijos de Leto y Elvira ─────────────────────────
+    m2 --&gt; Fernando[&quot;Fernando Gabilondo Manso\n† joven&quot;]:::fallecido
+    m2 --&gt; Ignacio[&quot;Ignacio Gabilondo Manso\nc.1891–1927 · Pianista&quot;]:::fallecido
+    m2 --&gt; MaLuisa[&quot;Mª Luisa Gabilondo Manso&quot;]:::fallecido
+    m2 --&gt; Blanca[&quot;Blanca Gabilondo Manso\npor documentar&quot;]:::sinDatos
+    m2 --&gt; CesarGM[&quot;César Gabilondo Manso\n10.3.1896–15.6.1977\nConsejero Talleres 1933–1959&quot;]:::clave
+
+    Toribio[&quot;Toribio Moretón\npor documentar&quot;]:::sinDatos
+    MaLuisa --- m3((&quot; &quot;)):::mat
+    Toribio --- m3
+    m3 --&gt; ElviraM[&quot;Elvira Moretón Gabilondo\nconservó cartas de Leto&quot;]:::fallecido
+
+    JoseLuis[&quot;José Luís Benito Rementería&quot;]:::fallecido
+    ElviraM --- m4((&quot; &quot;)):::mat
+    JoseLuis --- m4
+
+    CarmenS[&quot;Carmen Santander Garzo\nVillamañán, 2.11.1904–30.12.1980&quot;]:::fallecido
+    CesarGM --- m5((&quot; &quot;)):::mat
+    CarmenS --- m5
+
+    %% ─── GEN 4: Carmen Gabilondo ───────────────────────────────
+    m5 --&gt; CarmenGS[&quot;Carmen Gabilondo Santander\nValladolid, 8.11.1938\nImpulsora de esta investigación&quot;]:::vivo
+
+    %% ─── RAMA RODRÍGUEZ ────────────────────────────────────────
+    Sabas[&quot;Sabas Rodríguez\nCarabinero&quot;]:::sinDatos
+    Isabel[&quot;Isabel García&quot;]:::sinDatos
+    Sabas --- mr1((&quot; &quot;)):::mat
+    Isabel --- mr1
+    mr1 --&gt; Roberto[&quot;Roberto Rodríguez García\nViana del Bollo, 29.4.1892–23.12.1981&quot;]:::fallecido
+
+    Electo[&quot;Electo García de León&quot;]:::sinDatos
+    Catalina[&quot;Catalina Gutiérrez&quot;]:::sinDatos
+    Electo --- mr2((&quot; &quot;)):::mat
+    Catalina --- mr2
+    mr2 --&gt; Ester[&quot;Ester García Gutiérrez\nMansilla de las Mulas, 4.10.1897–4.3.1985&quot;]:::fallecido
+
+    Roberto --- mr3((&quot; &quot;)):::mat
+    Ester --- mr3
+    mr3 --&gt; JoseRG[&quot;José Rodríguez García\nValladolid, 1938&quot;]:::vivo
+
+    %% ─── CONVERGENCIA ───────────────────────────────────────────
+    CarmenGS --- mc((&quot; &quot;)):::mat
+    JoseRG --- mc
+    mc --&gt; CesarRG[&quot;César Rodríguez Gabilondo\nValladolid, 1964&quot;]:::vivo
+
+    Olga[&quot;Olga Sánchez Allés\nMadrid, 1969&quot;]:::vivo
+    CesarRG --- mf((&quot; &quot;)):::mat
+    Olga --- mf
+</code></pre>
 <h2>Miembros documentados</h2>
 <h3>Juan Gabilondo Madinabeitia y Micaela Azcárate Ascasua Abrain (Elorrio)</h3>
 <p>Bisabuelos paternos de Leto. Naturales de Elorrio (Vizcaya). En la familia había herreros y artesanos.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></p>
@@ -222,5 +314,16 @@ Roberto Rodríguez García ─── Ester García Gutiérrez
 </div>
     </main>
   </div>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: false, theme: 'neutral' });
+    document.querySelectorAll('pre code.language-mermaid').forEach(el => {
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = el.textContent;
+      el.parentElement.replaceWith(div);
+    });
+    mermaid.run();
+  </script>
 </body>
 </html>
