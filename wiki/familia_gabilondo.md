@@ -25,12 +25,12 @@ Juan Gabilondo Madinabeitia ─── Micaela Azcárate Ascasua Abrain
  Fernando   Ignacio   Mª Luisa   Blanca    César
  Gabilondo  Gabilondo Gabilondo Gabilondo Gabilondo
   Manso      Manso     Manso     Manso     Manso
- (†joven)  (1891?–    (─── José Luís         (c.1895–)
-          1927)       Benito Rementería)
+ (†joven)  (1891?–    (─── Toribio Moretón)  (10.3.1896–
+          1927)                               15.6.1977)
                          │ (César)
-         César Gabilondo Manso ─── Carmen Santander Garzo (Villamañán, León, 2.11.1904–)
+         César Gabilondo Manso ─── Carmen Santander Garzo (Villamañán, León, 2.11.1904–30.12.1980)
                                   │
-                    Carmen Gabilondo Santander (Valladolid, 1938)
+                    Carmen Gabilondo Santander (Valladolid, 8.11.1938)
 ```
 
 ### Rama Rodríguez (línea paterna de César Rodríguez)
@@ -93,16 +93,16 @@ Hijo mayor de Leto y Elvira. Se preparaba para ser ingeniero y hacerse cargo de 
 Hijo de Leto y Elvira. Pianista de reconocido prestigio, activo entre 1914 y 1927. Discípulo del maestro Jacinto R. Manzanares en Valladolid; se formó también en Madrid y París. Tenía su estudio en el Pasaje Gutiérrez de Valladolid. Interpretó a Granados, Albéniz, Beethoven, Chopin y otros. Falleció el 29 de julio de 1927 a los **36 años**.[^1] → Ver [página](ignacio_gabilondo.md).
 
 ### María Luisa Gabilondo Manso
-Hija de Leto y Elvira. Casada con el pintor **José Luís Benito Rementería**. Madre de Elvira Moretón Gabilondo, quien conservó y transmitió las cartas originales de Leto.[^1]
+Hija de Leto y Elvira. Casada con **Toribio Moretón**. Madre de **Elvira Moretón Gabilondo**, quien a su vez se casó con **José Luís Benito Rementería** y fue quien conservó y transmitió las cartas originales de Leto.[^1]
 
 ### Blanca Gabilondo Manso
 Hija de Leto y Elvira. Información pendiente de documentar.
 
-### César Gabilondo Manso (Valladolid, c. 1895–?)
-Hijo menor de Leto y Elvira. Se quedó huérfano con apenas dos años. Casado con Carmen Santander Garzo. Padre de Carmen Gabilondo Santander. → Ver [página](cesar_gabilondo.md).
+### César Gabilondo Manso (Valladolid, 10.3.1896 – 15.6.1977)
+Hijo menor de Leto y Elvira. Se quedó huérfano con apenas un año. Casado con Carmen Santander Garzo. Padre de Carmen Gabilondo Santander. → Ver [página](cesar_gabilondo.md).
 
-### Carmen Santander Garzo (Villamañán, León, 2.11.1904–)
-Esposa de César Gabilondo Manso. Madre de Carmen Gabilondo Santander. Información pendiente de documentar.
+### Carmen Santander Garzo (Villamañán, León, 2.11.1904 – 30.12.1980)
+Esposa de César Gabilondo Manso. Madre de Carmen Gabilondo Santander.
 
 ### Sabas Rodríguez e Isabel García
 Abuelos paternos de José Rodríguez García. Sabas Rodríguez era Carabinero. Información pendiente de documentar.
@@ -116,7 +116,7 @@ Abuelo paterno de César Rodríguez Gabilondo. Hijo de Sabas Rodríguez e Isabel
 ### Ester García Gutiérrez (Mansilla de las Mulas, 4.10.1897 – Murcia, 4.03.1985)
 Abuela paterna de César Rodríguez Gabilondo. Hija de Electo García de León y Catalina Gutiérrez.
 
-### Carmen Gabilondo Santander (Valladolid, 1938)
+### Carmen Gabilondo Santander (Valladolid, 8.11.1938)
 Nieta de Leto y Elvira; hija de César Gabilondo Manso y Carmen Santander Garzo. Casada con José Rodríguez García (1938). Impulsora de la investigación sobre la historia familiar. → Ver [página](carmen_gabilondo.md).
 
 ### José Rodríguez García (Valladolid, 1938)
@@ -131,14 +131,12 @@ La familia Gabilondo tiene raíces profundas en Valladolid. Los [Talleres Gabilo
 
 ## Lagunas conocidas
 
-- Fecha exacta de nacimiento y fallecimiento de César Gabilondo Manso
-- Datos biográficos de Carmen Santander Garzo
 - Datos biográficos detallados de José Rodríguez García
-- Fecha de nacimiento y fallecimiento de Carmen Gabilondo Santander
 - Información sobre Sabas Rodríguez, Isabel García, Electo García de León y Catalina Gutiérrez
 - Datos de Acisclo, Gabriel y María Gabilondo Azcárate
 - Datos de Blanca Gabilondo Manso
 - Fecha de muerte de Fernando Gabilondo Manso
+- Datos biográficos de Toribio Moretón (marido de María Luisa Gabilondo Manso)
 
 ## Fuentes
 

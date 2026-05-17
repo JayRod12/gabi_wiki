@@ -18,7 +18,7 @@ La wiki es mantenida con César Rodríguez Gabilondo como editor, y nació del i
 | [Ignacio Gabilondo Manso](ignacio_gabilondo.md) | Pianista (1891–1927); hijo de Leto y Elvira |
 | [Ubaldo Manso](ubaldo_manso.md) | Hermano de Elvira; consejero de Talleres Gabilondo S.A. |
 | [Manuel Amoategui](manuel_amoategui.md) | Empresario; accionista influyente de Talleres Gabilondo S.A. |
-| [César Gabilondo Manso](cesar_gabilondo.md) | Hijo menor de Leto y Elvira (1896–); padre de Carmen Gabilondo |
+| [César Gabilondo Manso](cesar_gabilondo.md) | Hijo menor de Leto y Elvira (10.3.1896–15.6.1977); padre de Carmen Gabilondo |
 | [Carmen Gabilondo Santander](carmen_gabilondo.md) | Nieta de Leto; impulsora de esta investigación |
 | [César Rodríguez Gabilondo](cesar_rodriguez_gabilondo.md) | Hijo de Carmen (1964); editor de la wiki |
 

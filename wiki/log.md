@@ -4,6 +4,14 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 
 ---
 
+## [2026-05-17] corrección y datos directos | testimonio Carmen Gabilondo Santander
+
+**Fuente:** Testimonio directo de Carmen Gabilondo Santander (ella misma)
+**Resumen:** Corrección de un error genealógico significativo: la wiki atribuía erróneamente a María Luisa Gabilondo Manso el matrimonio con José Luís Benito Rementería. En realidad, María Luisa se casó con **Toribio Moretón**, y fue su hija **Elvira Moretón Gabilondo** quien se casó con José Luís Benito Rementería. Se completan además tres lagunas de fechas: César Gabilondo Manso nació el 10.3.1896 en Valladolid y falleció el 15.6.1977 en Valladolid; Carmen Santander Garzo nació el 2.11.1904 y falleció el 30.12.1980; Carmen Gabilondo Santander nació en Valladolid el 8.11.1938.
+**Páginas actualizadas:** familia_gabilondo, cesar_gabilondo, carmen_gabilondo, index
+
+---
+
 ## [2026-05-16] ingest | santos_canibano_2022_extracto.md
 
 **Fuente:** `raw/santos_canibano_2022_extracto.md`

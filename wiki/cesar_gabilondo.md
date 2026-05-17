@@ -1,6 +1,6 @@
 # César Gabilondo Manso
 
-César Gabilondo Manso (c. 1895–) es hijo de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Manso](elvira_manso.md). Casado con Carmen Santander Garzo, con quien tuvo a [Carmen Gabilondo Santander](carmen_gabilondo.md). Fue el **último representante de la familia Gabilondo-Manso en el Consejo de Administración** de [Talleres Gabilondo S.A.](talleres_gabilondo.md)
+César Gabilondo Manso (Valladolid, 10.3.1896 – 15.6.1977) es hijo de [Leto Gabilondo](leto_gabilondo.md) y [Elvira Manso](elvira_manso.md). Casado con Carmen Santander Garzo, con quien tuvo a [Carmen Gabilondo Santander](carmen_gabilondo.md). Fue el **último representante de la familia Gabilondo-Manso en el Consejo de Administración** de [Talleres Gabilondo S.A.](talleres_gabilondo.md)
 
 ## Papel en los Talleres Gabilondo
 
@@ -24,9 +24,7 @@ La hitos de la pérdida del control familiar durante sus años en el Consejo:
 
 ## Por documentar
 
-- Fecha de fallecimiento
 - Datos biográficos (profesión, lugar de residencia)
-- Información sobre Carmen Santander Garzo
 - Si César mantuvo acciones de la Serie A (bloque original de 1904) en su etapa como consejero
 
 ## Fuentes
