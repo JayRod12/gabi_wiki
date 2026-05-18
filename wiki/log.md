@@ -4,6 +4,14 @@ Historial cronológico de ingestas, consultas y operaciones de mantenimiento de 
 
 ---
 
+## [2026-05-18] ingest | CONSTRUYENDO FICHAS.docx
+
+**Fuente:** `raw/CONSTRUYENDO FICHAS.docx` (Z:\CRG\Privado\mama\Libro Gabilondo llega a Valladolid\)
+**Resumen:** Incorporación de 23 fichas de campo con evidencias arquitectónicas atribuidas a los talleres Gabilondo en Valladolid. Las fichas documentan piezas de hierro fundido y forjado (bajantes, columnas, balcones, celosías, mobiliario urbano) organizadas en cuatro períodos: Hermanos Gabilondo (hasta 1870), Leto Gabilondo (1870–1897), Viuda de Leto Gabilondo/Elvira Manso (1897–1904) y Talleres Gabilondo S.A. (desde 1904). Se extraen 93 fotografías del documento. Incluye piezas notables como las columnas del Mercado del Val (HG-023) con sello *Viuda de Leto Gabilondo*, la tapa de registro del Canal del Duero (HG-020) con el nuevo nombre societario, y las farolas de la Plaza Mayor de 1906 (HG-021, desaparecidas).
+**Páginas creadas/actualizadas:** evidencias_arquitectonicas (nueva), index, log
+
+---
+
 ## [2026-05-17] corrección y datos directos | testimonio Carmen Gabilondo Santander
 
 **Fuente:** Testimonio directo de Carmen Gabilondo Santander (ella misma)

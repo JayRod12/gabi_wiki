@@ -29,6 +29,12 @@ La wiki es mantenida con César Rodríguez Gabilondo como editor, y nació del i
 | [Talleres Gabilondo](talleres_gabilondo.md) | Fundición familiar de los Gabilondo, barrio de San Ildefonso |
 | [Calle de Gabilondo](calle_gabilondo.md) | Vía pública de Valladolid en honor a Leto Gabilondo |
 
+## Evidencias arquitectónicas
+
+| Página | Descripción |
+|---|---|
+| [Evidencias arquitectónicas](evidencias_arquitectonicas.md) | Catálogo de 23 piezas de hierro fundido y forjado atribuidas a los talleres Gabilondo en Valladolid, organizadas en cuatro períodos (1863–1906) |
+
 ---
 
 ## Sobre este proyecto

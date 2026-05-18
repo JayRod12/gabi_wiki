@@ -1,0 +1,1388 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evidencias arquitectónicas de los Talleres Gabilondo — Wiki Gabilondo</title>
+  <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+       font-size: 16px; line-height: 1.65; color: #222; background: #fff; }
+
+.layout { display: flex; min-height: 100vh; }
+
+/* Sidebar */
+.sidebar {
+  width: 240px; min-width: 240px; background: #f6f6f6; border-right: 1px solid #e0e0e0;
+  padding: 1.5rem 1rem; position: sticky; top: 0; height: 100vh; overflow-y: auto;
+}
+.site-title { margin-bottom: 1.2rem; }
+.site-title a {
+  font-size: 1rem; font-weight: 700; color: #1a1a1a; text-decoration: none;
+  line-height: 1.3;
+}
+.site-title a:hover { color: #1a73e8; }
+.sidebar ul { list-style: none; }
+.sidebar li { margin-bottom: 0.15rem; }
+.sidebar li a {
+  display: block; padding: 0.3rem 0.5rem; border-radius: 4px;
+  color: #444; text-decoration: none; font-size: 0.875rem;
+}
+.sidebar li a:hover { background: #e8e8e8; color: #1a1a1a; }
+.sidebar li.active a { background: #1a73e8; color: #fff; font-weight: 600; }
+.sidebar-section {
+  font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em;
+  color: #888; margin: 1rem 0.5rem 0.3rem;
+}
+
+/* Content */
+.content {
+  flex: 1; padding: 2.5rem 3rem; max-width: 820px;
+}
+.content h1 { font-size: 1.9rem; font-weight: 700; margin-bottom: 1.2rem;
+               border-bottom: 2px solid #e0e0e0; padding-bottom: 0.5rem; color: #1a1a1a; }
+.content h2 { font-size: 1.25rem; font-weight: 600; margin: 2rem 0 0.6rem; color: #1a1a1a; }
+.content h3 { font-size: 1.05rem; font-weight: 600; margin: 1.4rem 0 0.4rem; color: #333; }
+.content p { margin-bottom: 0.9rem; }
+.content a { color: #1a73e8; text-decoration: none; }
+.content a:hover { text-decoration: underline; }
+.content ul, .content ol { margin: 0.5rem 0 0.9rem 1.5rem; }
+.content li { margin-bottom: 0.25rem; }
+.content blockquote {
+  border-left: 3px solid #ccc; margin: 1rem 0; padding: 0.5rem 1rem;
+  color: #555; background: #f9f9f9; border-radius: 0 4px 4px 0; font-style: italic;
+}
+.content table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.9rem; }
+.content th { background: #f0f0f0; font-weight: 600; }
+.content th, .content td { border: 1px solid #ddd; padding: 0.5rem 0.75rem; text-align: left; }
+.content tr:nth-child(even) td { background: #fafafa; }
+.content code { background: #f0f0f0; padding: 0.1em 0.3em; border-radius: 3px;
+                font-size: 0.875em; font-family: "SF Mono", Consolas, monospace; }
+.content pre { background: #f0f0f0; padding: 1rem; border-radius: 6px; overflow-x: auto;
+               margin: 1rem 0; }
+.content pre code { background: none; padding: 0; }
+.content hr { border: none; border-top: 1px solid #e0e0e0; margin: 1.5rem 0; }
+
+/* Footnotes — estilo Wikipedia */
+.content sup { font-size: 0.75em; line-height: 0; vertical-align: super; }
+.content a.footnote-ref { color: #1a73e8; text-decoration: none; }
+.content a.footnote-ref::before { content: "["; }
+.content a.footnote-ref::after { content: "]"; }
+.footnote { font-size: 0.875rem; }
+.footnote hr { display: none; }
+.footnote ol { margin: 0.4rem 0 0 1.8rem; }
+.footnote li { margin-bottom: 0.5rem; color: #444; }
+.footnote li p { margin-bottom: 0; display: inline; }
+a.footnote-backref { color: #1a73e8; text-decoration: none; font-size: 0.85em; margin-left: 0.3rem; }
+
+/* Mermaid fullscreen */
+.mermaid-wrap { position: relative; border: 1px solid #e0e0e0; border-radius: 8px;
+  margin: 1rem 0; overflow: hidden; background: #fafafa; }
+.mermaid-fs-btn { position: absolute; top: 8px; right: 8px; background: rgba(255,255,255,0.92);
+  border: 1px solid #ccc; border-radius: 4px; padding: 4px 10px; font-size: 0.8rem;
+  cursor: pointer; color: #333; z-index: 1; }
+.mermaid-fs-btn:hover { background: #e8e8e8; }
+.mermaid-overlay { position: fixed; inset: 0; z-index: 9999; background: #fff;
+  display: flex; flex-direction: column; outline: none; }
+.mermaid-toolbar { display: flex; align-items: center; gap: 10px; padding: 8px 16px;
+  background: #f6f6f6; border-bottom: 1px solid #e0e0e0; flex-shrink: 0; }
+.mermaid-viewport { flex: 1; overflow: hidden; display: flex;
+  align-items: center; justify-content: center; }
+.mermaid-reset-btn, .mermaid-close-btn { border: none; border-radius: 4px; padding: 5px 12px;
+  cursor: pointer; font-size: 0.8rem; }
+.mermaid-reset-btn { background: #e5e7eb; color: #374151; }
+.mermaid-reset-btn:hover { background: #d1d5db; }
+.mermaid-close-btn { background: #dc2626; color: #fff; }
+.mermaid-close-btn:hover { background: #b91c1c; }
+
+/* Responsive */
+@media (max-width: 700px) {
+  .layout { flex-direction: column; }
+  .sidebar { width: 100%; min-width: unset; height: auto; position: static;
+             border-right: none; border-bottom: 1px solid #e0e0e0; padding: 1rem; }
+  .content { padding: 1.5rem 1.2rem; }
+}
+</style>
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="site-title"><a href="index.html">🏛 Wiki Gabilondo</a></div>
+      <ul><li><a href="index.html">Página Principal</a></li>
+<li><a href="familia_gabilondo.html">Árbol Familiar</a></li>
+<li><div class="sidebar-section">Personas</div></li>
+<li><a href="agustin_gabilondo.html">Agustin Gabilondo</a></li>
+<li><a href="carmen_gabilondo.html">Carmen Gabilondo</a></li>
+<li><a href="cesar_gabilondo.html">Cesar Gabilondo</a></li>
+<li><a href="cesar_rodriguez_gabilondo.html">César Rodríguez Gabilondo</a></li>
+<li><a href="elvira_manso.html">Elvira Manso</a></li>
+<li><a href="fernando_gabilondo.html">Fernando Gabilondo</a></li>
+<li><a href="ignacio_gabilondo.html">Ignacio Gabilondo</a></li>
+<li><a href="leto_gabilondo.html">Leto Gabilondo</a></li>
+<li><a href="manuel_amoategui.html">Manuel Amoategui</a></li>
+<li><a href="ubaldo_manso.html">Ubaldo Manso</a></li>
+<li><div class="sidebar-section">Lugares y negocios</div></li>
+<li><a href="calle_gabilondo.html">Calle de Gabilondo</a></li>
+<li><a href="talleres_gabilondo.html">Talleres Gabilondo</a></li>
+<li><div class="sidebar-section">Meta</div></li>
+<li><a href="log.html">Registro</a></li>
+<li class="active"><a href="evidencias_arquitectonicas.html">Evidencias Arquitectonicas</a></li></ul>
+    </nav>
+    <main class="content">
+      <h1>Evidencias arquitectónicas de los Talleres Gabilondo</h1>
+<p>Esta página cataloga las piezas de hierro fundido y forjado atribuidas a los talleres de la familia Gabilondo en Valladolid y su entorno, organizadas por etapa empresarial. Las marcas de fundición conservadas en las piezas constituyen documentos históricos que permiten fechar la actividad industrial de cada período.</p>
+<h2>Los cuatro períodos</h2>
+<table>
+<thead>
+<tr>
+<th>Período</th>
+<th>Denominación</th>
+<th>Años</th>
+<th>Sello característico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I</td>
+<td>Hermanos Gabilondo / Agustín Gabilondo</td>
+<td>hasta 1870</td>
+<td>Sin sello documentado</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Leto Gabilondo</td>
+<td>1870–1897</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em></td>
+</tr>
+<tr>
+<td>III</td>
+<td>Viuda de Leto Gabilondo (Elvira Manso)</td>
+<td>1897–1904</td>
+<td><em>Viuda de Leto Gabilondo Constructor Valladolid</em></td>
+</tr>
+<tr>
+<td>IV</td>
+<td>Talleres de Fundición Gabilondo S.A.</td>
+<td>desde 1904</td>
+<td><em>Talleres de Fundición Gabilondo. Canal del Duero</em></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Período I — Hermanos Gabilondo (hasta 1870)</h2>
+<h3>HG-001 · Puerta de los paseos del Prado de la Magdalena</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Puerta de cierre de espacio público</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>Paseos del Prado de la Magdalena, barrio San Isidro, Valladolid</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro (barra forjada y ensamblado soldado)</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>366 × 137 cm (aprox.)</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td><strong>Desaparecida</strong></td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>No visible / no documentada</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1863</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Documentación municipal (adjudicación por subasta)</td>
+</tr>
+</tbody>
+</table>
+<p>Vinculada a las primeras intervenciones documentadas de Gabilondo Hermanos en obra pública municipal. El proyecto incluía cinco piezas similares. Corresponde a la dirección de <strong>Agustín Gabilondo</strong>.</p>
+<p><img alt="Puerta Prado Magdalena" src="img/arquitectura/image1.png" /></p>
+<hr />
+<h2>Período II — Leto Gabilondo (1870–1897)</h2>
+<h3>HG-002 · Columna de la Casa Mantilla (Calle Mantilla, 1)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Columna estructural</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Mantilla, 1 — interior restaurante Miguel Ángel (planta baja)</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø 35 cm × 220 cm (aprox.)</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Buen estado, con repintes</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em> — sello circular en relieve</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>c. 1891</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Fecha de construcción del edificio</td>
+</tr>
+</tbody>
+</table>
+<p>Ejemplo directo de producción de los talleres aplicada a la arquitectura urbana. El sello afirma el papel de los talleres en la transformación de Valladolid a finales del XIX. Existen 10 columnas iguales en el mismo edificio.</p>
+<p><img alt="Columna Casa Mantilla – Mantilla 1, foto 1" src="img/arquitectura/image2.jpeg" /> <img alt="Columna Casa Mantilla – Mantilla 1, foto 2" src="img/arquitectura/image3.jpeg" /> <img alt="Columna Casa Mantilla – Mantilla 1, foto 3" src="img/arquitectura/image4.jpeg" /></p>
+<hr />
+<h3>HG-003 · Columnas de la Casa Mantilla (Acera de Recoletos, 1)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Columna estructural</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>Acera de Recoletos, 1 — interior locales Zara Home y Burger King (planta baja)</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø 35 cm × 220 cm (aprox.)</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Intervenido; superficie lijada y repintada</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><strong>No legible</strong> — marca eliminada por lijado</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>c. 1891</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Fecha de construcción del edificio; correspondencia tipológica con HG-002</td>
+</tr>
+</tbody>
+</table>
+<p>La eliminación de la marca mediante lijado evidencia la pérdida progresiva de la memoria material. Existen múltiples columnas similares en el edificio, algunas con la marca conservada.</p>
+<p><img alt="Columna Acera Recoletos, foto 1" src="img/arquitectura/image5.jpeg" /> <img alt="Columna Acera Recoletos, foto 2" src="img/arquitectura/image6.jpeg" /> <img alt="Columna Acera Recoletos, foto 3" src="img/arquitectura/image7.jpeg" /></p>
+<hr />
+<h3>HG-004 · Bajante y celosía artística (Calle Esgueva, 12)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajante de aguas pluviales + cerramiento de balcones con celosía artística</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Esgueva, 12 — entorno Universidad-San Pablo</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido e hierro trabajado</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Bajante Ø 12–15 cm; celosía espesor 5–10 mm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Inscripción legible, parcialmente empastada</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em> — sello circular en relieve</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Fecha de construcción documentada</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Bajante Esgueva 12, foto 1" src="img/arquitectura/image8.jpeg" /> <img alt="Bajante Esgueva 12, foto 2" src="img/arquitectura/image9.jpeg" /> <img alt="Bajante Esgueva 12, foto 3" src="img/arquitectura/image10.jpeg" /> <img alt="Bajante Esgueva 12, foto 4" src="img/arquitectura/image11.jpeg" /></p>
+<hr />
+<h3>HG-005 · Bajante de aguas pluviales (Calle Esgueva, 12–16)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajante de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Esgueva, 12–16 — fachada exterior</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø 12–15 cm; tramo 150–200 cm; espesor 5–10 mm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno, con ligera erosión superficial</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em> — sello circular en relieve</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Bajante Esgueva 12-16, foto 1" src="img/arquitectura/image12.jpeg" /> <img alt="Bajante Esgueva 12-16, foto 2" src="img/arquitectura/image13.jpeg" /> <img alt="Bajante Esgueva 12-16, foto 3" src="img/arquitectura/image14.jpeg" /></p>
+<hr />
+<h3>HG-006 · Dosel de filigrana en hierro (Calle Esgueva, 12)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Dosel de reja artística</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Esgueva, 12 — sobre hueco de fachada</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro trabajado (forja)</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>100 cm (ancho) × 50–60 cm (alto)</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>J.D. 1896</em> — integrada en el diseño del dosel</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p>La inscripción <em>J.D. 1896</em> podría corresponder a las iniciales del propietario o promotor. En el mismo inmueble existe un bajante con la marca <em>Leto Gabilondo Constructor Valladolid</em> (HG-004), lo que documenta la intervención de los talleres en el edificio.</p>
+<p><img alt="Dosel Esgueva 12, foto 1" src="img/arquitectura/image15.jpeg" /> <img alt="Dosel Esgueva 12, foto 2" src="img/arquitectura/image16.jpeg" /> <img alt="Dosel Esgueva 12, foto 3" src="img/arquitectura/image17.jpeg" /></p>
+<hr />
+<h3>HG-007 · Dosel de filigrana en hierro (Calle de la Solanilla, 11)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Dosel decorativo</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ de la Solanilla, 11 — sobre hueco de fachada</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro trabajado (forja)</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>100 cm (ancho) × 60 cm (alto)</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>Sin inscripción visible</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p>Presenta similitudes formales con otros doseles de forja documentados en edificios contemporáneos. Corresponde a la tecnología base que dominaba Agustín Gabilondo a su llegada a Valladolid y que la empresa desarrolló desde 1860.</p>
+<p><img alt="Dosel Solanilla 11, foto 1" src="img/arquitectura/image18.jpeg" /> <img alt="Dosel Solanilla 11, foto 2" src="img/arquitectura/image19.jpeg" /></p>
+<hr />
+<h3>HG-008 · Bajantes de aguas pluviales (Calle de la Solanilla, 11)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajantes de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ de la Solanilla, 11 — fachada principal</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø 10–15 cm; medallón 12–18 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em> — inscripción en relieve en anillo con medallón central</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Bajante Solanilla 11, foto 1" src="img/arquitectura/image21.png" /> <img alt="Bajante Solanilla 11, foto 2" src="img/arquitectura/image23.jpeg" /></p>
+<hr />
+<h3>HG-009 · Bajante y celosía de filigrana (Calle Esgueva, 12 — entrada)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajante de aguas pluviales + celosía de filigrana</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Esgueva, 12 — sobre la puerta de entrada</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro trabajado (celosía) + hierro fundido (bajante)</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Celosía: 100 × 60 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>J.D. 1896</em> — sello circular en el centro de la celosía</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p>En el mismo inmueble existe un bajante con marca <em>Leto Gabilondo Constructor Valladolid</em>, lo que permite atribuir el conjunto a los talleres con alto grado de probabilidad.</p>
+<p><img alt="Celosía entrada Esgueva 12, foto 1" src="img/arquitectura/image26.jpeg" /> <img alt="Celosía entrada Esgueva 12, foto 2" src="img/arquitectura/image28.jpeg" /> <img alt="Celosía entrada Esgueva 12, foto 3" src="img/arquitectura/image29.jpeg" /></p>
+<hr />
+<h3>HG-012 · Bajante (Calle López Gómez, 8)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajante de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 8 — zona Centro, entorno Plaza de España</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno; inscripción con pérdida de definición por capas de pintura</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em></td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p>La coexistencia en la misma calle de piezas firmadas por <em>Leto Gabilondo</em> (c. 1896) y por <em>Viuda de Leto Gabilondo</em> (c. 1898 — véanse HG-010 y HG-011) evidencia una continuidad inmediata en la actividad productiva de los talleres.</p>
+<p><img alt="Bajante López Gómez 8, foto 1" src="img/arquitectura/image43.jpeg" /> <img alt="Bajante López Gómez 8, foto 2" src="img/arquitectura/image44.jpeg" /> <img alt="Bajante López Gómez 8, foto 3" src="img/arquitectura/image45.jpeg" /></p>
+<hr />
+<h3>HG-013 · Balcones y adorno forjado (Calle López Gómez, 8)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Balcones y adorno forjado</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 8</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido y forjado</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Balcón: 160 × 100 × 30 cm; celosía: 120 × 40 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Aceptable (supera su vida útil estimada de 60–100 años)</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>Sin marcas del constructor</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1895</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Balcones López Gómez 8, foto 1" src="img/arquitectura/image49.png" /> <img alt="Balcones López Gómez 8, foto 2" src="img/arquitectura/image50.png" /></p>
+<hr />
+<h3>HG-014 · Dos bajantes (Calle López Gómez, 6)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajantes de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 6 — próximo a la Plaza de España</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em></td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1895</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Bajantes López Gómez 6, foto 1" src="img/arquitectura/image51.jpeg" /> <img alt="Bajantes López Gómez 6, foto 2" src="img/arquitectura/image52.jpeg" /> <img alt="Bajantes López Gómez 6, foto 3" src="img/arquitectura/image53.jpeg" /></p>
+<hr />
+<h3>HG-015 · Balcón y decoración de puerta (Calle López Gómez, 6)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Balcón de protección y decoración</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 6</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro trabajado (filigrana)</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>40 × 160 × 100 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Pintado y saneado</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>Sin texto</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1895</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Balcón López Gómez 6" src="img/arquitectura/image56.jpeg" /></p>
+<hr />
+<h3>HG-016 · Dos bajantes (Calle López Gómez, 4)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajantes de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 4 — entorno Plaza de España</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Letras algo empastadas</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em></td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p>El propietario del edificio declaró que la totalidad de los elementos de forja y fundición conservados en la primera planta procedería de los talleres de Leto Gabilondo (testimonio oral, con respaldo de las evidencias materiales in situ).</p>
+<p><img alt="Bajantes López Gómez 4, foto 1" src="img/arquitectura/image57.jpeg" /> <img alt="Bajantes López Gómez 4, foto 2" src="img/arquitectura/image58.jpeg" /> <img alt="Bajantes López Gómez 4, foto 3" src="img/arquitectura/image59.jpeg" /></p>
+<hr />
+<h3>HG-017 · Bajante (Calle Miguel Íscar, 8)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajante de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Miguel Íscar, 8 — zona Centro, próximo a Plaza de España</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Mal estado de conservación</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em> — inscripción circular perimetral en anillo</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Bajante Miguel Íscar 8, foto 1" src="img/arquitectura/image70.jpeg" /> <img alt="Bajante Miguel Íscar 8, foto 2" src="img/arquitectura/image75.jpeg" /></p>
+<hr />
+<h3>HG-018 · Balcón de hierro trabajado (Calle Miguel Íscar, 8)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Balcón con celosía artística</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Miguel Íscar, 8</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro trabajado</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>60 × 150 × 70/75 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Mal estado de conservación</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Leto Gabilondo Constructor Valladolid</em> (en el bajante asociado)</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Balcón Miguel Íscar 8, foto 1" src="img/arquitectura/image77.jpeg" /> <img alt="Balcón Miguel Íscar 8, foto 2" src="img/arquitectura/image78.jpeg" /></p>
+<hr />
+<h3>HG-019 · Celosía de filigrana en puerta (Calle Miguel Íscar, 8)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Celosía de filigrana</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Miguel Íscar, 8</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro (forja en caliente)</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>120 × 40 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Peor que otras rejas, por la elevada humedad de la calle</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>Sin marcas</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1896</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Celosía Miguel Íscar 8, foto 1" src="img/arquitectura/image79.png" /> <img alt="Celosía Miguel Íscar 8, foto 2" src="img/arquitectura/image80.png" /></p>
+<hr />
+<h3>HG-022 · Plaza de toros (Paseo de Zorrilla)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Infraestructura urbana / equipamiento de ocio</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>Paseo de Zorrilla, área sur — entorno Campo Grande</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Fábrica de ladrillo con estructura con elementos metálicos</td>
+</tr>
+<tr>
+<td>Aforo</td>
+<td>11.542 espectadores</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno (edificio en uso, con reformas posteriores)</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>No documentada directamente</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1890 (inauguración)</td>
+</tr>
+</tbody>
+</table>
+<p>La vinculación de los talleres Gabilondo con la plaza de toros es <strong>documental, no material</strong>: en el Archivo Municipal de Valladolid consta una carta firmada por trece promotores —entre ellos Leto Gabilondo— solicitando autorización para la construcción. La aportación económica de Leto ascendió a <strong>17.000 pesetas</strong>.</p>
+<p><img alt="Plaza de toros de Valladolid, foto 1" src="img/arquitectura/image84.jpeg" /> <img alt="Plaza de toros de Valladolid, foto 2" src="img/arquitectura/image85.jpeg" /></p>
+<hr />
+<h2>Período III — Viuda de Leto Gabilondo / Elvira Manso (1897–1904)</h2>
+<h3>HG-010 · Cuatro bajantes (Calle López Gómez, 12)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajantes de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 12 — zona Centro, entorno Plaza de España</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø 15 cm; tramo 150–200 cm; espesor 5–10 mm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno, ligera erosión superficial</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Viuda de Leto Gabilondo Constructor Valladolid</em> — sello circular en relieve</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1898</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Fecha de construcción documentada</td>
+</tr>
+</tbody>
+</table>
+<p>Primer período bajo la dirección de <a href="elvira_manso.html">Elvira Manso</a>. La repetición de la inscripción en varios inmuebles sugiere producción seriada para el ensanche urbano.</p>
+<p><img alt="Bajantes López Gómez 12, foto 1" src="img/arquitectura/image34.png" /> <img alt="Bajantes López Gómez 12, foto 2" src="img/arquitectura/image35.png" /> <img alt="Bajantes López Gómez 12, foto 3" src="img/arquitectura/image36.png" /></p>
+<hr />
+<h3>HG-011 · Dos bajantes (Calle López Gómez, 10)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Bajante de aguas pluviales</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ López Gómez, 10 — zona Centro</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno, ligera erosión superficial</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Viuda de Leto Gabilondo Constructor Valladolid</em> — sello circular en relieve</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1898</td>
+</tr>
+</tbody>
+</table>
+<p>La repetición de piezas idénticas en los números 10 y 12 de la misma calle sugiere una fase de edificación homogénea en el desarrollo urbano de la zona.</p>
+<p><img alt="Bajantes López Gómez 10, foto 1" src="img/arquitectura/image37.png" /> <img alt="Bajantes López Gómez 10, foto 2" src="img/arquitectura/image38.jpeg" /> <img alt="Bajantes López Gómez 10, foto 3" src="img/arquitectura/image39.png" /></p>
+<hr />
+<h3>HG-023 · Columnas del Mercado del Val</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Columnas de soporte</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>C/ Francisco de Zarandona, 8 — Puerta Norte</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø 35 cm × 320 cm (aprox.)</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Excelente</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Viuda de Leto Gabilondo Constructor Valladolid</em> — sello circular en relieve</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>c. 1900</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Actas del Ayuntamiento; el edificio original data de 1882</td>
+</tr>
+</tbody>
+</table>
+<p>Se documentan <strong>30 columnas iguales</strong> en el edificio. El sello en el resto de puertas fue tapado durante la reforma de 2016; solo el de la Puerta Norte permanece visible. La reconversión estructural del Mercado del Val representa uno de los logros técnicos más ambiciosos de la empresa bajo <a href="elvira_manso.html">Elvira Manso</a>, comparable en resolución técnica a las estructuras metálicas de la Exposición Universal de París de 1889 que visitó Leto. Elvira ni siquiera cambió el nombre de la fundición.</p>
+<p><img alt="Mercado del Val, foto 1" src="img/arquitectura/image86.png" /> <img alt="Mercado del Val, foto 2" src="img/arquitectura/image87.png" /> <img alt="Mercado del Val, foto 3" src="img/arquitectura/image88.png" /> <img alt="Mercado del Val, foto 4" src="img/arquitectura/image89.png" /></p>
+<hr />
+<h2>Período IV — Talleres de Fundición Gabilondo S.A. (desde 1904)</h2>
+<h3>HG-020 · Tapa de registro (Campo Grande)</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Tapa de registro de infraestructura urbana</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>Salida Paseo del Príncipe al Paseo de Filipinos — zona Campo Grande</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Ø aprox. 90–100 cm</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Bueno</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td><em>Talleres de Fundición Gabilondo. Canal del Duero</em> — sello circular en el centro</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>c. 1905</td>
+</tr>
+</tbody>
+</table>
+<p>Primera pieza documentada con la nueva denominación social tras la constitución de la S.A. en 1904. Inserta en las dinámicas de modernización urbana y mejora de infraestructuras de comienzos del siglo XX.</p>
+<p><img alt="Tapa de registro Campo Grande, foto 1" src="img/arquitectura/image81.png" /> <img alt="Tapa de registro Campo Grande, foto 2" src="img/arquitectura/image82.png" /> <img alt="Tapa de registro Campo Grande, foto 3" src="img/arquitectura/image83.png" /></p>
+<hr />
+<h3>HG-021 · Farolas de la Plaza Mayor</h3>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Dato</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tipo</td>
+<td>Mobiliario urbano</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td>Plaza Mayor, centro histórico, Valladolid</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Hierro fundido</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Altura estimada 4–5 m</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td><strong>Desaparecidas</strong> — solo conservados los planos en el Archivo Municipal</td>
+</tr>
+<tr>
+<td>Inscripción</td>
+<td>No documentada</td>
+</tr>
+<tr>
+<td>Fecha</td>
+<td>1906</td>
+</tr>
+<tr>
+<td>Criterio</td>
+<td>Adjudicación por subasta documentada</td>
+</tr>
+</tbody>
+</table>
+<p>La documentación municipal registra la adjudicación, mediante subasta pública, de <strong>20 farolas y 32 bancos</strong> para la Plaza Mayor de Valladolid en 1906. Es uno de los ejemplos más claros de participación de los Talleres Gabilondo en contratos municipales de equipamiento urbano.</p>
+<p><strong>Referencia:</strong> Archivo Municipal de Valladolid — Proyecto de mobiliario urbano, Plaza Mayor, 1906 (signatura pendiente de completar).</p>
+<hr />
+<h2>Índice geográfico</h2>
+<table>
+<thead>
+<tr>
+<th>Código</th>
+<th>Dirección</th>
+<th>Período</th>
+<th>Elemento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HG-001</td>
+<td>Prado de la Magdalena</td>
+<td>I</td>
+<td>Puerta de cierre (desaparecida)</td>
+</tr>
+<tr>
+<td>HG-002</td>
+<td>C/ Mantilla, 1</td>
+<td>II</td>
+<td>Columna estructural</td>
+</tr>
+<tr>
+<td>HG-003</td>
+<td>Acera de Recoletos, 1</td>
+<td>II</td>
+<td>Columnas estructurales</td>
+</tr>
+<tr>
+<td>HG-004</td>
+<td>C/ Esgueva, 12</td>
+<td>II</td>
+<td>Bajante + celosía</td>
+</tr>
+<tr>
+<td>HG-005</td>
+<td>C/ Esgueva, 12–16</td>
+<td>II</td>
+<td>Bajante</td>
+</tr>
+<tr>
+<td>HG-006</td>
+<td>C/ Esgueva, 12</td>
+<td>II</td>
+<td>Dosel de filigrana</td>
+</tr>
+<tr>
+<td>HG-007</td>
+<td>C/ de la Solanilla, 11</td>
+<td>II</td>
+<td>Dosel de filigrana</td>
+</tr>
+<tr>
+<td>HG-008</td>
+<td>C/ de la Solanilla, 11</td>
+<td>II</td>
+<td>Bajantes</td>
+</tr>
+<tr>
+<td>HG-009</td>
+<td>C/ Esgueva, 12</td>
+<td>II</td>
+<td>Bajante + celosía (puerta entrada)</td>
+</tr>
+<tr>
+<td>HG-010</td>
+<td>C/ López Gómez, 12</td>
+<td>III</td>
+<td>Cuatro bajantes</td>
+</tr>
+<tr>
+<td>HG-011</td>
+<td>C/ López Gómez, 10</td>
+<td>III</td>
+<td>Dos bajantes</td>
+</tr>
+<tr>
+<td>HG-012</td>
+<td>C/ López Gómez, 8</td>
+<td>II</td>
+<td>Bajante</td>
+</tr>
+<tr>
+<td>HG-013</td>
+<td>C/ López Gómez, 8</td>
+<td>II</td>
+<td>Balcones y adorno forjado</td>
+</tr>
+<tr>
+<td>HG-014</td>
+<td>C/ López Gómez, 6</td>
+<td>II</td>
+<td>Dos bajantes</td>
+</tr>
+<tr>
+<td>HG-015</td>
+<td>C/ López Gómez, 6</td>
+<td>II</td>
+<td>Balcón y decoración de puerta</td>
+</tr>
+<tr>
+<td>HG-016</td>
+<td>C/ López Gómez, 4</td>
+<td>II</td>
+<td>Dos bajantes</td>
+</tr>
+<tr>
+<td>HG-017</td>
+<td>C/ Miguel Íscar, 8</td>
+<td>II</td>
+<td>Bajante</td>
+</tr>
+<tr>
+<td>HG-018</td>
+<td>C/ Miguel Íscar, 8</td>
+<td>II</td>
+<td>Balcón con celosía</td>
+</tr>
+<tr>
+<td>HG-019</td>
+<td>C/ Miguel Íscar, 8</td>
+<td>II</td>
+<td>Celosía de filigrana</td>
+</tr>
+<tr>
+<td>HG-020</td>
+<td>Campo Grande (Paseo del Príncipe)</td>
+<td>IV</td>
+<td>Tapa de registro</td>
+</tr>
+<tr>
+<td>HG-021</td>
+<td>Plaza Mayor</td>
+<td>IV</td>
+<td>Farolas (desaparecidas)</td>
+</tr>
+<tr>
+<td>HG-022</td>
+<td>Paseo de Zorrilla</td>
+<td>II</td>
+<td>Plaza de toros (promotor)</td>
+</tr>
+<tr>
+<td>HG-023</td>
+<td>C/ Francisco de Zarandona, 8</td>
+<td>III</td>
+<td>Columnas Mercado del Val</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Fuentes</h2>
+<ul>
+<li><code>raw/CONSTRUYENDO FICHAS.docx</code> — fichas de campo con fotografías (fuente principal de esta página)</li>
+<li><a href="talleres_gabilondo.html">Talleres Gabilondo</a> — historia de la empresa</li>
+<li><a href="leto_gabilondo.html">Leto Gabilondo</a> — director período II</li>
+<li><a href="elvira_manso.html">Elvira Manso</a> — directora períodos III y IV</li>
+<li>Archivo Municipal de Valladolid — actas municipales, contratos de adjudicación, proyecto Plaza Mayor 1906</li>
+</ul>
+<h2>Por documentar</h2>
+<ul>
+<li>Signatura exacta del expediente de la Plaza Mayor (1906) en el Archivo Municipal</li>
+<li>Identificación de la persona o empresa detrás de las iniciales <em>J.D. 1896</em> (HG-006 y HG-009)</li>
+<li>Localización de elementos similares en Medina del Campo</li>
+<li>Piezas con sello <em>Viuda de Leto Gabilondo</em> en otras calles del ensanche</li>
+<li>Estado actual de conservación de HG-017 (bajante en mal estado, C/ Miguel Íscar 8)</li>
+</ul>
+    </main>
+  </div>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: false, theme: 'neutral' });
+    document.querySelectorAll('pre code.language-mermaid').forEach(el => {
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = el.textContent;
+      el.parentElement.replaceWith(div);
+    });
+    await mermaid.run();
+
+    document.querySelectorAll('.mermaid svg').forEach(svg => {
+      const wrap = document.createElement('div');
+      wrap.className = 'mermaid-wrap';
+      svg.parentNode.insertBefore(wrap, svg);
+      wrap.appendChild(svg);
+      const btn = document.createElement('button');
+      btn.textContent = '⛶ Pantalla completa';
+      btn.className = 'mermaid-fs-btn';
+      wrap.appendChild(btn);
+      btn.addEventListener('click', () => openFullscreen(svg));
+    });
+
+    function openFullscreen(svg) {
+      const overlay = document.createElement('div');
+      overlay.className = 'mermaid-overlay';
+
+      const toolbar = document.createElement('div');
+      toolbar.className = 'mermaid-toolbar';
+      const hint = document.createElement('span');
+      hint.textContent = 'Arrastra para mover · Rueda del ratón para zoom';
+      hint.style.cssText = 'font-size:0.8rem;color:#666;flex:1';
+      const resetBtn = document.createElement('button');
+      resetBtn.textContent = '⟳ Restablecer';
+      resetBtn.className = 'mermaid-reset-btn';
+      const closeBtn = document.createElement('button');
+      closeBtn.textContent = '✕ Cerrar';
+      closeBtn.className = 'mermaid-close-btn';
+      toolbar.append(hint, resetBtn, closeBtn);
+
+      const viewport = document.createElement('div');
+      viewport.className = 'mermaid-viewport';
+      viewport.style.cursor = 'grab';
+      const clone = svg.cloneNode(true);
+      clone.removeAttribute('width');
+      clone.removeAttribute('height');
+      clone.style.cssText = 'width:auto;height:90%;max-width:none;transform-origin:center;';
+      viewport.appendChild(clone);
+
+      overlay.append(toolbar, viewport);
+      document.body.appendChild(overlay);
+      overlay.tabIndex = 0;
+      overlay.focus();
+
+      let tx = 0, ty = 0, scale = 1, dragging = false, sx = 0, sy = 0;
+      const apply = () => clone.style.transform = `translate(${tx}px,${ty}px) scale(${scale})`;
+
+      viewport.addEventListener('mousedown', e => {
+        dragging = true; sx = e.clientX - tx; sy = e.clientY - ty;
+        viewport.style.cursor = 'grabbing'; e.preventDefault();
+      });
+      window.addEventListener('mousemove', e => {
+        if (!dragging) return; tx = e.clientX - sx; ty = e.clientY - sy; apply();
+      });
+      window.addEventListener('mouseup', () => { dragging = false; viewport.style.cursor = 'grab'; });
+      viewport.addEventListener('wheel', e => {
+        e.preventDefault();
+        scale = Math.min(Math.max(scale * (e.deltaY < 0 ? 1.1 : 0.9), 0.1), 8);
+        apply();
+      }, { passive: false });
+
+      resetBtn.addEventListener('click', () => { tx = 0; ty = 0; scale = 1; apply(); });
+      closeBtn.addEventListener('click', () => overlay.remove());
+      overlay.addEventListener('keydown', e => { if (e.key === 'Escape') overlay.remove(); });
+    }
+  </script>
+</body>
+</html>
